@@ -4,7 +4,7 @@ Timely-RL trains an 8B LLM with a timer tool using SFT and GRPO, with zero rewar
 
 ![Timely-RL](../assets/gifs/timely-rl.png)
 
-*A diagram from the paper: a timer adds up scaled inference time and tool execution time while the model works, and the episode either returns an answer or times out. Source: [Figure 1 from Ma et al., "Timely-RL" (arXiv 2601.16486)](https://arxiv.org/abs/2601.16486).*
+*A figure from the paper: score against time budget on four Jericho text-adventure games (Zork1, Advent, Enchanter, Detective), with the paper's model (Timer-LM, dashed orange) against DeepSeek-V3.2, GPT-5.1, Gemini 2.5 Pro and Qwen3 models. Panels rearranged into a 2x2 grid. Source: [Figure 4(b) from Ma et al., "Timely-RL" (arXiv 2601.16486)](https://arxiv.org/abs/2601.16486).*
 
 | | |
 |---|---|
