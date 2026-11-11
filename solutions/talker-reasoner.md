@@ -2,6 +2,10 @@
 
 Talker-Reasoner pairs a fast talker with a slow reasoner sharing memory.
 
+![Talker-Reasoner dual-agent diagram](../assets/gifs/sol-talker-reasoner.jpg)
+
+*Diagram (paper Figure 1): the fast Talker agent converses with the user and world, while the slow Reasoner agent runs multi-step reason-act-extract loops and writes agent beliefs (user goals, barriers, habits) that the Talker reads. Source: [Christakopoulou et al., arXiv 2410.08328](https://arxiv.org/abs/2410.08328).*
+
 | | |
 |---|---|
 | Year | 2024 |

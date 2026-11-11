@@ -2,6 +2,10 @@
 
 Realtime-Bench is a benchmark of 50 web and game tasks, each with a programmatic success check, run under wall, token and paused clocks.
 
+![Realtime-Bench](../assets/gifs/realtime-bench.gif)
+
+*A recording of GPT-6-Astra (high effort) playing White in Realtime-Bench's Timed Chess in wall-clock mode, sped up 11x: its queen raids Black's pieces while its 2:00 clock runs down to 0:39 (this run scored reward 1.0). Source: [Trial recording from the Realtime-Bench Harbor trajectory browser (realtimeagents.org/harbor)](https://realtimeagents.org/harbor/).*
+
 | | |
 |---|---|
 | Year | 2026 |

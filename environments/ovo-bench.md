@@ -2,6 +2,10 @@
 
 OVO-Bench is an offline-replay streaming video benchmark with query timestamps.
 
+![OVO-Bench task examples with clue and query timestamps](../assets/gifs/ovo-bench.jpg)
+
+*Paper figure (not footage) showing one example question per task in the three groups (Backward Tracing, Real-Time Visual Perception, Forward Active Responding), each with a film strip marking the clue, query and misleading timestamps. Source: [Li et al., OVO-Bench (arXiv 2501.05510), Figure 2](https://arxiv.org/abs/2501.05510).*
+
 | | |
 |---|---|
 | Year | 2025 |

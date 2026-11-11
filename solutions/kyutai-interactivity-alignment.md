@@ -2,6 +2,10 @@
 
 Kyutai interactivity alignment runs GRPO on the text stream of Moshi and PersonaPlex with rule-based timing rewards and a KL anchor.
 
+![Kyutai interactivity alignment](../assets/gifs/kyutai-interactivity-alignment.png)
+
+*Figure from the paper: a conversation context goes into the full-duplex speech model, its sampled replies are scored with timing rewards (+1.6, -0.5, -1.1) and the scores feed back through GRPO. Source: [Figure 1 from Ohashi, Zeghidour, Defossez, Kharitonov (Kyutai), arXiv 2606.11167](https://arxiv.org/abs/2606.11167).*
+
 | | |
 |---|---|
 | Year | 2026 |

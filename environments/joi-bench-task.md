@@ -2,6 +2,10 @@
 
 Joi-Bench-Task is a speech benchmark in which users intervene while the agent speaks or runs tools.
 
+![Joi-Bench-Task live interaction loop between user simulator, voice agent and asynchronous tools](../assets/gifs/joi-bench-task.jpg)
+
+*Diagram (cropped from the paper's Figure 1) of the live interaction loop: a user simulator and a voice agent exchange speech on a tick-based simulation clock (0.2 s per tick) while asynchronous tools keep executing. Source: [He et al., arXiv 2611.12118](https://arxiv.org/abs/2611.12118).*
+
 | | |
 |---|---|
 | Year | 2026 |

@@ -2,6 +2,10 @@
 
 LiveCC is a streaming video LLM.
 
+![LiveCC-7B-Instruct commenting word by word as a hand writes on a whiteboard](../assets/gifs/sol-livecc.gif)
+
+*Recording from the official teaser: LiveCC-7B-Instruct streams commentary ("Hi, ...", "welcome ...") over a live whiteboard-writing video, with a "Video Time" overlay counting from 6 s to 11 s. Source: [LiveCC project page](https://showlab.github.io/livecc/).*
+
 | | |
 |---|---|
 | Category | realtime architecture (streaming video LLM) |

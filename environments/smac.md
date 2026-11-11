@@ -2,6 +2,10 @@
 
 SMAC and SMACv2 are step-locked StarCraft II multi-agent micro battles.
 
+![SMACv2 protoss 20 vs 20 battle replay](../assets/gifs/smac.gif)
+
+*Recording of a StarCraft II replay of trained MARL policies in the SMACv2 protoss 20 vs 20 scenario, with the replay clock (in-game time, about 2:26 to 2:30) at right; the bottom UI panel is cropped out. Source: [SMACv2 authors, "protoss 20 vs 20" video](https://www.youtube.com/watch?v=GOutN3hWAcc).*
+
 | | |
 |---|---|
 | Year | 2019 |

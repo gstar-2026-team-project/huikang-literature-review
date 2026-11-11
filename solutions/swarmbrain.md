@@ -2,6 +2,10 @@
 
 SwarmBrain combines an LLM strategy with a reflex state machine for StarCraft II against the built-in AI.
 
+![SwarmBrain Zerg-vs-Terran game in the StarCraft II replay viewer](../assets/gifs/sol-swarmbrain.gif)
+
+*Recording of a SwarmBrain (Zerg) game against the built-in Terran AI, played back in the StarCraft II replay viewer at "Faster" speed around 7:45 of 13:23, with the video's own cut between the Zerg base and the Terran army. Source: [authors' demo video on YouTube](https://www.youtube.com/watch?v=-F0PQJPI4HM).*
+
 | | |
 |---|---|
 | Year | 2024 |

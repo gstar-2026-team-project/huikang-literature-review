@@ -2,6 +2,10 @@
 
 stable-retro (Gym Retro) steps console emulators one frame at a time at 60 Hz.
 
+![Virtua Fighter 32X round in RetroArch with a trained model controlling one fighter](../assets/gifs/stable-retro.gif)
+
+*Screen recording (cropped to the game window, normal speed) of a Virtua Fighter 32X round in a custom RetroArch build where a PyTorch model trained with stable-retro overrides one player's input; the in-game round timer is visible. Source: [MatPoliquin / videogames.ai, RetroArch + ML models video linked from the stable-retro README](https://www.youtube.com/watch?v=hkOcxJvJVjk).*
+
 | | |
 |---|---|
 | Year | 2018 |

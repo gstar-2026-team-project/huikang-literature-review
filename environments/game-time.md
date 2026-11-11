@@ -2,6 +2,10 @@
 
 Game-Time is a speech benchmark of timing tasks (wait N seconds before answering, finish within a duration, keep a tempo, speak on a cue) with dual-channel evaluation.
 
+![Game-Time overview: user and agent audio channels in Rock-Paper-Scissors, plus time, tempo and simultaneity task examples](../assets/gifs/game-time.png)
+
+*Paper diagram (Figure 1) of the benchmark: the agent must say its choice on the user's "Shoot!" in a separate audio channel, with example Time, Tempo and Simul. constraints below. Source: [Game-Time, arXiv 2509.26388](https://arxiv.org/abs/2509.26388).*
+
 | | |
 |---|---|
 | Year | 2025 |

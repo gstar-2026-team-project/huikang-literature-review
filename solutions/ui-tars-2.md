@@ -2,6 +2,10 @@
 
 UI-TARS-2 is a VLM trained with multi-turn RL in a sandbox and evaluated on 15 browser games.
 
+![UI-TARS-2 multi-turn RL infrastructure diagram](../assets/gifs/sol-ui-tars-2.png)
+
+*Diagram (paper Figure 6) of the multi-turn RL training setup: a policy server and environment server (GUI, game, MCP, code) roll out action-observation turns, and a reward server scores finished trajectories into a partially filled rollout pool that updates the policy. Source: [UI-TARS-2 paper, arXiv 2509.02544](https://arxiv.org/abs/2509.02544).*
+
 | | |
 |---|---|
 | Year | 2025 |

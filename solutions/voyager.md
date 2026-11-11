@@ -2,6 +2,10 @@
 
 Voyager is an LLM agent that writes Mineflayer JavaScript skills for Minecraft.
 
+![Voyager agent building a wooden house in Minecraft](../assets/gifs/sol-voyager.gif)
+
+*Recording of the Voyager agent placing log and stone blocks to build a house with human feedback, from the authors' edited gallery clip, played at 3x speed and cropped. Source: [Voyager project page](https://voyager.minedojo.org/).*
+
 | | |
 |---|---|
 | Year | 2023-25 |

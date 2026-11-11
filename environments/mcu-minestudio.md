@@ -2,6 +2,10 @@
 
 MCU is a Minecraft evaluation suite that runs on MineStudio's vendored copy of the MineRL simulator, with 20 Hz synchronous stepping.
 
+![Agent with a diamond sword approaching an Enderman in Minecraft](../assets/gifs/mcu-minestudio.gif)
+
+*Recorded episode of an agent doing the MCU "Combat Enderman" task in the MineStudio simulator, closing in on a summoned Enderman (4 s excerpt, real speed). Source: [MCU project page, CraftJarvis](https://craftjarvis.github.io/MCU/).*
+
 | | |
 |---|---|
 | Year | 2016-22 |

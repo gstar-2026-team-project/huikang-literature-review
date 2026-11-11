@@ -2,6 +2,10 @@
 
 MiniCPM-o 4.5 is a 9B model on a Qwen3-8B backbone that uses time-division multiplexing on a shared time axis with a listen/speak control token per window.
 
+![MiniCPM-o 4.5 proactively narrating an elevator floor display](../assets/gifs/sol-minicpm-o-4-5.gif)
+
+*Recording (cropped, 6 fps) of a live MiniCPM-o 4.5 session from the "Elevator Arrival Reminding" case: as the elevator display climbs from 19 to 22, the model's real-time spoken reply appears as Chinese subtitles ("the elevator started from floor 16 ... now it is floor 20, almost at 24"). Source: [OpenBMB MiniCPM-o 4.5 Omni Cases](https://openbmb.github.io/minicpm-o-4_5-omni/).*
+
 | | |
 |---|---|
 | Year | 2026 |

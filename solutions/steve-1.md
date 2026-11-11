@@ -2,6 +2,10 @@
 
 STEVE-1 is a Minecraft model listed with the VPT line on the 20 Hz native interface with a synchronous simulator.
 
+![STEVE-1 architecture: MineCLIP text embedding, CVAE prior, VPT policy](../assets/gifs/sol-steve-1.png)
+
+*Paper figure (diagram) of STEVE-1: a text instruction is encoded by frozen MineCLIP, a CVAE prior turns it into a visual goal embedding, and a VPT transformer policy conditioned on that goal outputs mouse/keyboard actions from Minecraft frames. Source: [Lifshitz et al., STEVE-1 (arXiv 2306.00937), Fig. 1](https://arxiv.org/abs/2306.00937).*
+
 | | |
 |---|---|
 | Year | 2022-25 |

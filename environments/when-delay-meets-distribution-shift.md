@@ -2,6 +2,10 @@
 
 When Delay Meets Distribution Shift is a robotics setting with simulated asynchronous execution in which queued actions run while the policy computes.
 
+![Success rate versus added latency for four execution modes](../assets/gifs/when-delay-meets-distribution-shift.png)
+
+*Result plot from the authors' artifact repo: task success for blocking-sync, naive-async and RTC execution at native latency, the native\_plus\_300 and native\_plus\_700 delay profiles, against an ideal no-latency synchronous run. Source: [vla-latency-benchmark-23CB (anonymous repo)](https://anonymous.4open.science/r/vla-latency-benchmark-23CB/async_vla_benchmark/outputs/figures/success_vs_delay.png).*
+
 | | |
 |---|---|
 | Year | 2026 |

@@ -2,6 +2,10 @@
 
 MineDojo is a Minecraft environment with 20 Hz synchronous stepping.
 
+![Ender dragon fight in MineDojo](../assets/gifs/minedojo.gif)
+
+*A 4.5 s excerpt (15-19.5 s) of the project page's "Fight against an Ender dragon" clip, a first-person recording of the task in Minecraft at normal speed; the page does not say whether a human or an agent played it. Source: [MineDojo project page](https://minedojo.org/).*
+
 | | |
 |---|---|
 | Year | 2016-22 |

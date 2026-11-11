@@ -2,6 +2,10 @@
 
 Realtime-Venus is a full-duplex model whose front-end delegates to a background harness.
 
+![Realtime-Venus delegation demo with Listen/Speak/Delegate status](../assets/gifs/sol-realtime-venus.gif)
+
+*Screen capture of the authors' recorded "See the city. Find a flight." demo (00:12-00:19) on the project page, showing the Delegate status turning active and a Harness flight-search entry appearing while the conversation continues; real-time playback of a pre-recorded session. Source: [Realtime-Venus project page](https://realtime-venus.github.io/#demos).*
+
 | | |
 |---|---|
 | Year | 2026 |

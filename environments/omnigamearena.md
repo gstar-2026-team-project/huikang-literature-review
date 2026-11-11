@@ -2,6 +2,10 @@
 
 OmniGameArena is a set of 12 new Unreal Engine 5 games played paused (PDQ) or with model inference time charged to the game clock (LCRT).
 
+![OmniGameArena](../assets/gifs/omnigamearena.gif)
+
+*A recording of GPT-5.5 playing LastStand in OmniGameArena's latency-charged mode: the countdown clock keeps running (01:44 to 01:32) while tiles flash red and drop away, and the clip ends on "GAME OVER" when the character falls. Source: [Clip from the OmniGameArena project page (mxlin043.github.io/OmniGameArena)](https://mxlin043.github.io/OmniGameArena/).*
+
 | | |
 |---|---|
 | Year | 2026 |

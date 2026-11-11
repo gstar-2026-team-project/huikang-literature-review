@@ -2,6 +2,10 @@
 
 DPT-Agent is a scaffold in which an FSM rewritten by the LLM acts every tick, with asynchronous reflection and theory of mind.
 
+![DPT-Agent and a human cooking burgers in Overcooked](../assets/gifs/sol-dpt-agent.gif)
+
+*Recording of DPT-Agent (red hat) and a human (blue hat) sharing the central counter in an Overcooked burger kitchen, with score and time_left shown; the source clip appears sped up (time_left drops about 6 units per second). Source: [DPT-Agent project page](https://sjtu-marl.github.io/DPT-Agent-page/).*
+
 | | |
 |---|---|
 | Year | 2025 |

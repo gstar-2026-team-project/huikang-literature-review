@@ -2,6 +2,10 @@
 
 FTW is a Quake III CTF agent that reacts in 258 ms against 559 ms for humans, with a post-hoc added-delay study.
 
+![FTW agents playing indoor Capture the Flag](../assets/gifs/sol-ftw.gif)
+
+*Recording of four trained FTW agents playing indoor Capture the Flag: Blue 1's raw-pixel observation (large), its teammate's and opponents' views (bottom) and a top-down map overview; real-time 5 s excerpt. Source: [DeepMind, "Capture the Flag: from pixels to actions"](https://www.youtube.com/watch?v=OjVxXyp7Bxw).*
+
 | | |
 |---|---|
 | Year | 2018-19 |

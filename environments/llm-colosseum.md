@@ -2,6 +2,10 @@
 
 LLM Colosseum has two LLMs fight in Street Fighter III via DIAMBRA while the game keeps stepping.
 
+![Two LLM-controlled Ken vs Ken matches in Street Fighter III with round timers counting down](../assets/gifs/llm-colosseum.gif)
+
+*Screen recording of two simultaneous DIAMBRA Arena Street Fighter III matches between LLM-controlled fighters (Mistral 7B vs GPT-4), with round timers counting down, from the original Python version; cropped to the game windows. Source: [OpenGenerativeAI demo video](https://www.youtube.com/watch?v=Kk8foX3dm2I).*
+
 | | |
 |---|---|
 | Year | 2024 |

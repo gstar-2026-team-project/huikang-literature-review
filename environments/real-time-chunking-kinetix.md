@@ -2,6 +2,10 @@
 
 The Real-Time Chunking benchmark is "a new benchmark of 12 highly dynamic tasks in the Kinetix simulator" with injected delay, plus 6 real bimanual tasks.
 
+![Eight of the Kinetix benchmark levels](../assets/gifs/real-time-chunking-kinetix.jpg)
+
+*Still renders of eight of the 12 Kinetix levels used in the benchmark (car launch, catcher, cartpole thrust, grasp, half cheetah, trampoline, lunar lander, walker), tiled into a grid from the paper's Figure 5 level images. Source: [Black, Galliker and Levine, arXiv 2506.07339](https://arxiv.org/html/2506.07339v2).*
+
 | | |
 |---|---|
 | Year | 2025 |

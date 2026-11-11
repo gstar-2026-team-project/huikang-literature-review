@@ -2,6 +2,10 @@
 
 ROAR is a Unity arena shooter run as a "Multi-Agent Asynchronous Gym" in which the environment advances every fixed interval without waiting for inference.
 
+![ROAR](../assets/gifs/roar.gif)
+
+*Recorded clip of Gemini-3.1 Pro in ROAR's real-time mode (40 ms tick): the game clock runs from 03:04 to 02:57 while the agent stands aiming and turret fire drops its health from 100 to 16. Source: [Clip from the ROAR GitHub README (github.com/tb6147877/ROAR), by Dawei Wang et al.](https://github.com/tb6147877/ROAR).*
+
 | | |
 |---|---|
 | Year | 2026 |

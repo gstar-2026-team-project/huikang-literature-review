@@ -2,6 +2,10 @@
 
 HIMA is a scaffold in which small fine-tuned agents propose long build sequences and a planner is called about 11 times a game in StarCraft II.
 
+![HIMA playing StarCraft II with agent proposals and planner decision overlaid](../assets/gifs/sol-hima.gif)
+
+*Recording of a HIMA vs built-in Elite AI StarCraft II game in the replay viewer at "Faster x4" (sped up; in-game clock bottom-left of the minimap), with an edited overlay of the player state, three imitation agents' build-order proposals and the planner's final decision. Source: [HIMA official video (YouTube)](https://www.youtube.com/watch?v=AEqLN2pz9ns).*
+
 | | |
 |---|---|
 | Year | 2025 |

@@ -2,6 +2,10 @@
 
 The Arcade Learning Environment (ALE) steps Atari 2600 games synchronously at 60 Hz with frameskip, and is highly convertible to realtime with a wrapper.
 
+![Atari Breakout gameplay in ALE](../assets/gifs/ale-atari.gif)
+
+*Breakout as rendered by ALE: a 6 s excerpt of the pre-recorded gameplay GIF from the official ALE docs (agent unspecified), upscaled to 360 px. Source: [Farama ALE docs, Breakout](https://ale.farama.org/environments/breakout/).*
+
 | | |
 |---|---|
 | Year | 2013 |

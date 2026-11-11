@@ -2,6 +2,10 @@
 
 dGSLM is a textless model over two audio channels.
 
+![dGSLM dual-tower dialogue transformer diagram](../assets/gifs/sol-dgslm.jpg)
+
+*Diagram (paper Figure 2) of the Dialogue Transformer Language Model: two towers with shared weights, one per speaker's unit channel, linked by cross-attention layers and trained to predict edge units and their durations. Source: [Nguyen et al., arXiv 2203.16502](https://arxiv.org/abs/2203.16502).*
+
 | | |
 |---|---|
 | Year | 2022 |

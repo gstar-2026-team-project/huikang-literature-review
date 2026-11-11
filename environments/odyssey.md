@@ -2,6 +2,10 @@
 
 Odyssey is a Minecraft code agent that writes Mineflayer JavaScript skills, with the server paused during LLM calls.
 
+![Odyssey bot fights and kills a zombie in a Minecraft arena](../assets/gifs/odyssey.gif)
+
+*Recording of the Odyssey agent fighting a zombie with a sword in a walled arena, with its skill outputs in the chat log ("Sword equipped.", "Killed zombie!"); a 6 s excerpt of the authors' spectator-mode demo, which the README says may be sped up. Source: [Odyssey README demo, combatDemo.mp4](https://github.com/zju-vipa/Odyssey#demo).*
+
 | | |
 |---|---|
 | Year | 2023-25 |

@@ -2,6 +2,10 @@
 
 LiveMind infers on a partial prompt while input streams.
 
+![LiveMind Gradio demo: conventional CoT vs LiveMind on streaming input](../assets/gifs/sol-livemind.gif)
+
+*Screen recording of the official Gradio demo, sped up 20x (full 110 s clip): as a word problem is typed in, LiveMind (right) fills its Actions box with partial inferences and answers in one line once input ends, while conventional chain-of-thought (left) waits and then writes a long answer. Source: [LiveMind README demo video](https://github.com/ChuangtaoChen-TUM/LiveMind).*
+
 | | |
 |---|---|
 | Year | 2024 |

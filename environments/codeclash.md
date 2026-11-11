@@ -2,6 +2,10 @@
 
 In CodeClash agents edit code between rounds and the code competes in arenas.
 
+![RobotRumble match replay in CodeClash](../assets/gifs/codeclash.gif)
+
+*Recorded replay of a RobotRumble match between two agent-written bots (blue vs pink), stepping through turns with a turn counter, sped up 4x. Source: [CodeClash RobotRumble arena page](https://codeclash.ai/arenas/robotrumble/).*
+
 | | |
 |---|---|
 | Year | 2025 |

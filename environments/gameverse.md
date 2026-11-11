@@ -2,6 +2,10 @@
 
 GameVerse is a 15-game benchmark, paused by default, in which Snake and Plants vs. Zombies have Stop / Slow / Normal settings and Normal is realtime.
 
+![VLM agent playing GameVerse Snake in real-time mode with game clock](../assets/gifs/gameverse.gif)
+
+*Recording of a VLM agent playing Snake in Real-time mode, with the in-game clock (Time x/1200s, Action Timeout 10.0) running while the model thinks; the authors' clip is sped up (about 106 s of game time in 6 s). Source: [GameVerse project page](https://gameverse-bench.github.io/).*
+
 | | |
 |---|---|
 | Year | 2026 |

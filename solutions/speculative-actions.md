@@ -2,6 +2,10 @@
 
 In Speculative Actions a fast model guesses the slow actor's next step, which is pre-executed and committed on a match.
 
+![Speculative Actions timeline in chess](../assets/gifs/sol-speculative-actions.jpg)
+
+*Paper figure (diagram, Figure 1) comparing a non-speculative chess turn with one where a fast Speculator guesses candidate moves, pre-launches the Actor's next calls, and commits the matching one to save time. Source: [Speculative Actions paper, arXiv 2510.04371](https://arxiv.org/abs/2510.04371).*
+
 | | |
 |---|---|
 | Year | 2025 |

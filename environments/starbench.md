@@ -2,6 +2,10 @@
 
 StarBench is "A Turn-Based RPG Benchmark".
 
+![StarBench direct-control and tool-assisted interaction protocols on Honkai: Star Rail screenshots](../assets/gifs/starbench.jpg)
+
+*Paper figure (diagram) of the two interaction protocols: (i) direct control, where the VLM maps a resized Honkai: Star Rail combat screenshot to mouse/keyboard actions, and (ii) tool-assisted, where YOLOv8 detections and PaddleOCR text are added to the prompt and the model picks a high-level action. Source: [Zhang, Zhu et al., StarBench, arXiv 2510.18483, Figure 2](https://arxiv.org/html/2510.18483v1).*
+
 | | |
 |---|---|
 | Year | 2024-26 |

@@ -2,6 +2,10 @@
 
 The NetHack Learning Environment is a turn-based roguelike with a step loop.
 
+![Agent exploring a NetHack dungeon in NLE](../assets/gifs/nethack-le.gif)
+
+*Recording from the NLE README of an RL agent exploring the NetHack terminal map, from the intro text to dungeon level 3 (turn counter T:1 to T:152), sped up 4x. Source: [NLE README example GIF](https://github.com/NetHack-LE/nle/raw/main/dat/nle/example_run.gif).*
+
 | | |
 |---|---|
 | Year | 2018-20 |

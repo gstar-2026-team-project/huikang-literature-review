@@ -2,6 +2,10 @@
 
 AmongAgents is an Among Us game that "repeatedly switches between two phases (Task Phase and Meeting Phase)".
 
+![AmongAgents game interface showing the ship map, player circles, step log and task progress bar](../assets/gifs/amongagents.png)
+
+*Screenshot of the AmongAgents game interface during the task phase (paper Figure 9, a still, not a recording): coloured circles are LLM players on the ship map, the log lists each step's actions, and the bar shows crew task progress. Source: [Chi et al., AmongAgents, arXiv 2407.16521](https://arxiv.org/html/2407.16521v2).*
+
 | | |
 |---|---|
 | Year | 2024 |

@@ -2,6 +2,10 @@
 
 Physical Atari runs ALE free-running at 60 Hz, played by a robot at 30 FPS with about 165 ms latency through a physical joystick.
 
+![Three Robotrollers moving Atari joysticks in front of game screens](../assets/gifs/physical-atari.gif)
+
+*A 4 s recording (cropped, real speed) of three Robotrollers moving CX40+ joysticks while three Atari Devbox screens show the games; no clock is visible. Source: [Keen Technologies, Physical Atari project page](https://keenagi.com/research/physical-atari/).*
+
 | | |
 |---|---|
 | Year | 2026 |

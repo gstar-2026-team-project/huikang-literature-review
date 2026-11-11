@@ -2,6 +2,10 @@
 
 CivRealm is a turn-based Civilization-style environment with a step/turn loop.
 
+![CivRealm Freeciv-web game interface on a Mediterranean map](../assets/gifs/civrealm.jpg)
+
+*Still screenshot of the CivRealm Freeciv-web game interface on a Mediterranean (Punic Wars) map with Roman, Carthaginian, Greek and Egyptian cities and units, from Figure 1(a) of the paper. Source: [CivRealm paper, ICLR 2024 (arXiv 2401.10568)](https://arxiv.org/abs/2401.10568).*
+
 | | |
 |---|---|
 | Year | 2024-26 |

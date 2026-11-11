@@ -2,6 +2,10 @@
 
 Odysseus scales RL on a VLM to 100+ turn episodes with PPO and a lightweight turn-level critic.
 
+![Odysseus-trained VLM playing Super Mario Land World 1-1](../assets/gifs/sol-odysseus.gif)
+
+*Recorded rollout of the Odysseus-trained Qwen3-VL-8B in Super Mario Land World 1-1 (5 s clip from the authors' 60 fps render, cropped to the game frame; the model's per-turn reasoning text beside it is cut off), with the in-game TIME counter visible. Source: [Odysseus project page](https://odysseus-project.github.io/).*
+
 | | |
 |---|---|
 | Year | 2026 |

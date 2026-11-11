@@ -2,6 +2,10 @@
 
 BudgetThinker inserts periodic remaining-budget tokens and trains with SFT and RL.
 
+![BudgetThinker control tokens example and training curve](../assets/gifs/sol-budgetthinker.png)
+
+*Figure from the paper: (a) an example answer with periodic control tokens reporting the remaining budget (7/8 down to 0/8), and (b) a plot showing that control tokens shrink the length-budget gap during training. Source: [Wen et al., BudgetThinker, arXiv 2508.17196, Figure 1](https://arxiv.org/html/2508.17196).*
+
 | | |
 |---|---|
 | Year | 2025 |

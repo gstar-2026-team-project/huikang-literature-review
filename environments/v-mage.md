@@ -2,6 +2,10 @@
 
 V-MAGE is a set of five pygame-style games with 30+ levels, played from pixels with explicit frame-pausing during inference.
 
+![GPT-4o playing V-MAGE SuperMario level 1](../assets/gifs/v-mage.gif)
+
+*Recording of GPT-4o playing SuperMario level 1 during evaluation, a 6 s excerpt of the authors' clip; the clip strings together one screenshot per game step, so its pace is not real time, and the in-game TIME counter counts game steps. Source: [V-MAGE project page (CSU-JPG)](https://csu-jpg.github.io/V-MAGE/).*
+
 | | |
 |---|---|
 | Year | 2025 |

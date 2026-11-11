@@ -2,6 +2,10 @@
 
 PersonaPlex is NVIDIA's follow-up to Moshi with role and voice conditioning.
 
+![PersonaPlex live voice-chat UI with model and user audio meters and transcripts](../assets/gifs/sol-personaplex.gif)
+
+*Recording from NVIDIA's intro video of a live voice chat with PersonaPlex (5 s clip at real speed, audio removed): the green meter is the model speaking and the grey meter is the user, with each side's words transcribed below. Source: [NVIDIA ADLR PersonaPlex project page](https://research.nvidia.com/labs/adlr/personaplex/).*
+
 | | |
 |---|---|
 | Year | 2026 |

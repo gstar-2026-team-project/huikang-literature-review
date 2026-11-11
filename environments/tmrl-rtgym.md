@@ -2,6 +2,10 @@
 
 tmrl runs TrackMania at 20 Hz with an elastic wall-clock time step, and `rtgym` is a ready-made wall-clock wrapper for any step-locked environment.
 
+![tmrl policy driving TrackMania with LIDAR beams overlaid](../assets/gifs/tmrl-rtgym.gif)
+
+*Recording of a tmrl policy driving in TrackMania 2020, with the blue LIDAR beams it observes drawn over the game view; cropped from the README GIF. Source: [tmrl README GIF (trackmania-rl)](https://github.com/trackmania-rl/tmrl).*
+
 | | |
 |---|---|
 | Year | 2021 |

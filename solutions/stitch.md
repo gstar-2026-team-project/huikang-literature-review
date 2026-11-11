@@ -2,6 +2,10 @@
 
 STITCH interleaves reasoning chunks with spoken chunks so reasoning costs no extra latency.
 
+![STITCH-S emitting interleaved reasoning, text and speech tokens](../assets/gifs/sol-stitch.gif)
+
+*The authors' illustrative animation (not a recording of a live run, sped up 2x) of STITCH-S taking speech input and emitting chunks of reasoning (green), text (yellow) and speech (red) tokens while the audio output streams above. Source: [STITCH project page](https://d223302.github.io/STITCH/).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

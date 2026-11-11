@@ -2,6 +2,10 @@
 
 Orak fine-tuning is SFT of small Llama models on LLM trajectories across Orak's 12 games.
 
+![Orak Table 7: Llama-3.2-1B/3B scores before and after fine-tuning](../assets/gifs/sol-orak-fine-tuning.png)
+
+*Table 7 of the paper (screenshot of the arXiv HTML version), comparing Llama-3.2-1B and 3B with and without SFT on Orak trajectories across in-domain games, out-of-domain games (Super Mario, 2048) and non-game tasks. Source: [Park et al., arXiv 2506.03610](https://arxiv.org/html/2506.03610v3).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

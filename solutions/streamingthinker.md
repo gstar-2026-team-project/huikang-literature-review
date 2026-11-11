@@ -2,6 +2,10 @@
 
 StreamingThinker reasons while the prompt streams, with separate position IDs and parallel KV caches.
 
+![Batch thinking versus streaming thinking schematic](../assets/gifs/sol-streamingthinker.gif)
+
+*The authors' schematic animation (not a model run), sped up 3x: batch thinking waits for the whole word problem before prefill and thinking, while streaming thinking prefills and thinks after each arriving sentence. Source: [StreamingThinker project page](https://jl-tong.github.io/streamingthinker).*
+
 | | |
 |---|---|
 | Year | 2025 |

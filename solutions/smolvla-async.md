@@ -2,6 +2,10 @@
 
 SmolVLA's async mode refills the action queue asynchronously, decoupling action execution from policy inference.
 
+![SmolVLA arm picking a cube under async inference](../assets/gifs/sol-smolvla-async.gif)
+
+*Recording at 1x speed of a low-cost robot arm running SmolVLA with async inference, reaching for a red cube while a person handles it; cropped from the async half of the authors' sequential-vs-async comparison video. Source: [Hugging Face, Asynchronous Robot Inference blog](https://huggingface.co/blog/async-robot-inference).*
+
 | | |
 |---|---|
 | Year | 2025 |

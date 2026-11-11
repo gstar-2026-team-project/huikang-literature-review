@@ -2,6 +2,10 @@
 
 D2E provides an open recorder with synchronised screen and input timestamps.
 
+![Brotato gameplay with D2E Generalist-IDM inferred keyboard and mouse actions overlaid](../assets/gifs/sol-d2e.gif)
+
+*Recording of human Brotato play from YouTube (wave timer visible) with the Generalist-IDM's inferred keyboard and mouse actions overlaid below; this is offline action labeling, not an agent playing. Source: [D2E project page](https://worv-ai.github.io/d2e/).*
+
 | | |
 |---|---|
 | Links | [arXiv 2510.05684](https://arxiv.org/abs/2510.05684) |

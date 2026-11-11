@@ -2,6 +2,10 @@
 
 SmartPlay is a text game benchmark stepped once per model query.
 
+![SmartPlay teaser: six games feeding one text API to LLM agents](../assets/gifs/smartplay.jpg)
+
+*Paper figure (Figure 1, a diagram, not a recording): the games (bandits, Tower of Hanoi, Rock Paper Scissors, Crafter, Messenger, Minecraft) feed a unified text API that LLMs and agent frameworks play turn by turn. Source: [Wu et al., SmartPlay (arXiv 2310.01557)](https://arxiv.org/abs/2310.01557).*
+
 | | |
 |---|---|
 | Year | 2023 |

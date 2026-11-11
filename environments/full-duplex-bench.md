@@ -2,6 +2,10 @@
 
 Full-Duplex-Bench evaluates full-duplex spoken dialogue models by streaming user audio to them, pre-recorded in v1 / v1.5 and live multi-turn in v2 / v3.
 
+![User and model audio streams for the four Full-Duplex-Bench dimensions](../assets/gifs/full-duplex-bench.png)
+
+*Figure from the v1 paper (diagram, not a recording) showing user and model audio waveforms over time for the four evaluated behaviours: pause handling, backchanneling, smooth turn taking and user interruption. Source: [Lin et al., Full-Duplex-Bench, arXiv 2503.04721, Fig. 2](https://arxiv.org/html/2503.04721).*
+
 | | |
 |---|---|
 | Year | 2025 |

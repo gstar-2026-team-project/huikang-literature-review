@@ -2,6 +2,10 @@
 
 In PORTAL the LLM writes behaviour trees.
 
+![PORTAL behaviour-tree agents attacking as a team in FPS games](../assets/gifs/portal.gif)
+
+*Recording of LLM-written behaviour-tree policies playing four different third-person FPS games in real time (match timers at top), cropped to the top-left 2x2 of the authors' 3x3 "team attack" montage. Source: [PORTAL project page](https://zhongwen.one/projects/portal).*
+
 | | |
 |---|---|
 | Links | [arXiv 2503.13356](https://arxiv.org/abs/2503.13356) |

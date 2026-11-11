@@ -2,6 +2,10 @@
 
 FlashAdventure is a set of Flash adventure games chosen to avoid strict time limits, untimed by design.
 
+![FlashAdventure overview: 34 game title screens and the agent-judge loop](../assets/gifs/flashadventure.jpg)
+
+*Paper figure (Figure 1): title screens of the 34 Flash adventure games above a diagram of a GUI agent acting on a game by mouse and keyboard, with CUA-as-a-Judge scoring the game state. Source: [Ahn et al., FlashAdventure (arXiv 2509.01052)](https://arxiv.org/html/2509.01052).*
+
 | | |
 |---|---|
 | Year | 2025 |

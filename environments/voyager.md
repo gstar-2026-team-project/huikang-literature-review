@@ -2,6 +2,10 @@
 
 Voyager is a Minecraft code agent that writes Mineflayer JavaScript skills, with the server paused during LLM calls.
 
+![Voyager agent building a Nether portal in Minecraft](../assets/gifs/voyager.gif)
+
+*Recording of the Voyager agent building a Nether portal with human feedback, from the project-page gallery clip, sped up 2.5x; the clip is edited and does not show the paused time while GPT-4 is queried. Source: [Voyager project page](https://voyager.minedojo.org/).*
+
 | | |
 |---|---|
 | Year | 2023-25 |

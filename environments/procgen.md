@@ -2,6 +2,10 @@
 
 Procgen is a set of 16 procedurally generated games with a human rate of 15 Hz and a very fast simulator.
 
+![Grid of eight Procgen games playing at once](../assets/gifs/procgen.gif)
+
+*A recording of eight of the 16 Procgen games playing side by side, cropped to the top half of the repo's 4x4 grid; the README does not say whether an agent or a human is playing. Source: [openai/procgen README](https://github.com/openai/procgen).*
+
 | | |
 |---|---|
 | Year | 2019 |

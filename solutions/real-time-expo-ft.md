@@ -2,6 +2,10 @@
 
 Real-Time EXPO-FT trains a small edit policy on top of a VLA with online RL on real robots at 30 Hz.
 
+![Franka arm balancing a ball on a tray](../assets/gifs/sol-real-time-expo-ft.gif)
+
+*Recording at 1x of a Real-Time EXPO-FT policy on a real Franka arm in the Ball Balancing task, tilting a tray to steer a ball to its centre (4.5 s excerpt, cropped). Source: [Real-Time EXPO-FT project page](https://pd-perry.github.io/real-time-expo-ft/).*
+
 | | |
 |---|---|
 | Year | 2026 |

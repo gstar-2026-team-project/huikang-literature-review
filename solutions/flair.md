@@ -2,6 +2,10 @@
 
 FLAIR uses interleaved or latent reasoning in a speech LLM, evaluated on speech benchmarks and Full-Duplex-Bench.
 
+![FLAIR latent reasoning in a full-duplex spoken dialogue model](../assets/gifs/sol-flair.png)
+
+*Method diagram (paper Figure 2): while the user speaks, the LLM reasons latently by feeding its output embeddings back as input, then switches to text and speech tokens when it decides to respond, and reverts to thinking on barge-in. Source: [FLAIR paper, arXiv 2603.17837](https://arxiv.org/abs/2603.17837).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

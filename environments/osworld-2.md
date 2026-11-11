@@ -2,6 +2,10 @@
 
 OSWorld 2.0 is a computer-use benchmark of 108 long tasks, step-looped, with 6 streaming tasks whose UI keeps animating.
 
+![Agent playing an animated pixel-art city game in an OSWorld 2.0 streaming-interaction task](../assets/gifs/osworld-2.gif)
+
+*Recording of an agent's desktop during a 485-step streaming-interaction task (an animated pixel-art city game with pop-up dialogs), cropped to one quadrant of the authors' overview video, which plays the trajectory sped up. Source: [OSWorld 2.0 project page](https://osworld-v2.xlang.ai/).*
+
 | | |
 |---|---|
 | Year | 2026 |

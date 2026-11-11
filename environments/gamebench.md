@@ -2,6 +2,10 @@
 
 GameBench is a set of board games such as Santorini where "two players take turns".
 
+![GameBench box plot of normalized ratings for GPT-3, GPT-4, scaffolded variants, random and human](../assets/gifs/gamebench.png)
+
+*Results figure (cropped) from the project page: box plots of Bradley–Terry strategic-reasoning ratings for each model–scaffolding configuration, with humans well ahead of every GPT-3/GPT-4 variant. Source: [GameBench project page](https://gamebench-website.vercel.app/).*
+
 | | |
 |---|---|
 | Links | [arXiv 2406.06613](https://arxiv.org/abs/2406.06613) |

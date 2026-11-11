@@ -2,6 +2,10 @@
 
 StreamBridge is a streaming video LLM.
 
+![StreamBridge framework diagram](../assets/gifs/sol-streambridge.png)
+
+*Diagram (paper Figure 2): incoming frames are encoded into a memory buffer interleaved with a query, optionally compressed, and a separate activation model decides at each frame (here #6) whether the LLM should respond. Source: [Wang et al., StreamBridge, arXiv 2505.05467](https://arxiv.org/html/2505.05467v2).*
+
 | | |
 |---|---|
 | Category | realtime architecture (streaming video LLM) |

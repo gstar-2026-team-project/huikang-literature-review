@@ -2,6 +2,10 @@
 
 BALROG is a long-horizon text and text+image game benchmark stepped once per agent action.
 
+![BALROG agents playing BabaIsAI, Crafter, TextWorld and BabyAI](../assets/gifs/balrog.gif)
+
+*Recorded agent episodes from the authors' montage video, cropped to the BabaIsAI, Crafter, TextWorld and BabyAI panels and sped up 2x; the games are turn-based, so no clock is shown. Source: [BALROG authors, Hugging Face paper page video](https://huggingface.co/papers/2411.13543).*
+
 | | |
 |---|---|
 | Year | 2024 |

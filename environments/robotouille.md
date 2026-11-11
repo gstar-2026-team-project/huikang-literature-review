@@ -2,6 +2,10 @@
 
 Robotouille is a cooking benchmark where "asynchronous" means in-game cooking delays, not model latency.
 
+![Robot chef frying chicken and assembling a sandwich in the Robotouille kitchen](../assets/gifs/robotouille.gif)
+
+*Recording of the "Asynchronous Example" episode (make a lettuce tomato fried chicken sandwich) from the project page, sped up 2x, showing a robot chef using a fryer and stoves that take time to cook; no step counter or timer is shown. Source: [Robotouille project page](https://portal-cornell.github.io/robotouille/).*
+
 | | |
 |---|---|
 | Year | 2025 |

@@ -2,6 +2,10 @@
 
 AgileThinker is a two-thread scaffold in which a planning thread streams reasoning and a reactive thread reads its partial trace and acts before each deadline.
 
+![AgileThinker](../assets/gifs/agile-thinker.gif)
+
+*A replay of a recorded AgileThinker game of Snake from the RealtimeGym demo, with its Agent Reasoning panel open and updating each turn. The card was resized for capture. Source: [Wen, Ye, Zhang, Yang, Zhu (SALT Lab, Stanford): RealtimeGym interactive demo, realtimegym.saltlab.stanford.edu](https://realtimegym.saltlab.stanford.edu/).*
+
 | | |
 |---|---|
 | Year | 2025 |

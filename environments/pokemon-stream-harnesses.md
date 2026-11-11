@@ -2,6 +2,10 @@
 
 The Pokemon stream harnesses (ClaudePlaysPokemonStarter, the FireRed harness) play Pokemon with button tool calls while the game waits for input.
 
+![Claude Plays Pokemon stream overlay with step counter and reasoning panel](../assets/gifs/pokemon-stream-harnesses.gif)
+
+*Recording (6 s, real time) from a Claude Plays Pokemon Twitch clip of the production stream harness, not the starter: Claude's reasoning and tool calls stream into the left panel while the step count stays at 27974 and the Game Boy screen stays still. Source: [ClaudePlaysPokemon on Twitch](https://www.twitch.tv/claudeplayspokemon/clip/DiligentWildVampireWoofer-7QnY4Da4FuDgFKiM).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

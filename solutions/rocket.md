@@ -2,6 +2,10 @@
 
 ROCKET is a Minecraft model listed with the VPT line on the 20 Hz native interface with a synchronous simulator.
 
+![ROCKET-1 approaching and hunting a sheep inside the right-hand fence in Minecraft](../assets/gifs/sol-rocket.gif)
+
+*Recorded ROCKET-1 rollout for the task "Hunt the sheep in the right fence", with Molmo pointing at the target sheep and ROCKET-1 then walking over and attacking it; played at 2x speed and cropped. Source: [ROCKET-1 project page, CraftJarvis](https://craftjarvis.github.io/ROCKET-1/).*
+
 | | |
 |---|---|
 | Year | 2022-25 |

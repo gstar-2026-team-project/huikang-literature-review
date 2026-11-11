@@ -2,6 +2,10 @@
 
 DPT-Agent's harness is an open realtime Overcooked variant at 0.25 s per timestep in which human and agent act simultaneously.
 
+![DPT-Agent and a human cooking burgers in realtime Overcooked](../assets/gifs/dpt-agent-overcooked.gif)
+
+*Recording of DPT-Agent (red hat) dividing labour with a human (blue hat) in the Map 1 burger kitchen, with score and time_left updating; first 6 s of the authors' demo clip, which appears sped up. Source: [DPT-Agent project page](https://sjtu-marl.github.io/DPT-Agent-page/).*
+
 | | |
 |---|---|
 | Year | 2025 |

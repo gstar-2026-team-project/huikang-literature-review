@@ -2,6 +2,10 @@
 
 ACT predicts many actions per inference and executes them open-loop.
 
+![ACT policy on the ALOHA robot slotting a battery into a remote](../assets/gifs/sol-act.gif)
+
+*Recording of a real-time ACT policy rollout on the ALOHA bimanual robot, which grips a battery and pushes it into a remote's battery slot (4.5 s clip at normal speed). Source: [ACT / ALOHA project page, Zhao et al.](https://tonyzhaozh.github.io/aloha/).*
+
 | | |
 |---|---|
 | Category | RL and decision model (robotics latency method) |

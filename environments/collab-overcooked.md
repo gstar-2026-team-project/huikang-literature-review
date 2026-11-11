@@ -2,6 +2,10 @@
 
 Collab-Overcooked is a step-based two-LLM Overcooked benchmark with atomic actions and chat.
 
+![Collab-Overcooked benchmark diagram: kitchen, chat requests and executed actions](../assets/gifs/collab-overcooked.jpg)
+
+*Paper figure (Figure 1, Part II; a diagram, not footage): a split kitchen where Bob cannot reach the potato, so he asks Alice by chat to pick it up and slice it, and both agents' requested and executed atomic actions advance to the next step. Source: [Collab-Overcooked paper, arXiv 2502.20073](https://arxiv.org/abs/2502.20073).*
+
 | | |
 |---|---|
 | Year | 2025 |

@@ -2,6 +2,10 @@
 
 SpeedrunBench "scores LLM agents on the number of frames needed to reach a goal state", with a scripted offline mode and a paused-live online mode.
 
+![SpeedrunBench](../assets/gifs/speedrunbench.gif)
+
+*A recording of GPT-5.6 Sol's SpeedrunBench run through SuperTux level 1-1 "Welcome to Antarctica" (finished in 0:33.047), with Tux running and jumping past enemies. Source: [Footage: SpeedrunBench (Fujinuma, Kamahori, Koike et al.; Patronus AI), speedrunbench.com play page; game: SuperTux.](https://speedrunbench.com/play).*
+
 | | |
 |---|---|
 | Year | 2026 |

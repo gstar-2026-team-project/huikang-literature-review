@@ -2,6 +2,10 @@
 
 Asynchronous Reasoning is training-free concurrent think/read/write in one model via position manipulation.
 
+![Thinker and writer streams generating side by side in the Asynchronous Reasoning terminal demo](../assets/gifs/sol-asynchronous-reasoning.gif)
+
+*Recording from the authors' live terminal demo, sped up 2x and cropped to the panels: the thinker keeps reasoning (left) while the writer streams its answer (lower right) from the same model on a text riddle. Source: [yandex-research/AsyncReasoning README](https://github.com/yandex-research/AsyncReasoning#live-terminal-demo).*
+
 | | |
 |---|---|
 | Year | 2025 |

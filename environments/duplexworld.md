@@ -2,6 +2,10 @@
 
 DuplexWorld is a speech benchmark whose world "moves on its own clock" via a tick-based orchestrator.
 
+![DuplexWorld Pathfinding replay map](../assets/gifs/duplexworld.gif)
+
+*Screen recording of the project page's replay of a recorded Gemini-3.1-Flash-Live Pathfinding call near Grand Central, with the walker's position and field of view moving along the route while the copilot's belief lags (a replay of a past run, not a live call; audio not included). Source: [DuplexWorld voice samples](https://duplexworld.github.io/samples.html).*
+
 | | |
 |---|---|
 | Year | 2026 |

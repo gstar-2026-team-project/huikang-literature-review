@@ -2,6 +2,10 @@
 
 VLASH conditions the policy on the predicted state at execution time.
 
+![Three robot arms playing whack-a-mole: Sync, Naive Async and VLASH](../assets/gifs/sol-vlash.gif)
+
+*Recording of three real robot arms playing whack-a-mole side by side, the Sync, Naive Async and VLASH (Ours) policies, with running scores; Naive Async fails after too many wrong presses while VLASH keeps scoring (autonomous, sped up 4x from the 1x original). Source: [VLASH demo video, MIT Han Lab](https://www.youtube.com/watch?v=IgN7CNicJS8).*
+
 | | |
 |---|---|
 | Year | 2025 |

@@ -2,6 +2,10 @@
 
 FightingICE is a 60 fps fighting game from the IEEE CoG competition with observations delayed by 15 frames to simulate human reaction, and a sound-only track.
 
+![Two LLM agents fighting in DareFightingICE with the round timer counting down](../assets/gifs/fightingice.gif)
+
+*Recording, at normal speed and cropped to the game window, of the LLM agents Iconic (P1) and BakaCirno (P2) in a 2026 DareFightingICE LLM AI Competition sample fight, with the round timer (top centre) counting down from about 51 s. Source: [ICE Lab, 2026 DareFightingICE LLM AI Competition results video](https://www.youtube.com/watch?v=LV24hG35gbI).*
+
 | | |
 |---|---|
 | Year | 2013 / 2022 |

@@ -2,6 +2,10 @@
 
 libmelee drives Super Smash Bros. Melee in Dolphin at 60 Hz, reusing the last input so a slow bot holds stale inputs.
 
+![Scripted libmelee Jigglypuff bot playing Melee in Dolphin with the match timer running](../assets/gifs/libmelee-slippi.gif)
+
+*Screen recording (real time, cropped to the Dolphin window) of the scripted puff.py Jigglypuff bot from the libmelee quickstart playing a match on Battlefield, with the in-game timer counting down. Source: [AltF4, Libmelee Programming Quickstart (YouTube, 2020)](https://www.youtube.com/watch?v=1R723AS1P-0).*
+
 | | |
 |---|---|
 | Year | 2017- |

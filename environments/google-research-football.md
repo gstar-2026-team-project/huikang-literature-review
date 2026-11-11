@@ -2,6 +2,10 @@
 
 Google Research Football is an archived football simulator at 100 ms per step with short single-player academy scenarios.
 
+![Google Research Football 11v11 gameplay with scoreboard clock](../assets/gifs/google-research-football.gif)
+
+*Recording of 11v11 gameplay in the environment, with the scoreboard game clock at top left; taken from the edited official trailer, so it includes a cut between scenes. Source: [Google Research, official GRF trailer](https://www.youtube.com/watch?v=F8DcgFDT9sc).*
+
 | | |
 |---|---|
 | Year | 2019 |

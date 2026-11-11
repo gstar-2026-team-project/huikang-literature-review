@@ -2,6 +2,10 @@
 
 VPT is a Minecraft model on the 20 Hz native interface with a synchronous simulator.
 
+![VPT method overview: IDM labels online video, then behavioural cloning](../assets/gifs/sol-vpt.png)
+
+*Method diagram (paper Figure 2): contractors label ~2k hours of video to train a non-causal inverse dynamics model, which labels ~70k hours of filtered web video used to train the causal VPT foundation model by behavioural cloning. Source: [Baker et al., VPT paper (arXiv 2206.11795)](https://arxiv.org/html/2206.11795).*
+
 | | |
 |---|---|
 | Year | 2022-25 |

@@ -2,6 +2,10 @@
 
 CombatVLA's benchmark is combat in Black Myth: Wukong, with the game paused during inference.
 
+![CombatVLA fighting Bullguard in Black Myth: Wukong](../assets/gifs/combatvla.gif)
+
+*Recording of CombatVLA fighting the Bullguard boss (Task 8, Hard) in Black Myth: Wukong; the authors' video has the game pauses during inference edited out, so it looks faster than it ran. Source: [CombatVLA project page](https://combatvla.github.io/).*
+
 | | |
 |---|---|
 | Year | 2024-25 |

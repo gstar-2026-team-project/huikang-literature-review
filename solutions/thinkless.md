@@ -2,6 +2,10 @@
 
 Thinkless trains a reasoning LLM with RL to choose between thinking and not thinking.
 
+![Thinkless training pipeline with think and short control tokens](../assets/gifs/sol-thinkless.png)
+
+*Method diagram (paper Figure 2): after warm-up, the model samples a control token, think or short, then a response, and Decoupled GRPO rewards correct short answers more than correct long ones and penalises wrong ones. Source: [Thinkless paper, Fang et al. 2025](https://arxiv.org/abs/2505.13379).*
+
 | | |
 |---|---|
 | Year | 2025 |

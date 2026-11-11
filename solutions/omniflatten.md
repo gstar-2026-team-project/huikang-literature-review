@@ -2,6 +2,10 @@
 
 OmniFlatten is staged post-training of a small GPT over flattened speech and text streams, with no architecture change.
 
+![OmniFlatten architecture: flattened speech and text tokens per timestep](../assets/gifs/sol-omniflatten.jpg)
+
+*Paper figure (diagram) of the OmniFlatten architecture: each timestep's input speech tokens are interleaved with the model's own text and speech output tokens into one flat sequence for a single GPT, so it can listen and talk at once. Source: [OmniFlatten paper, Figure 1 (arXiv 2410.17799)](https://arxiv.org/html/2410.17799v2).*
+
 | | |
 |---|---|
 | Year | 2024 |

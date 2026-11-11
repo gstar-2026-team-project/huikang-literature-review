@@ -2,6 +2,10 @@
 
 In PORTAL the LLM writes behaviour trees rather than relying on LLM inference during gameplay.
 
+![PORTAL behaviour tree DSL generation diagram](../assets/gifs/sol-portal.png)
+
+*Paper figure (diagram, Figure 1) showing how a strategy description becomes a behaviour-tree DSL whose task nodes can be neural nets, hand-crafted rules or generated code. Source: [PORTAL paper, arXiv 2503.13356](https://arxiv.org/abs/2503.13356).*
+
 | | |
 |---|---|
 | Year | 2023-25 |

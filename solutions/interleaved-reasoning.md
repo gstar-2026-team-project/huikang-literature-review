@@ -2,6 +2,10 @@
 
 Interleaved Reasoning trains an LLM with RL that rewards correct intermediate answers.
 
+![Think-answer versus interleaved reasoning on a multi-hop question](../assets/gifs/sol-interleaved-reasoning.png)
+
+*Paper figure (diagram): standard think-then-answer reasoning gives a long time to first token (TTFT) and a wrong final answer, while interleaved reasoning emits rewarded intermediate answers after short think steps. Source: [Xie et al., Interleaved Reasoning for Large Language Models via Reinforcement Learning, Figure 1](https://arxiv.org/abs/2505.19640).*
+
 | | |
 |---|---|
 | Year | 2025 |

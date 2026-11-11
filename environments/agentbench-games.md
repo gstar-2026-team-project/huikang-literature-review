@@ -2,6 +2,10 @@
 
 AgentBench's game tasks are Digital Card Game, Lateral Thinking Puzzles and House-Holding.
 
+![AgentBench Digital Card Game and Lateral Thinking Puzzle episodes beside the model's log](../assets/gifs/agentbench-games.gif)
+
+*Recording from the official AgentBench README demo video, rearranged: a Digital Card Game fish battle with the model's ROUND 1 prompt and reply (2.7 s), then the Lateral Thinking Puzzle UI beside the agent log (1.3 s); turn-based, no clock shown. Source: [THUDM/AgentBench README](https://github.com/THUDM/AgentBench).*
+
 | | |
 |---|---|
 | Links | [arXiv 2308.03688](https://arxiv.org/abs/2308.03688) |

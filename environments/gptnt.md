@@ -2,6 +2,10 @@
 
 GPTNT is Keep Talking and Nobody Explodes with two agents under a live countdown.
 
+![Claude Sonnet 4.6 defuser turning the KTANE bomb while the countdown runs](../assets/gifs/gptnt.gif)
+
+*Recording from the async self-play replay (Claude Sonnet 4.6), sped up 6x: the defuser view turns the bomb to inspect its modules while the bomb timer keeps counting down. Source: [GPTNT project site](https://gptnt.github.io).*
+
 | | |
 |---|---|
 | Year | 2026 |

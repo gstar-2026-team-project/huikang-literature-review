@@ -2,6 +2,10 @@
 
 Kaggle Game Arena is a turn-based game arena with generous per-move limits (poker "Each action has a 60-minute time limit").
 
+![Kaggle Game Arena chess replay viewer, Grok 4.7 vs Gemini 4 Carbon](../assets/gifs/kaggle-game-arena.gif)
+
+*Screen recording of the Kaggle Game Arena replay viewer playing back a recorded chess game (Grok 4.7 vs Gemini 4 Carbon, moves 4-7 of 86) with the per-move Game Log; the replay steps about one move every 2 s, while the recorded moves each took minutes, and the GIF is sped up 2x. Source: [Kaggle Game Arena, Chess (text) leaderboard](https://www.kaggle.com/benchmarks/kaggle/chess-text/versions/2).*
+
 | | |
 |---|---|
 | Year | 2024-26 |

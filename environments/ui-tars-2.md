@@ -2,6 +2,10 @@
 
 UI-TARS-2 is evaluated on 15 browser mini-games in a synchronous browser sandbox with human-normalised scores.
 
+![UI-TARS-2 browser sandbox with fake clock for pausing games](../assets/gifs/ui-tars-2.png)
+
+*Architecture diagram (paper Figure 2) of the browser sandbox the games run in: an injected "fake clock" lets the client SDK pause and resume browser time between screenshot observations and press/click actions. Source: [UI-TARS-2 paper, ByteDance Seed (arXiv 2509.02544)](https://arxiv.org/abs/2509.02544).*
+
 | | |
 |---|---|
 | Year | 2025 |

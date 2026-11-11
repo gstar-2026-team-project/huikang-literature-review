@@ -2,6 +2,10 @@
 
 RRARA is a scaffold in which a rule reflex acts at once and an asynchronous LLM reflector corrects it.
 
+![RRARA framework diagram](../assets/gifs/sol-rrara.png)
+
+*Method diagram (paper Figure 2): an LLM pre-planner caches a plan schedule that the rapid-reflex executor runs at once, while an asynchronous LLM reflector watches the environment and sends corrections, with the Time Conversion Mechanism advancing the execution loop by inference latency. Source: [Zheng et al., arXiv 2506.07223](https://arxiv.org/html/2506.07223).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

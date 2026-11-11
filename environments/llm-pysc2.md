@@ -2,6 +2,10 @@
 
 LLM-PySC2 gives LLMs the full pysc2 action space, with each step waiting up to a maximum time for all agents.
 
+![LLM-controlled Protoss Stalkers fighting an enemy army on a snow map](../assets/gifs/llm-pysc2.gif)
+
+*A recording of a StarCraft II replay in which LLM-controlled Protoss Stalkers fight an enemy army, with the replay timeline (about 0:08-0:12 of 0:38) visible at the right; trimmed from the authors' README GIF. Source: [LLM-PySC2 GitHub README](https://github.com/NKAI-Decision-Team/LLM-PySC2).*
+
 | | |
 |---|---|
 | Year | 2024 |

@@ -2,6 +2,10 @@
 
 Deal or No Deal is a turn-based negotiation task in which "Agents then sequentially take turns", over 10 turns.
 
+![Mechanical Turk negotiation interface with item values and a chat dialogue](../assets/gifs/deal-or-no-deal.jpg)
+
+*Figure 1 from the paper (a screenshot, not a recording): the Mechanical Turk interface used to collect the dataset, with private item values on the left and a human-human negotiation chat ending in "Ok deal" on the right. Source: [Lewis et al. 2017, arXiv 1706.05125](https://arxiv.org/abs/1706.05125).*
+
 | | |
 |---|---|
 | Year | 2017 |

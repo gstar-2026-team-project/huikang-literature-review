@@ -2,6 +2,10 @@
 
 Second Thought forks reasoning branches during the act/observe wait.
 
+![Second Thought workflow diagram](../assets/gifs/sol-second-thought.png)
+
+*Paper diagram (Figure 2) of the method: on a time axis, the main thread's thought forks an asynchronous Second Thought branch (check, rehearse, recall, alternative) that runs during the action/observation idle window and merges back into the next thought. Source: [Second Thought paper, arXiv 2608.13667](https://arxiv.org/abs/2608.13667).*
+
 | | |
 |---|---|
 | Year | 2026 |

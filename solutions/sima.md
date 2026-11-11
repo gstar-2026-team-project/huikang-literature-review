@@ -2,6 +2,10 @@
 
 SIMA is a game agent for commercial 3D games whose environments "do not stop and wait while the agent computes", trained on time-offset action labels.
 
+![SIMA agent following "Go to spaceship" and "Shoot asteroid" in No Man's Sky](../assets/gifs/sol-sima.gif)
+
+*Recorded gameplay of the SIMA agent carrying out two language instructions side by side in No Man's Sky, cropped from the bottom row of DeepMind's grid of example clips (no timer shown). Source: [Google DeepMind, SIMA blog post](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/).*
+
 | | |
 |---|---|
 | Year | 2024 |

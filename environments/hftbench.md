@@ -2,6 +2,10 @@
 
 HFTBench is a latency-sensitive trading backtest from "Win Fast or Lose Slow" in which measured inference time moves the fill price.
 
+![HFTBench trading-day price chart for FPX Qwen-2.5-14B](../assets/gifs/hftbench.png)
+
+*Figure from the authors' project page: one HFTBench trading day (09:00-16:00) of high and low prices for FPX Qwen-2.5-14B, with boxes marking where the agent got lower buy and higher sell prices; a static plot, not a recording. Source: [competitive-agent.com](https://www.competitive-agent.com/).*
+
 | | |
 |---|---|
 | Year | 2025 |

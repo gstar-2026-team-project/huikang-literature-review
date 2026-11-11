@@ -2,6 +2,10 @@
 
 In the UPenn Real-Time Deadlines setting two agents negotiate a contract under a 240-360 s deadline, with each utterance costing time in proportion to its word count.
 
+![Study design: two negotiating bots under 240/300/360 s budgets, control vs time-aware](../assets/gifs/real-time-deadlines-negotiation.jpg)
+
+*Paper diagram (Figure 1) of the study: a hiring-manager bot and a candidate bot negotiate a multi-issue contract under 240, 300 or 360 s budgets at an assumed 150 words-per-minute latency, told either only the total time (control) or also the remaining time each turn (time-aware). Source: [Sehgal, Guntuku, Ungar, arXiv 2601.13206](https://arxiv.org/html/2601.13206).*
+
 | | |
 |---|---|
 | Year | 2026 |

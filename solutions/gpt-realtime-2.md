@@ -2,6 +2,10 @@
 
 gpt-realtime-2 is OpenAI's Realtime API model, with reasoning-effort levels and harness turn detection.
 
+![gpt-realtime-2 model page header](../assets/gifs/sol-gpt-realtime-2.jpg)
+
+*Screenshot of OpenAI's gpt-realtime-2 model page, showing reasoning and speed ratings, price, text/audio/image input and text/audio output, 128k context, and its description as a speech-to-speech model with configurable reasoning effort; no public footage of the model acting exists. Source: [OpenAI API docs](https://developers.openai.com/api/docs/models/gpt-realtime-2).*
+
 | | |
 |---|---|
 | Year | 2026 |

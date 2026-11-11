@@ -2,6 +2,10 @@
 
 The Gran Turismo Sophy interface ran only in real time on PS4 hardware with 10 Hz control.
 
+![GT Sophy Bleue chasing V. Gallo in the 2022 exhibition race](../assets/gifs/gran-turismo-sophy.gif)
+
+*Recording of the 2022 World Finals exhibition race, in-car view from the agent "Sophy Bleue" as it chases human driver Valerio Gallo, with the live lap-1 standings and intervals; real-time footage, cropped. Source: [GRAN TURISMO TV on YouTube](https://www.youtube.com/watch?v=RbkvlcwP1FM).*
+
 | | |
 |---|---|
 | Year | 2022 |

@@ -2,6 +2,10 @@
 
 SwiftSage pairs a small cloned fast model with a GPT-4 planner and a heuristic switch.
 
+![SwiftSage pipeline: Swift T5 model hands off to GPT-4 Sage planner](../assets/gifs/sol-swiftsage.jpg)
+
+*Pipeline diagram from the paper: the Swift T5-large model picks actions in a ScienceWorld kitchen task until an action fails, then the Sage GPT-4 module plans subgoals and grounds them into an action buffer. Source: [SwiftSage project page](https://swiftsage.github.io).*
+
 | | |
 |---|---|
 | Year | 2023 |

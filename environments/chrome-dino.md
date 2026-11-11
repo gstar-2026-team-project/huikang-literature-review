@@ -2,6 +2,10 @@
 
 gym-chrome-dino sends key presses into a live browser game, so the Dino browser game is realtime-live.
 
+![T-Rex Runner with a scripted jumper clearing cacti](../assets/gifs/chrome-dino.gif)
+
+*Real-time recording (6 s, not sped up) of the hosted T-Rex Runner page that gym-chrome-dino loads, played by a simple scripted jumper rather than a model; the score counter at top right ticks on the wall clock. Source: [elvisyjlin/t-rex-runner (gym-chrome-dino)](https://elvisyjlin.github.io/t-rex-runner/).*
+
 | | |
 |---|---|
 | Year | 2016- |

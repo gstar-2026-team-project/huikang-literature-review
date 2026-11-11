@@ -2,6 +2,10 @@
 
 Latent Bridge links a frozen fast VLM at 15 Hz and a frozen slow VLM at 1 Hz with a trained latent channel.
 
+![Latent Bridge playing Road Runner with slow-model guidance panel](../assets/gifs/sol-latent-bridge.gif)
+
+*Pre-rendered replay of a recorded latent-bridge (L) run on Atari Road Runner, with the burned-in tick/action/score header and the slow model's latest guidance text on the right (about 12 ticks per second of video, from a lockstep loop, so not wall-clock play). Source: [Latent Bridge games site, Li and Shi](https://01.me/research/latent-bridge-games/).*
+
 | | |
 |---|---|
 | Year | 2026 |

@@ -2,6 +2,10 @@
 
 MINDcraft issues high-level commands on a live Minecraft server.
 
+![Two MINDcraft LLM bots cooking in Minecraft with chat bubbles](../assets/gifs/mindcraft.gif)
+
+*Recording of two LLM bots in a MineCollab cooking task: one says "I'm at the furnace. Let me bake the potato now. !smeltItem("potato", 1)" while the other replies in chat as the world keeps moving. Source: [MineCollab project page, "Cooking Footage and Communication Showcase" video](https://www.youtube.com/watch?v=FbNJ3cR_RWY).*
+
 | | |
 |---|---|
 | Year | 2023-25 |

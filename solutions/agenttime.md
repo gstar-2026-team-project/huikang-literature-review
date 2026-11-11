@@ -2,6 +2,10 @@
 
 AgentTime measures whether agents land within 5% of a requested working duration.
 
+![AgentTime results scatter of time asked against time worked](../assets/gifs/sol-agenttime.jpg)
+
+*Screenshot of the AgentTime results explorer: each mark is one recorded agent run, plotting the time asked for against the time the agent actually worked (log scales), with per-agent timing error and share within 5%. Source: [AgentTime results explorer](https://agenttimebench.com/results/).*
+
 | | |
 |---|---|
 | Links | [arXiv 2610.09944](https://arxiv.org/abs/2610.09944) |

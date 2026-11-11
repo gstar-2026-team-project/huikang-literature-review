@@ -2,6 +2,10 @@
 
 Phillip (slippi-ai) plays Melee with a 12-15 frame imposed delay plus a predictive model.
 
+![Phillip (Fox) fighting Zain (Marth) in Melee with the match timer running](../assets/gifs/sol-phillip-slippi-ai.gif)
+
+*Real-speed recording (about 4 s, game view cropped from the streamer's facecam layout) of Phillip playing Fox against top player Zain's Marth over Slippi netplay, with the in-game timer and percents visible. Source: [Zain plays Phillip the AI in first to 5 wins (YouTube), linked from the slippi-ai README](https://www.youtube.com/watch?v=c8nRFAGvr2c).*
+
 | | |
 |---|---|
 | Year | 2017- |

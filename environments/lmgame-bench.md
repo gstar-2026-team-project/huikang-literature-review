@@ -2,6 +2,10 @@
 
 LMGame-Bench evaluates models on Super Mario Bros., Tetris, Sokoban, Candy Crush, 2048 and Ace Attorney, paused-live.
 
+![Four models playing Super Mario Bros. World 1-1 in a 2x2 grid](../assets/gifs/lmgame-bench.gif)
+
+*Recording of claude-3.7, claude-3.5, gemini-1.5-pro and GPT-4o playing Super Mario Bros. side by side (the authors' edited 2x2 comparison of early GamingAgent runs, with each panel's NES TIME counter running), 5 s excerpt. Source: [lmgame.org](https://lmgame.org/).*
+
 | | |
 |---|---|
 | Year | 2025 |

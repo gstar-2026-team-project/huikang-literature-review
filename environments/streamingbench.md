@@ -2,6 +2,10 @@
 
 StreamingBench is a streaming video understanding benchmark whose questions carry timestamps on recorded video.
 
+![StreamingBench questions pinned to query times along a video filmstrip](../assets/gifs/streamingbench.jpg)
+
+*Final frame of the authors' animated overview clip (a diagram, not a model recording): one walking-tour video as a filmstrip with five task types (Attribute Perception, Text-Rich Understanding, Multimodal Alignment, Subsequent QA, Proactive Output) pinned to their query times, correct options highlighted in green. Source: [StreamingBench project page](https://streamingbench.github.io/).*
+
 | | |
 |---|---|
 | Year | 2024 |

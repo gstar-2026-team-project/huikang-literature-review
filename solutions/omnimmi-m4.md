@@ -2,6 +2,10 @@
 
 OmniMMI / M4 is a streaming video LLM entry (the OmniMMI benchmark and its M4 model).
 
+![M4 streaming demo alerting when a mixer appears](../assets/gifs/sol-omnimmi-m4.gif)
+
+*Recording of the authors' local M4 demo (cropped to the lower part of the frame): the model watches a 5 fps video with the query "notify me when there is a mixer", and the terminal log shows the proactive alert "(Current Time = 23.6s) Assistant: The mixer appear at 20.6s". Source: [OmniMMI M4 page](https://omnimmi.github.io/m4.html).*
+
 | | |
 |---|---|
 | Category | realtime architecture (streaming video LLM) |

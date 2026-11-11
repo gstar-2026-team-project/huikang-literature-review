@@ -2,6 +2,10 @@
 
 AucArena is a round-based auction in which bidders act per auction round.
 
+![AucArena auction flow and bidder agent design](../assets/gifs/aucarena.jpg)
+
+*Paper figure (cropped to panels A and B): an auctioneer runs an open ascending-price auction item by item, and each LLM bidder plans, bids, updates its beliefs and replans after every item is sold. Source: [Chen et al., arXiv 2310.05746, Figure 1](https://arxiv.org/html/2310.05746v4).*
+
 | | |
 |---|---|
 | Year | 2023 |

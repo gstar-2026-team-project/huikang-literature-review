@@ -2,6 +2,10 @@
 
 Game-TARS is a VLM game agent with sparse thinking, evaluated paused on Minecraft, web games and ViZDoom.
 
+![Game-TARS killing a creeper in Minecraft](../assets/gifs/sol-game-tars.gif)
+
+*Recording from the authors' pre-recorded Minecraft montage, cropped to the kill_entity:creeper panel, showing the agent's per-step Action line (mouse move plus keyDown) as it kills the creeper and earns the Monster Hunter advancement; no clock is shown, so it does not reveal whether the game paused during inference. Source: [ByteDance Seed, Game-TARS page](https://seed-tars.com/game-tars).*
+
 | | |
 |---|---|
 | Year | 2025 |

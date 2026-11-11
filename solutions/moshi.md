@@ -2,6 +2,10 @@
 
 Moshi is a 7B text LLM over Mimi codec tokens that predicts user audio, its own audio and an "inner monologue" text stream every 80 ms.
 
+![Two laptops running the Moshi web client](../assets/gifs/sol-moshi.gif)
+
+*Recording (real-time, about 4.5 s) of two laptops running the Moshi web client during live conversations, each showing the audio orb, level meter, running transcript and a Server Audio Stats panel with latency and missed audio. Source: [Kyutai, Moshi release blog](https://kyutai.org/blog/2024-09-18-moshi-release).*
+
 | | |
 |---|---|
 | Year | 2024 |

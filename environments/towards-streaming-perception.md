@@ -2,6 +2,10 @@
 
 Towards Streaming Perception defines "streaming accuracy", scoring the most recent finished output against the current world state.
 
+![Split-screen dashcam with streaming detection boxes, without vs with forecasting](../assets/gifs/towards-streaming-perception.gif)
+
+*Pre-rendered visualization of streaming evaluation on Argoverse-HD dashcam footage: the top half shows a detector without association and forecasting (AP 13.0) whose boxes lag behind moving cars, the bottom half the same detector with them (AP 16.7); a recording, not live inference. Source: [Li, Wang, Ramanan, Streaming Perception visual walkthrough](https://mtli.github.io/streaming/streaming-visuals.html).*
+
 | | |
 |---|---|
 | Year | 2020 |

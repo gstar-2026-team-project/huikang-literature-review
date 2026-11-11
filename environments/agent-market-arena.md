@@ -2,6 +2,10 @@
 
 Agent Market Arena is a live-data trading arena that "trades at a fixed daily time".
 
+![Agent Market Arena dashboard showing BTC net-value curves for three LLM agents against buy-and-hold](../assets/gifs/agent-market-arena.jpg)
+
+*Screenshot of the AMA live dashboard as printed in the paper (Figure 5, cropped): daily net-value curves on BTC from Aug 1 to late Oct 2025 for InvestorAgent (Claude Sonnet 4), TradeAgent (Gemini 2.0 Flash) and DeepFundAgent (GPT-4.1) against buy-and-hold. Source: [Agent Market Arena paper, arXiv 2510.11695](https://arxiv.org/html/2510.11695).*
+
 | | |
 |---|---|
 | Year | 2025 |

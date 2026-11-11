@@ -2,6 +2,10 @@
 
 JARVIS-VLA is a Minecraft model listed with the VPT line on the 20 Hz native interface with a synchronous simulator.
 
+![JARVIS-VLA crafting an iron sword in the Minecraft crafting window](../assets/gifs/sol-jarvis-vla.gif)
+
+*Recorded rollout of JARVIS-VLA given the task "craft_item:iron_sword", moving the cursor to place iron ingots and a stick in the crafting grid (full 4.4 s clip, real speed as published, no timer overlay). Source: [JARVIS-VLA project page](https://craftjarvis.github.io/JarvisVLA/).*
+
 | | |
 |---|---|
 | Year | 2022-25 |

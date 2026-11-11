@@ -2,6 +2,10 @@
 
 OmniMMI is an offline-replay benchmark that formalises streaming video as frames up to time t.
 
+![M4 streaming demo alerting when a mixer appears](../assets/gifs/omnimmi.gif)
+
+*Recording (cropped) of the authors' M4 proactive-generation demo: the model reads a 5 fps video and its terminal log reports "(Current Time = 23.6s) Assistant: The mixer appear at 20.6s" in answer to "Please notify me when there is a mixer." Source: [OmniMMI M4 page](https://omnimmi.github.io/m4.html).*
+
 | | |
 |---|---|
 | Year | 2025 |

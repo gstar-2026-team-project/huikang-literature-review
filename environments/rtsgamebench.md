@@ -2,6 +2,10 @@
 
 RTSGameBench is a Beyond All Reason benchmark in which the game pauses between decision steps, one call per 15-60 s of game time.
 
+![2v2 Beyond All Reason match with the VLM's Decision Phase command panel](../assets/gifs/rtsgamebench.gif)
+
+*Recording of a 2v2 match on Pinewood Derby v1 from the authors' overview video (played 3x sped up, cropped to the left part), with the overlay listing the VLM's build, produce, assign and move commands at game time 16:46. Source: [RTSGameBench project page](https://dcahn12.github.io/projects/rtsbench/).*
+
 | | |
 |---|---|
 | Year | 2026 |

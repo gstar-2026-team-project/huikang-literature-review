@@ -2,6 +2,10 @@
 
 AVA is SMAC-like StarCraft II micro at "2 Hz" for VLMs, paused-live from code.
 
+![AVA observation: SC2 battle frame with grid and numbered unit labels, plus textual state](../assets/gifs/ava-avacraft.jpg)
+
+*Paper figure (Figure 2), not a recording: the agent's multimodal observation, an annotated StarCraft II RGB frame with a 10x10 grid and numbered own (green) and enemy (red) units, plus the textual unit-state description. Source: [Ma et al., AVA, arXiv 2503.05383](https://arxiv.org/html/2503.05383v7).*
+
 | | |
 |---|---|
 | Year | 2025 |

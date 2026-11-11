@@ -2,6 +2,10 @@
 
 RealtimeBench ("The World Won't Wait") is a set of 180 tasks over six arcade games run paused, live and accelerated, introduced with the TORSI method.
 
+![RealtimeBench](../assets/gifs/realtimebench.png)
+
+*Paper figure: while the model is still thinking, the game keeps running and the late action causes a crash in Mario, Temple and Snake (an 824 ms delay against a 667 ms tick). Source: [Figure 1 from Pan, Li, Shen, Ding, Tang and Zhang, "The World Won't Wait" (arXiv 2610.20665)](https://arxiv.org/abs/2610.20665).*
+
 | | |
 |---|---|
 | Year | 2026 |

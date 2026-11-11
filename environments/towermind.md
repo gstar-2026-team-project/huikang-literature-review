@@ -2,6 +2,10 @@
 
 TowerMind is an open Unity tower defence with pixel, JSON and vector observations.
 
+![GPT-4.1 placing towers as enemy waves advance in TowerMind](../assets/gifs/towermind.gif)
+
+*Recording of GPT-4.1 playing one TowerMind level, building towers along the paths as enemy waves arrive (the authors' README GIF, probably sped up or edited; no clock shown). Source: [TowerMind GitHub README](https://github.com/tb6147877/TowerMind).*
+
 | | |
 |---|---|
 | Year | 2026 |

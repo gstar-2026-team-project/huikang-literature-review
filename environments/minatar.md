@@ -2,6 +2,10 @@
 
 MinAtar is a miniature Atari suite with tiny, text-serialisable state.
 
+![Trained DQN agent playing MinAtar Breakout](../assets/gifs/minatar.gif)
+
+*Recording of a trained DQN agent (not an LLM) playing MinAtar Breakout on its 10x10 grid: the teal paddle at the bottom returns the ball (pink and green cells: the ball and its trail) into the brick rows; no clock is shown. Source: [Kenny Young, MinAtar breakout (YouTube)](https://www.youtube.com/watch?v=cFk4efZNNVI).*
+
 | | |
 |---|---|
 | Year | 2016- |

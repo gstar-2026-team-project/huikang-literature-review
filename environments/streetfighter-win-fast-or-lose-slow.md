@@ -2,6 +2,10 @@
 
 In the StreetFighter benchmark from "Win Fast or Lose Slow", two locally served models fight in Street Fighter III on DIAMBRA and a model that overruns stands still while the game goes on.
 
+![Two LLM-controlled Kens fight in Street Fighter III while the round timer counts down](../assets/gifs/streetfighter-win-fast-or-lose-slow.gif)
+
+*Recording of a model-vs-model Street Fighter III match on DIAMBRA from the authors' FPX speed demo (2.4x clip, red player at 542 ms latency), cropped from a desktop screen capture; the round timer keeps counting down from 75 to 71 while the models think. Source: [competitive-agent.com project page (Kang et al.)](https://www.competitive-agent.com/).*
+
 | | |
 |---|---|
 | Year | 2025 |

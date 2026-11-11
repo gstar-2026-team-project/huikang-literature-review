@@ -2,6 +2,10 @@
 
 Proact-VL is a streaming video LLM that comments on gameplay but does not play.
 
+![Proact-VL staying silent, then advising a Minecraft player](../assets/gifs/sol-proact-vl.gif)
+
+*Recording from the authors' Guidance Assistance demo: while a human plays Minecraft, Proact-VL shows "[SILENT]" and then chooses to speak with advice on gathering wood (real-time, 6 fps excerpt). Source: [Proact-VL authors, YouTube](https://www.youtube.com/watch?v=awVtwRwB1CI).*
+
 | | |
 |---|---|
 | Links | [arXiv 2603.03447](https://arxiv.org/abs/2603.03447) |

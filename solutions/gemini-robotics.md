@@ -2,6 +2,10 @@
 
 Gemini Robotics uses a cloud backbone under 160 ms with a local decoder that gives a 50 Hz effective control rate.
 
+![Gemini Robotics bi-arm robot picking up a banana while a person moves the containers](../assets/gifs/sol-gemini-robotics.gif)
+
+*Recording (about 4 s from 0:19 of the official video, real speed, labelled "Interactive" and "Autonomous 1x") of a bi-arm ALOHA 2 robot run by Gemini Robotics picking up a banana while a person moves the containers on the table. Source: [Google DeepMind, "Gemini Robotics: Dynamic interactions"](https://www.youtube.com/watch?v=HyQs2OAIf-I).*
+
 | | |
 |---|---|
 | Year | 2025 |

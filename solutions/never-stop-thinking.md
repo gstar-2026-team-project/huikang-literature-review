@@ -2,6 +2,10 @@
 
 Never Stop Thinking is an interrupt-and-resume orchestrator so a text LLM thinks while listening and speaking.
 
+![Turn-based versus continuous-time timelines for one voice request](../assets/gifs/sol-never-stop-thinking.png)
+
+*Paper figure (diagram of a real trace at real timings) comparing a turn-based agent, which thinks in silence after the user finishes, with the continuous-time orchestrator, which thinks while listening and fires the weather tool 3 s before the user stops speaking. Source: [Never Stop Thinking, arXiv 2609.17416, Figure 1](https://arxiv.org/html/2609.17416).*
+
 | | |
 |---|---|
 | Year | 2026 |

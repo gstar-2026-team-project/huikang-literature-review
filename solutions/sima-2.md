@@ -2,6 +2,10 @@
 
 SIMA 2 fine-tunes Gemini Flash-Lite to emit text action chunks in commercial 3D games, with optional reasoning.
 
+![SIMA 2 chatting with a user while exploring a planet in No Man's Sky](../assets/gifs/sol-sima-2.gif)
+
+*Edited recording from DeepMind's SIMA 2 blog: a user asks SIMA 2 to check egg-shaped objects in No Man's Sky, and the agent replies in the chat panel and walks toward them. Source: [Google DeepMind, SIMA 2 blog](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/).*
+
 | | |
 |---|---|
 | Year | 2025 |

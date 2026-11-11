@@ -2,6 +2,10 @@
 
 In Hi Robot the high-level VLM re-runs every second or immediately on a user interjection.
 
+![Hi Robot making a sandwich as a person interjects "Can you add more pickles?"](../assets/gifs/sol-hi-robot.gif)
+
+*Recording of the robot running autonomously (shown at the authors' 2x speed, cropped): mid-sandwich, the person asks "Can you add more pickles?", the robot replies "Of course" and its next low-level command becomes "Pick up one slice of pickles". Source: [Physical Intelligence, Hi Robot page](https://www.pi.website/research/hirobot).*
+
 | | |
 |---|---|
 | Links | [arXiv 2502.19417](https://arxiv.org/abs/2502.19417) |

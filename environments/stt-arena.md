@@ -2,6 +2,10 @@
 
 STT-Arena is a computer-use benchmark whose triggers fire on state and spatio-temporal conditions, not wall clock.
 
+![STT-Arena example where a mid-task price change makes a flight booking fail and the agent replans](../assets/gifs/stt-arena.png)
+
+*Paper figure (Figure 1, a diagram, not a recording): a flight's price rises after the agent searches, so its booking fails and it re-searches and books the new cheapest flight. Source: [STT-Arena paper, arXiv 2605.18548](https://arxiv.org/abs/2605.18548).*
+
 | | |
 |---|---|
 | Year | 2026 |

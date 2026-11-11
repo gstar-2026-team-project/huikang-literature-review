@@ -2,6 +2,10 @@
 
 The PokeAgent speedrunning track asks agents to play Pokemon Emerald to the first gym in real time, ranked by completion, then wall-clock time, then action count.
 
+![PokeAgent](../assets/gifs/pokeagent-speedrun.gif)
+
+*A recording of the winning team Heatz's agent in its first Pokemon Emerald battle: it picks FIGHT, then TACKLE, against a wild Zigzagoon. The video is edited from the 40:13 run, so no clock is visible. Source: [Footage: team Heatz (uploader Junik Bae), winning PokeAgent Challenge speedrun submission video, linked from the official leaderboard at pokeagent.github.io/leaderboard.html](https://youtu.be/A28OJRl3R8o).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

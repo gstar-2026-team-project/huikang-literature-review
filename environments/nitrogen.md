@@ -2,6 +2,10 @@
 
 NitroGen's universal simulator is a Gymnasium wrapper that intercepts the game engine's system clock and "freezes the game while the model predicts".
 
+![NitroGen driving through city traffic in Cyberpunk 2077](../assets/gifs/nitrogen.gif)
+
+*Recording of NitroGen playing Cyberpunk 2077 ("Navigate city traffic"), a 4 s excerpt from the project page's edited "Autonomous Agent" montage; no clock is shown, and the montage does not say whether the game was paused during inference. Source: [NitroGen project page (NVIDIA et al.)](https://nitrogen.minedojo.org/).*
+
 | | |
 |---|---|
 | Year | 2026 |

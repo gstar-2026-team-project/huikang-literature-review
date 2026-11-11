@@ -2,6 +2,10 @@
 
 TextStarCraft II plays StarCraft II through text macro actions against the built-in AI (paused) and in human matches (realtime).
 
+![TextStarCraft II LLM agent observation, thought and strategy over Voidray defense](../assets/gifs/textstarcraft-ii.gif)
+
+*Recording of the authors' edited demo video: the LLM agent's text observation, then its "LLM Thought" and chosen strategy (Voidray defense), overlaid on its Protoss base under Zerg attack, with the replay clock at bottom right. Source: [Domination from Above, TextStarCraft II authors (YouTube)](https://www.youtube.com/watch?v=Iz6Hd917eME).*
+
 | | |
 |---|---|
 | Year | 2023 |

@@ -2,6 +2,10 @@
 
 The Proact-VL Live Gaming Benchmark is offline replay of recorded gameplay for commentary, with no play.
 
+![Proact-VL commentary subtitles over a League of Legends broadcast](../assets/gifs/proact-vl-live-gaming.gif)
+
+*Recording from the authors' solo-commentary demo: the model's commentary appears as subtitles over a prerecorded BLG vs T1 League of Legends broadcast, with the in-game clock at top centre (5 s at normal speed, cropped). Source: [Proact-VL demo video](https://www.youtube.com/watch?v=hEMyNKgxYT8).*
+
 | | |
 |---|---|
 | Year | 2026 |

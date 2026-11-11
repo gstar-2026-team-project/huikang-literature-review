@@ -2,6 +2,10 @@
 
 Cradle is a general computer-control agent framework that states it must pause games such as RDR2 and Stardew Valley while waiting for the model.
 
+![Cradle playing Red Dead Redemption II, mission "Protect Dutch", opening the weapon wheel](../assets/gifs/cradle.gif)
+
+*Recording of Cradle playing the "Protect Dutch" mission in Red Dead Redemption II, sped up 16x by the authors (overlay "X16"), so the model's waiting time and game pauses are not visible. Source: [Cradle authors (BAAI), "Cradle Mastering Tasks in Chapter 1 of Red Dead Redemption II (at 16x speed)"](https://www.youtube.com/watch?v=fkkSJw1iJJ8).*
+
 | | |
 |---|---|
 | Year | 2024 |

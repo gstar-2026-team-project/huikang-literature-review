@@ -2,6 +2,10 @@
 
 VideoGameBench asks a model to complete 1990s Game Boy and MS-DOS games from raw frames, with a realtime full mode and a paused Lite mode.
 
+![GPT-4o agent walking Mario into a Goomba in Super Mario Land](../assets/gifs/videogamebench.gif)
+
+*Recording (cropped to the game window, about 6 s) of the VG-Agent with GPT-4o playing Super Mario Land in real-time mode, where its 3-5 s response delay lets it walk into a Goomba while the in-game TIME counter runs down. Source: [VideoGameBench blog, Figure 6](https://vgbench.com/blog.html).*
+
 | | |
 |---|---|
 | Year | 2025 |

@@ -2,6 +2,10 @@
 
 gym-super-mario-bros is a step-locked NES Super Mario Bros. environment on nes-py.
 
+![gym-super-mario-bros World 1-1 in four ROM modes](../assets/gifs/gym-super-mario-bros.png)
+
+*Static screenshots (not a recording) of the start of World 1-1 in the four SuperMarioBros ROM modes: standard v0 (top left), downsample v1 (top right), pixel v2 (bottom left) and rectangle v3 (bottom right), arranged into a grid. Source: [gym-super-mario-bros README, tag 7.4.0](https://github.com/Kautenja/gym-super-mario-bros/blob/7.4.0/README.md).*
+
 | | |
 |---|---|
 | Year | 2018 |

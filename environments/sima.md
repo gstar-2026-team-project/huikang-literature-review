@@ -2,6 +2,10 @@
 
 SIMA's evaluation environments are commercial games that "do not stop and wait while the agent computes".
 
+![SIMA agent following "Drive the car" and "Jump the fence" in Goat Simulator 3](../assets/gifs/sima.gif)
+
+*Recorded gameplay of the SIMA agent carrying out two language instructions side by side in Goat Simulator 3, cropped from the top row of DeepMind's grid of example clips. Source: [Google DeepMind, SIMA blog post](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/).*
+
 | | |
 |---|---|
 | Year | 2024 |

@@ -2,6 +2,10 @@
 
 MiniWoB++ is a suite of more than 100 short web tasks whose episode timer is wall clock with a 10 s default and a time-decayed reward, so it is realtime-live out of the box.
 
+![MiniWoB++ click-button task with countdown timer](../assets/gifs/miniwob-plusplus.gif)
+
+*Real-time screen capture of the official click-button browser demo played by a simple scripted clicker (not a model) across three episodes, with the "Time left: N / 10sec" countdown and the time-decayed rewards (0.81, 0.87, 0.76) in the side panel. Source: [Farama MiniWoB++ demo](https://miniwob.farama.org/demos/miniwob/click-button.html).*
+
 | | |
 |---|---|
 | Year | 2017-18 |

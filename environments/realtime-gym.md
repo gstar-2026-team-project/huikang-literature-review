@@ -2,6 +2,10 @@
 
 Real-Time Reasoning Gym (RealtimeGym) runs Freeway, Snake and Overcooked (scripted partner) at three cognitive-load levels with an environment that steps once every N generated tokens.
 
+![Real-Time Reasoning Gym](../assets/gifs/realtime-gym.gif)
+
+*A recorded RealtimeGym Freeway replay (Hard load, Extreme time pressure on the token clock) with the Reactive, Planning and AgileThinker agents side by side, showing the step counter, each agent's score and its next action, captured from the authors' replay viewer (not live play). Source: [Frames captured from the RealtimeGym interactive demo (realtimegym.saltlab.stanford.edu), Wen et al., Stanford SALT](https://realtimegym.saltlab.stanford.edu/).*
+
 | | |
 |---|---|
 | Year | 2025 |

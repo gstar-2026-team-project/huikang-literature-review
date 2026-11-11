@@ -2,6 +2,10 @@
 
 Flappy Bird in flappy-bird-gymnasium is a tiny one-button game with text-serialisable state.
 
+![DQN agent playing Flappy Bird](../assets/gifs/flappy-bird.gif)
+
+*Recording of the repo's bundled DQN agent (an RL agent, not an LLM) flying through pipes with the score counter at about 200, then a new episode starting at 0; the official README GIF, resampled to 8 fps. Source: [flappy-bird-gymnasium README](https://github.com/markub3327/flappy-bird-gymnasium).*
+
 | | |
 |---|---|
 | Year | 2016- |

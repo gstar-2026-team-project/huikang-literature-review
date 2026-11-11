@@ -2,6 +2,10 @@
 
 Real-Time Chunking starts the next inference early, freezes the actions that will execute during the delay and inpaints the rest.
 
+![Real-Time Chunking](../assets/gifs/real-time-chunking.gif)
+
+*Recording at 1x speed of a robot with real-time chunking (left) striking a match and lighting a candle on a pie, while the synchronous-inference robot (right) is still picking up the matchbox. Source: [Video: Physical Intelligence, "Real-Time Action Chunking with Large Models" (Black, Galliker, Levine), pi.website](https://www.pi.website/research/real_time_chunking).*
+
 | | |
 |---|---|
 | Year | 2025 |

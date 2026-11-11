@@ -2,6 +2,10 @@
 
 SnakeBench is a model-versus-model Snake arena where "The simulation proceeds round-by-round".
 
+![SnakeBench o3-mini vs DeepSeek-R1 match on a 10x10 board](../assets/gifs/snakebench.gif)
+
+*Recorded replay of a turn-based o3-mini vs DeepSeek-R1 SnakeBench match (snakes "1"/"2" with tails "T", apples "A"), sped up 5x from the original animation. Source: [ARC Prize Foundation, SnakeBench blog](https://arcprize.org/blog/snakebench).*
+
 | | |
 |---|---|
 | Year | 2024-26 |

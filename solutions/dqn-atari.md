@@ -2,6 +2,10 @@
 
 The DQN / Atari line of RL agents acts with frameskip 4 (15 Hz) and gets inference time for free.
 
+![DQN playing Atari Breakout](../assets/gifs/sol-dqn-atari.gif)
+
+*Recording of DQN playing Atari Breakout late in training, clearing a tunnel at the left edge of the wall as the score climbs from 042 to 064; a 5-second excerpt from the official video, cropped to the playfield. Source: [Google DeepMind, "DQN Breakout" video](https://www.youtube.com/watch?v=TmPfTpjtdgg).*
+
 | | |
 |---|---|
 | Year | 2015- |

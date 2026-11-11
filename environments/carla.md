@@ -2,6 +2,10 @@
 
 CARLA is a driving simulator whose default mode is asynchronous and whose synchronous mode waits for the client.
 
+![CARLA car with segmentation, RGB and LIDAR views](../assets/gifs/carla.gif)
+
+*A 4-second excerpt of the official CARLA 0.9.16 release video, recorded in the simulator: a car drives through a town while semantic-segmentation, RGB chase-camera and LIDAR point-cloud views update together (no agent or LLM is shown). Source: [CARLA Simulator, "CARLA 0.9.16 Release" (YouTube)](https://www.youtube.com/watch?v=YLh07d-YPSI).*
+
 | | |
 |---|---|
 | Year | 2017 |

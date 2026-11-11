@@ -2,6 +2,10 @@
 
 TimeSpeak and CueSpeak are Thinking Machines timing benchmarks for interaction models using 200 ms micro-turns; the benchmarks are not released.
 
+![Person opens a drink can while the interaction model reacts in a desk demo](../assets/gifs/thinking-machines-timespeak-cuespeak.gif)
+
+*Recording (silent 5 s excerpt) from Thinking Machines' edited "Diet manager" demo video, where a user drinks from a can as the interaction model reacts to visual cues during the conversation; no on-screen clock. Source: [Thinking Machines on YouTube](https://www.youtube.com/watch?v=qXdYDUqxSxA).*
+
 | | |
 |---|---|
 | Year | 2026 |

@@ -2,6 +2,10 @@
 
 Overcooked-AI is a step-locked gym whose web demo runs human-AI games on a real tick.
 
+![Two chef agents cooking onion soups in three Overcooked-AI layouts, with Orders, Score and Time Left shown](../assets/gifs/overcooked-ai.gif)
+
+*Recorded rollouts of two agents playing three of the five Overcooked-AI layouts side by side, with Score and Time Left counters; cropped from the repo's five-layout animation. Source: [HumanCompatibleAI/overcooked_ai README](https://github.com/HumanCompatibleAI/overcooked_ai/blob/master/images/layouts.gif).*
+
 | | |
 |---|---|
 | Year | 2019 |

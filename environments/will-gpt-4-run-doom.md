@@ -2,6 +2,10 @@
 
 "Will GPT-4 Run DOOM?" has a model play Doom from screenshots described as text, with the model call inside the engine frame callback so the engine cannot tick.
 
+![Will GPT-4 Run DOOM system architecture](../assets/gifs/will-gpt-4-run-doom.png)
+
+*Architecture diagram from the paper (Figure 1): a Vision model turns Doom screenshots into structured text, which a Planner and an Agent use to pick actions that a Manager passes to the Doom engine through a Python binding. Source: [de Wynter, arXiv 2403.05468](https://arxiv.org/abs/2403.05468).*
+
 | | |
 |---|---|
 | Year | 2024 |

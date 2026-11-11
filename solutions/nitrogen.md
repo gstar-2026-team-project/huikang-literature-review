@@ -2,6 +2,10 @@
 
 NitroGen is a vision-to-gamepad model of about 500M parameters that outputs 16-action chunks from one frame, with no language.
 
+![NitroGen playing Cuphead, parrying ghosts](../assets/gifs/sol-nitrogen.gif)
+
+*Recording of NitroGen playing Cuphead ("Parry ghosts before they reach the urn"), a 4 s clip from the authors' edited "Autonomous Agent" montage; no timer is shown and the page does not say whether the game was paused during inference. Source: [NitroGen project page (NVIDIA, Stanford, Caltech)](https://nitrogen.minedojo.org/).*
+
 | | |
 |---|---|
 | Year | 2026 |

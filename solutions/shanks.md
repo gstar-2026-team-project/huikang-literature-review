@@ -2,6 +2,10 @@
 
 SHANKS generates reasoning while the user is still talking, so reasoning costs no extra latency.
 
+![SHANKS robot thinking while the user speaks](../assets/gifs/sol-shanks.gif)
+
+*Recording of the authors' pre-rendered demo animation (sped up 4x; the original halts every 4 s): the robot's thought bubble streams `<think>` reasoning about a math word problem while the boy's speech bubble streams his still-unfinished question. Source: [SHANKS project page](https://d223302.github.io/SHANKS/).*
+
 | | |
 |---|---|
 | Links | [arXiv 2510.06917](https://arxiv.org/abs/2510.06917) |

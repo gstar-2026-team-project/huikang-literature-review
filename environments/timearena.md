@@ -2,6 +2,10 @@
 
 TimeArena is a text environment with simulated action durations that tests multitasking as planning.
 
+![TimeArena tea-room episode with simulated clock, action and feedback overlays](../assets/gifs/timearena.gif)
+
+*Recording from the authors' "Parallel Processing" demo video, sped up 6x: the agent washes a cup and pours tea while the washing machine runs, as the simulated clock goes from T=13 to T=16 min and Task 1 completes. Source: [TimeArena project page](https://time-arena.github.io/).*
+
 | | |
 |---|---|
 | Year | 2024 |

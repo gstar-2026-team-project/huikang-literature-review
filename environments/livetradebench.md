@@ -2,6 +2,10 @@
 
 LiveTradeBench is a live-data trading benchmark with one decision per trading day.
 
+![LiveTradeBench leaderboard with Stock and Polymarket rankings](../assets/gifs/livetradebench.jpg)
+
+*Annotated screenshot (paper Figure 10, cropped) of the trade-bench.live leaderboard, ranking LLM agents by return in the Stock and Polymarket arenas with the next scheduled update time; a still, not a recording. Source: [LiveTradeBench paper, arXiv 2511.03628](https://arxiv.org/html/2511.03628).*
+
 | | |
 |---|---|
 | Year | 2025 |

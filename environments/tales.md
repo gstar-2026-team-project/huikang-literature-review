@@ -2,6 +2,10 @@
 
 TALES is a text-adventure benchmark with text games stepped per action.
 
+![TALES agent stepping through a text game: state, reasoning, action](../assets/gifs/tales.jpg)
+
+*Diagram from the TALES project page of an agent working through a ScienceWorld-style text game one turn at a time: each game state is followed by the model's reasoning, labelled deductive, inductive, grounded or spatial, and then a typed action; the last step shows an inductive and spatial reasoning error. Source: [TALES project page](https://microsoft.github.io/tale-suite/).*
+
 | | |
 |---|---|
 | Year | 2024-26 |

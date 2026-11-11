@@ -2,6 +2,10 @@
 
 AnytimeReasoner trains a reasoning LLM with RL in which thinking is truncated at sampled budgets.
 
+![AnytimeReasoner objective and BRPO diagram](../assets/gifs/sol-anytimereasoner.png)
+
+*Paper diagram (Figure 1): left, the anytime objective that maximizes the area under success probability across sampled thinking budgets; right, Budget Relative Policy Optimization, where reasoning is truncated at budgets b1...bm to give dense rewards. Source: [Qi et al., arXiv 2505.13438](https://arxiv.org/abs/2505.13438).*
+
 | | |
 |---|---|
 | Year | 2025 |

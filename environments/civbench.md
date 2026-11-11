@@ -2,6 +2,10 @@
 
 CivBench is a turn-based strategy benchmark played "over 300 turns".
 
+![CivBench map replay of a Civilization VI game](../assets/gifs/civbench.gif)
+
+*Screen recording of the site's animated territory-map replay of a recorded game (Claude Opus 4.6 as Babylon), running from about turn 20 to turn 220; the replay plays at its 10x setting and the GIF is a further 2x faster. Source: [civ6-mcp CivBench game archive](https://civ6-mcp.lwilko.com/games/babylon_stk_-1851106432_wandering-carmine-ballista-57).*
+
 | | |
 |---|---|
 | Year | 2024-26 |

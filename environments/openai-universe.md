@@ -2,6 +2,10 @@
 
 OpenAI Universe was a 2016 platform that ran any program behind a remote desktop as an environment that runs in real time rather than stepping synchronously with the agent's actions.
 
+![OpenAI Universe](../assets/gifs/openai-universe.gif)
+
+*A recording of a trained Universe RL agent driving a Formula-style racing Flash game, with the in-game race timer running in the top right. Cropped to one of three side-by-side games. Source: [Video: OpenAI, "Universe" launch post (5 Dec 2016), clip "Three trained agents playing several racing Flash games", via the Internet Archive.](https://web.archive.org/web/20161207112259/https://openai.com/blog/universe/).*
+
 | | |
 |---|---|
 | Year | 2016 |

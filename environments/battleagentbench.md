@@ -2,6 +2,10 @@
 
 BattleAgentBench is "a turn-based interactive game, Battle City".
 
+![BattleAgentBench method diagram](../assets/gifs/battleagentbench.jpg)
+
+*Method diagram (figure, not footage) showing the three stage levels (navigation, paired cooperation/competition, multi-agent dynamics) and LLM agents connected to a Battle City game server. Source: [THUDM/BattleAgentBench README](https://github.com/THUDM/BattleAgentBench).*
+
 | | |
 |---|---|
 | Links | [arXiv 2408.15971](https://arxiv.org/abs/2408.15971) |

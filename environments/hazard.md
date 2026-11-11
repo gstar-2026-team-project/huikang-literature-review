@@ -2,6 +2,10 @@
 
 HAZARD is a fire, flood and wind rescue benchmark in ThreeDWorld at 30 FPS, run paused in the original and realtime under RRARA's Time Conversion Mechanism.
 
+![HAZARD fire scenario: agent moving through a kitchen as fire spreads](../assets/gifs/hazard.gif)
+
+*Top-down recording of a HAZARD agent rescuing objects in a fire scenario while the fire spreads, sped up 6x (about 30 s of footage). Source: [HAZARD project page, UMass](https://embodied-agi.cs.umass.edu/hazard/).*
+
 | | |
 |---|---|
 | Year | 2024 / 2025 |

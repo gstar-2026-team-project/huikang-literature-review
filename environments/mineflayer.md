@@ -2,6 +2,10 @@
 
 Mineflayer is a Minecraft bot API whose bot physics run on a 50 ms wall-clock interval against a server that runs in real time.
 
+![Mineflayer bot rbot digging a descending staircase in Minecraft](../assets/gifs/mineflayer.gif)
+
+*Recording, at normal speed, of the Mineflayer bot "rbot" digging a descending spiral staircase on a live server, watched by a human player from above. Source: [Romain Beaumont, Mineflayer maintainer (YouTube)](https://www.youtube.com/watch?v=UM1ZV5200S0).*
+
 | | |
 |---|---|
 | Year | 2015- |

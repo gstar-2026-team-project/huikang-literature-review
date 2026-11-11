@@ -2,6 +2,10 @@
 
 Prophet Arena is "A Live Benchmark for Predictive Intelligence" in which forecasts are made before events resolve.
 
+![Prophet Arena forecast-trace replay: probability tape and working odds](../assets/gifs/prophet-arena.gif)
+
+*Screen recording of Prophet Arena's forecast-trace replay viewer at 60x playback: gemini-3.1-pro's odds on "25 bps increase" for the RBNZ October decision move from 8% to a final 53% as search and reprice steps land over its 6:02 run (replay clock bottom right). Source: [Prophet Arena](https://www.prophetarena.co/f/1p2TIjkOVlqwNWVYsDeCJg#watch).*
+
 | | |
 |---|---|
 | Year | 2024-26 |

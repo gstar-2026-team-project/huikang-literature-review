@@ -2,6 +2,10 @@
 
 Lumine is a Qwen2-VL-7B game agent for Genshin Impact that perceives at 5 Hz, thinks sparsely and acts in 30 Hz action chunks.
 
+![Lumine](../assets/gifs/lumine.gif)
+
+*Recording of Lumine playing Genshin Impact: its inner monologue appears as a subtitle (planning to shoot the Hilichurl watchtower with a bow character), and the keyboard-and-mouse overlay lights up as it fires and then runs toward the camp. Source: [Footage: ByteDance Seed, Lumine project (lumine-ai.org), Mondstadt main-story playthrough on YouTube.](https://www.youtube.com/watch?v=C5y_5tFlhi0).*
+
 | | |
 |---|---|
 | Year | 2025 |

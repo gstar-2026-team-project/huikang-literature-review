@@ -2,6 +2,10 @@
 
 Crafter and its JAX successor Craftax are fast, text-renderable open-world survival games that are not reflex-driven.
 
+![Craftax dungeon gameplay with inventory HUD](../assets/gifs/crafter-craftax.gif)
+
+*A 5-second excerpt (from 0:40) of the pre-rendered Craftax gameplay GIF on the project page: a player sleeps, then explores a dungeon floor with creatures and a ladder, with health, food, water, energy and mana plus inventory shown below; the page does not say whether a human or an agent played it, and there is no clock. Source: [Craftax project page](https://craftaxenv.github.io/).*
+
 | | |
 |---|---|
 | Year | 2021 / 2024 |

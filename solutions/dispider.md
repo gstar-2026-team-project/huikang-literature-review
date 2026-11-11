@@ -2,6 +2,10 @@
 
 Dispider separates perception, decision and asynchronous reaction modules for streaming video.
 
+![Dispider perception, decision and asynchronous reaction diagram](../assets/gifs/sol-dispider.png)
+
+*Diagram (paper Figure 1) of Dispider's streaming-video perception module, a decision module that also reads memory tokens and interaction history, and an asynchronous reaction module it triggers, set against VideoLLM-online's blocking reaction. Source: [Qian et al., arXiv 2501.03218](https://arxiv.org/abs/2501.03218).*
+
 | | |
 |---|---|
 | Year | 2025 |

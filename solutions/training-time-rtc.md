@@ -2,6 +2,10 @@
 
 Training-time RTC simulates the inference delay in training by giving the committed prefix as clean input.
 
+![Bimanual robot moving a portafilter at an espresso machine](../assets/gifs/sol-training-time-rtc.gif)
+
+*Recording (1x speed, autonomous) of the π\*0.6 espresso demo, which Physical Intelligence says used training-time RTC: the robot takes the portafilter from the grinder and moves it toward the machine. Source: [Physical Intelligence, π\*0.6 blog](https://www.pi.website/blog/pistar06).*
+
 | | |
 |---|---|
 | Year | 2025 |

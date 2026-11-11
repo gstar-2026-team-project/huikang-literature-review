@@ -2,6 +2,10 @@
 
 FiS-VLA is a robotics dual system running at 117.7 Hz.
 
+![FiS-VLA dual-arm robot doing a pouring task](../assets/gifs/sol-fis-vla.gif)
+
+*Recording of FiS-VLA controlling a dual-arm AlphaBot/Realman robot through a cup-pouring task, cropped, shown at 8x speed as captioned in the source clip. Source: [FiS-VLA project page](https://fast-in-slow.github.io/).*
+
 | | |
 |---|---|
 | Links | [arXiv 2506.01953](https://arxiv.org/abs/2506.01953) |

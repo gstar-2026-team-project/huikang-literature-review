@@ -2,6 +2,10 @@
 
 SyncLLM predicts the user's next speech chunk to hide latency.
 
+![SyncLLM LLM A and LLM B taking turns across simulated network latency](../assets/gifs/sol-syncllm.gif)
+
+*5 s clip (30-35 s) from the authors' explainer video: two SyncLLM instances (LLM A, LLM B) take turns speaking in full-duplex across a simulated network latency, shown as animated waveforms. Source: [SyncLLM project page](https://syncllm.cs.washington.edu/).*
+
 | | |
 |---|---|
 | Year | 2024 |

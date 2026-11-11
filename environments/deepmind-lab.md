@@ -2,6 +2,10 @@
 
 DeepMind Lab is a step-locked 3D platform, convertible but Linux-only with a Bazel build.
 
+![First-person view through a DeepMind Lab maze with apples and a countdown timer](../assets/gifs/deepmind-lab.gif)
+
+*Recording of a human player in the 'Nav Maze Level 1' maze, collecting apples while the top-right timer counts down (not an agent). Source: [Google DeepMind, "DeepMind Lab - Nav Maze Level 1" video](https://www.youtube.com/watch?v=M40rN7afngY).*
+
 | | |
 |---|---|
 | Year | 2016 |

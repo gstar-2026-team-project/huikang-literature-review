@@ -2,6 +2,10 @@
 
 HLA is a scaffold with a slow LLM, a fast LLM and a scripted executor, playing Overcooked with humans at about 3 Hz.
 
+![HLA chef chopping lettuce after the typed command "2 lettuces chop." while the game timer runs](../assets/gifs/sol-hla.gif)
+
+*Recorded replay from the authors' scripted-command test (Quantity Specification case 2): the script tester types "2 lettuces chop.", and HLA (the AI chef) fetches and chops lettuce and reports progress in the "AI Output" line while the game timer runs from about 2 to 10 s of 60. The authors' GIF plays faster than real time (about 1.3x). Source: [HLA project page](https://sites.google.com/view/overcooked-hla/).*
+
 | | |
 |---|---|
 | Year | 2023 |

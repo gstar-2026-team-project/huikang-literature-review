@@ -2,6 +2,10 @@
 
 TML-Interaction-Small is a 276B-parameter MoE interaction model whose input and output are interleaved in 200 ms micro-turns, with a separate asynchronous background model that reasons and calls tools.
 
+![Thinking Machines interaction models](../assets/gifs/tml-interaction-small.gif)
+
+*Recording from the authors' Time-awareness demo: three people talk to the interaction model on a phone on the table, while an on-screen timer counts from 00:00 to 00:05. Source: [Video: Thinking Machines Lab, "Time-awareness" demo for Interaction Models (May 2026), YouTube @thinkymachines](https://www.youtube.com/watch?v=sqJNfze19jA).*
+
 | | |
 |---|---|
 | Year | 2026 |

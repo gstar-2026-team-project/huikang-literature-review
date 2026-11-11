@@ -2,6 +2,10 @@
 
 PySC2 and python-sc2 are StarCraft II interfaces whose `realtime=True` mode advances at 22.4 game loops per second and skips loops the agent misses.
 
+![PySC2 renderer with game view and feature layers](../assets/gifs/pysc2-python-sc2.gif)
+
+*Recording of the PySC2 renderer showing a simplified Protoss base and minimap (left) beside live feature layers (right); environment footage only, no agent shown, 6 s excerpt at original speed. Source: [Google DeepMind, PySC2 announcement video](https://www.youtube.com/watch?v=-fKUyT14G-8).*
+
 | | |
 |---|---|
 | Year | 2017 |

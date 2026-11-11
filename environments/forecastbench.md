@@ -2,6 +2,10 @@
 
 ForecastBench is a forecasting benchmark whose questions resolve days to months later.
 
+![ForecastBench Brier Index vs model release date](../assets/gifs/forecastbench.png)
+
+*Screenshot of the ForecastBench /explore chart: each model's Brier Index (higher is better) against its release date, with state-of-the-art models in orange, a linear trend, and the superforecaster and public reference lines. Source: [ForecastBench, Forecasting Research Institute](https://www.forecastbench.org/explore/).*
+
 | | |
 |---|---|
 | Year | 2024-26 |

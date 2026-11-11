@@ -2,6 +2,10 @@
 
 Alpha Arena is a live-data trading arena whose decisions are "spaced by minutes to a few hours, not microseconds".
 
+![Alpha Arena dashboard with timestamped ModelChat decisions](../assets/gifs/alpha-arena.jpg)
+
+*Screenshot of the archived Alpha Arena Season 1.5 dashboard (taken 10 November 2026): competition tabs and live ticker prices, a banner saying the competition ended December 3, 2025, and the ModelChat feed of timestamped model trading rationales (Gemini-3-Pro, GPT-5.1, Claude-Sonnet). Source: [Nof1, Alpha Arena](https://www.alphaarena.ai).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

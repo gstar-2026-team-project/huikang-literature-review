@@ -2,6 +2,10 @@
 
 ProactiveVideoQA is an offline-replay video benchmark whose PAUC metric scores responses by when they occur.
 
+![PAUC metric illustration](../assets/gifs/proactivevideoqa.png)
+
+*Paper figure (Figure 3) illustrating PAUC: timestamped model responses to a streaming sandwich-making video are scored against the ground-truth answer window, and the area under the score-over-time curve is divided by its upper bound (here 48.5 / 98 = 0.49). Source: [Wang et al., ProactiveVideoQA, arXiv 2507.09313](https://arxiv.org/abs/2507.09313).*
+
 | | |
 |---|---|
 | Year | 2025 |

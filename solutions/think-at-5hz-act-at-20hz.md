@@ -2,6 +2,10 @@
 
 "Think at 5 Hz, Act at 20 Hz" trains a fast action head that reads a stale VLM cache with randomised staleness.
 
+![Slow frozen LLaMA-7B system filling a KV cache at 5 Hz, read by a fast action expert at 20 Hz](../assets/gifs/sol-think-at-5hz-act-at-20hz.png)
+
+*Method diagram (paper Figure 2): a frozen LLaMA-7B backbone appends tokens to a per-layer KV cache every 4 ticks (5 Hz), while a 337M action expert cross-attends into that cache at every tick (20 Hz) to output waypoints for a PID controller. Source: [arXiv 2607.15621, Figure 2](https://arxiv.org/html/2607.15621).*
+
 | | |
 |---|---|
 | Year | 2026 |

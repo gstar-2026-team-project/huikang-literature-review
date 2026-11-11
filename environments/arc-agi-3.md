@@ -2,6 +2,10 @@
 
 ARC-AGI-3 is a set of turn-based grid games scored on action count against human action baselines.
 
+![Twelve ARC-AGI-3 grid games advancing step by step](../assets/gifs/arc-agi-3.gif)
+
+*Recorded gameplay cropped to 12 tiles of the ARC Prize hero video's wall of ARC-AGI-3 games, each changing one action at a time with no clock on screen (the video does not say whether a human or an agent is playing). Source: [ARC Prize Foundation, ARC-AGI-3 project page](https://arcprize.org/arc-agi/3/).*
+
 | | |
 |---|---|
 | Year | 2026 |

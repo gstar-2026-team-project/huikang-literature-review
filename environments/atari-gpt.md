@@ -2,6 +2,10 @@
 
 Atari-GPT evaluates LLMs on seven Atari games with frame skip 8 and one model query per 8 frames.
 
+![Atari-GPT Breakout comparison grid: Human, GPT-4 Turbo, GPT-4o, Gemini 1.5 Flash, Claude 3 Haiku](../assets/gifs/atari-gpt.gif)
+
+*Recording of Breakout played by a human and four LLMs side by side; the panels were put together from step-wise runs where the game paused for each model, so the clip does not run at real-time speed. Source: [Atari-GPT project page (Waytowich et al.)](https://dev1nw.github.io/atari-gpt/videos.html).*
+
 | | |
 |---|---|
 | Year | 2024 |

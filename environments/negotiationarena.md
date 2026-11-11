@@ -2,6 +2,10 @@
 
 NegotiationArena is a turn-based negotiation benchmark with games capped by "Max. # of turns".
 
+![Red and Blue LLM agents negotiating a $100 split in NegotiationArena](../assets/gifs/negotiationarena.png)
+
+*Figure from the paper (not a recording): a multi-turn ultimatum game in which two LLM agents with different system prompts exchange structured `<message>` and `<trade>` turns, and Blue's aggressive persona raises its payoff. Source: [Bianchi et al., NegotiationArena, arXiv 2402.05863, Figure 1](https://arxiv.org/abs/2402.05863).*
+
 | | |
 |---|---|
 | Year | 2024 |

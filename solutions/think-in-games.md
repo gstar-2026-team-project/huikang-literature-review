@@ -2,6 +2,10 @@
 
 Think in Games trains Qwen 14B/32B with SFT and GRPO to predict macro actions for Honor of Kings replay snapshots.
 
+![Think in Games GRPO reward and response length curves for Qwen3-14B](../assets/gifs/sol-think-in-games.jpg)
+
+*Figure from the paper (Figure 3c): reward (red) and response length in tokens (blue) over about 2,800 GRPO training steps for Qwen3-14B. Source: [Think in Games, arXiv 2508.21365](https://arxiv.org/html/2508.21365).*
+
 | | |
 |---|---|
 | Year | 2025 |

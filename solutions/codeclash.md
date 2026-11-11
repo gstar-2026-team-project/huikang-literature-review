@@ -2,6 +2,10 @@
 
 In CodeClash LLMs write bots whose code competes in arenas; "LMs do not play the games directly".
 
+![CodeClash edit phase and competition phase loop](../assets/gifs/sol-codeclash.png)
+
+*Paper diagram (Figure 1, cropped to the loop): in each round two models edit their codebases with shell commands, then their bots compete in an arena (here Battlesnake), and the logs are copied back for the next of 15 rounds. Source: [CodeClash paper, arXiv 2511.00839](https://arxiv.org/html/2511.00839).*
+
 | | |
 |---|---|
 | Year | 2023-25 |

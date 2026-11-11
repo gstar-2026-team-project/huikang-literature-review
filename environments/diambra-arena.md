@@ -2,6 +2,10 @@
 
 DIAMBRA Arena is a step-locked platform for arcade fighting games such as Street Fighter III.
 
+![A trained RL agent playing Ryu against the CPU's Gill in Street Fighter III in DIAMBRA Arena](../assets/gifs/diambra-arena.gif)
+
+*Recording of a deep RL agent (AI, left panel) fighting the built-in CPU boss Gill in Street Fighter III through DIAMBRA Arena, with the in-game round timer counting down; 5 s at normal speed, cropped to the agent panel and game screen. Source: [DIAMBRA, YouTube](https://www.youtube.com/watch?v=FB4HaWnmPJ8).*
+
 | | |
 |---|---|
 | Year | 2022 |

@@ -2,6 +2,10 @@
 
 FPX is mixed-precision quantisation used as a latency knob, evaluated on Street Fighter and HFTBench.
 
+![FPX Street Fighter III match with round timer running](../assets/gifs/sol-fpx.gif)
+
+*Screen recording of an LLM-vs-LLM Street Fighter III match in DIAMBRA from the authors' FPX speed demo (red player at the 2.4x FPX setting, 542 ms latency), with the round timer counting down from 66 to 62 while the models act; real-time footage, cropped to the game window. Source: [Win Fast or Lose Slow project page](https://www.competitive-agent.com/).*
+
 | | |
 |---|---|
 | Year | 2025 |

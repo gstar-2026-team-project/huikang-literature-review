@@ -2,6 +2,10 @@
 
 "Are LRMs Interruptible?" is a diagnostic that injects interrupts and context updates mid-reasoning.
 
+![Interruptibility protocol diagram](../assets/gifs/sol-are-lrms-interruptible.png)
+
+*Method diagram: a reasoning trace is cut at token position X, a hard or soft interrupt or an information update is injected, and the model continues inference, scored on accuracy and answer length. Source: [Wu et al., dynamic-lm project page](https://dynamic-lm.github.io/).*
+
 | | |
 |---|---|
 | Year | 2025 |

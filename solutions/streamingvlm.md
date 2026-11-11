@@ -2,6 +2,10 @@
 
 StreamingVLM is a streaming video LLM.
 
+![StreamingVLM writing live commentary over an NBA clip](../assets/gifs/sol-streamingvlm.gif)
+
+*Recording from the authors' README demo video (cropped, real time) of StreamingVLM writing play-by-play commentary captions, with a video timestamp, as a Warriors vs Rockets broadcast plays. Source: [mit-han-lab/streaming-vlm README](https://github.com/mit-han-lab/streaming-vlm).*
+
 | | |
 |---|---|
 | Category | realtime architecture (streaming video LLM) |

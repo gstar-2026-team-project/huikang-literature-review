@@ -2,6 +2,10 @@
 
 Parallelized Planning-Acting runs planning and acting threads with a single-slot buffer where a new plan interrupts the running action, on an unpaused Minecraft server.
 
+![LLM agents fighting the Wither in Minecraft while posting plans in chat](../assets/gifs/sol-parallelized-planning-acting.gif)
+
+*Spectator-mode recording of a team of LLM agents fighting the Wither on a running server while they post attack plans in chat and the boss-health bar drops; the authors note some demo videos are sped up. Source: [Odyssey Multi-Agent demo (zju-vipa)](https://github.com/zju-vipa/Odyssey/tree/master/Multi-Agent#demo).*
+
 | | |
 |---|---|
 | Year | 2025 |

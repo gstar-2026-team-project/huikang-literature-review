@@ -2,6 +2,10 @@
 
 AlphaStar played StarCraft II on Battle.net with a camera interface and limits on action frequency agreed with a professional player.
 
+![AlphaStar agent-view visualisation beside MaNa's screen](../assets/gifs/sol-alphastar.gif)
+
+*Recorded replay of game 2 against MaNa from DeepMind's visualisation video, showing AlphaStar's rendered view next to MaNa's screen with its raw observations, network activations, considered location, build choices and outcome prediction. Source: [DeepMind, AlphaStar Agent Visualisation](https://www.youtube.com/watch?v=HcZ48JDamyk).*
+
 | | |
 |---|---|
 | Year | 2019 |

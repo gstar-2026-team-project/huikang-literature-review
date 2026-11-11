@@ -2,6 +2,10 @@
 
 pi0 is a robot policy that predicts 50 Hz action chunks with 73-86 ms inference and re-infers every 0.5 s.
 
+![pi0 bimanual robot moving an egg from a bowl to a carton](../assets/gifs/sol-pi0.gif)
+
+*Recording at 1x speed of a pi0 policy autonomously running a bimanual arm setup that picks an egg from a bowl and carries it to an egg carton (5 s excerpt). Source: [Physical Intelligence, pi0 blog](https://www.pi.website/blog/pi0).*
+
 | | |
 |---|---|
 | Year | 2024 |

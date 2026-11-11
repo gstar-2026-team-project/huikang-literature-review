@@ -2,6 +2,10 @@
 
 TORSI is a scaffold in which a slow teacher writes guidance offline and a fast student plays live alone.
 
+![TORSI](../assets/gifs/torsi.png)
+
+*Figure from the paper: the TORSI method diagram, with a fast model playing Mario and Flappy Bird live using frozen guidance that a slow model writes between runs. Source: [Figure 5 from Pan et al., "The World Won't Wait" (RealtimeBench / TORSI), arXiv 2610.20665, 2026.](https://arxiv.org/abs/2610.20665).*
+
 | | |
 |---|---|
 | Year | 2026 |

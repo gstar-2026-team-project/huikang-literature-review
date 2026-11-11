@@ -2,6 +2,10 @@
 
 GT Sophy is a Gran Turismo racing agent with 10 Hz control in a game that runs only in real time.
 
+![GT Sophy cars racing human drivers on the final lap at Dragon Trail Seaside](../assets/gifs/sol-gt-sophy.gif)
+
+*Recording from the official broadcast of Race Together 2021 Race 1: GT Sophy cars (Sophy Violette, Verte, Noire) duel on the final lap at real-time speed, with a camera cut partway through. Source: [Gran Turismo Sophy Race Together 2021 #1, Polyphony Digital / Sony AI](https://www.youtube.com/watch?v=4Gfm317R7l4).*
+
 | | |
 |---|---|
 | Year | 2022 |

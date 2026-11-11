@@ -2,6 +2,10 @@
 
 Cradle is a six-module GPT-4o pipeline that writes code skills to play commercial games.
 
+![Cradle playing RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2 in a 2x2 grid](../assets/gifs/sol-cradle.gif)
+
+*Recordings of four separate Cradle runs (RDR2, Stardew Valley, Cities: Skylines, Dealer's Life 2) tiled into a 2x2 grid: the opening 4 s of the authors' intro montage, with sped-up game footage (the source videos are labelled 16x). Source: [Cradle project page](https://baai-agents.github.io/Cradle/).*
+
 | | |
 |---|---|
 | Year | 2024 |

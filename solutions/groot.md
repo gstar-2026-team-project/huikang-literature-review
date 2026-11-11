@@ -2,6 +2,10 @@
 
 GROOT is a Minecraft model listed with the VPT line on the 20 Hz native interface with a synchronous simulator.
 
+![GROOT agent clips in Minecraft: carve pumpkins, collect dirt, use a bow, mine horizontally](../assets/gifs/sol-groot.gif)
+
+*Recorded GROOT agent gameplay in Minecraft (4 s from the project's banner montage, cropped to four of its six task clips; no clock or timer is shown). Source: [GROOT project page](https://craftjarvis.github.io/GROOT/).*
+
 | | |
 |---|---|
 | Year | 2022-25 |

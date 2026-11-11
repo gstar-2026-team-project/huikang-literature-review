@@ -2,6 +2,10 @@
 
 VideoLLM-online decides per video frame whether to stay silent or speak.
 
+![VideoLLM-online streaming demo on egocentric bike-repair video](../assets/gifs/sol-videollm-online.gif)
+
+*Recording from the authors' teaser video (5 s clip, title banner cropped): egocentric bike-repair video on the left, the live CLI transcript on the right with a running video clock, average processing FPS on an RTX 3090 and per-reply cost. Source: [VideoLLM-online project page](https://showlab.github.io/videollm-online).*
+
 | | |
 |---|---|
 | Year | 2024 |

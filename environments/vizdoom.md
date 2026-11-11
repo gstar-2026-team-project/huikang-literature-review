@@ -2,6 +2,10 @@
 
 ViZDoom is a Doom-based platform whose `ASYNC_PLAYER` mode advances at 35 tics/s without waiting for the agent, while `PLAYER` mode waits for it.
 
+![ViZDoom screen, labels, depth and automap buffers](../assets/gifs/vizdoom.gif)
+
+*Recording of one corridor run showing four synchronized ViZDoom buffers (screen, object labels, depth, automap), rearranged from the original 1x4 strip into a 2x2 grid and trimmed to the first 4 s. Source: [ViZDoom repo demo GIF (Farama Foundation)](https://github.com/Farama-Foundation/ViZDoom).*
+
 | | |
 |---|---|
 | Year | 2016 |

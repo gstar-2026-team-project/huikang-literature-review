@@ -2,6 +2,10 @@
 
 OpenAI Five played Dota 2 at 30 fps, acting on every fourth frame and reacting in 217 ms on average.
 
+![OpenAI Five Dota 2 teamfight footage](../assets/gifs/sol-openai-five.gif)
+
+*Recorded gameplay footage of an OpenAI Five Dota 2 teamfight in a dark-themed area of the map, shown at normal speed with the in-game HUD (game clock at top centre); clip from 0:44 to 0:49 of OpenAI's official video. Source: [OpenAI, "OpenAI Five" (YouTube)](https://www.youtube.com/watch?v=eHipy_j29Xw).*
+
 | | |
 |---|---|
 | Year | 2019 |

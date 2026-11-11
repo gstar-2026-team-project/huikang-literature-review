@@ -2,6 +2,10 @@
 
 Elastic Reasoning trains a reasoning LLM with GRPO on budget-constrained rollouts.
 
+![Elastic Reasoning framework: budget-constrained GRPO training and separate thinking/solution budgets at inference](../assets/gifs/sol-elastic-reasoning.jpg)
+
+*Framework diagram (paper Figure 2): left, GRPO training with rollouts capped at t\* thinking and s\* solution tokens; right, inference that splits each total budget c into a thinking part t and a solution part s\*. Source: [Xu et al., arXiv 2505.05315](https://arxiv.org/abs/2505.05315).*
+
 | | |
 |---|---|
 | Year | 2025 |

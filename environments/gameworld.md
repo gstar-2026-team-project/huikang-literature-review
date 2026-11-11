@@ -2,6 +2,10 @@
 
 GameWorld is a benchmark of 34 browser games and 170 tasks whose main mode pauses the game during inference, with GameWorld-RT keeping the game running on the wall clock.
 
+![GameWorld](../assets/gifs/gameworld.gif)
+
+*A recording from the authors' archived live stream: Qwen3.5-122B-A10B plays NS-Shaft. Over 8 s the step counter goes from 063 to 066 while the LIVE countdown drops from 00:40 to 00:33 at wall-clock speed. The stream does not say whether this was the paused or the RT track. Source: [Clip from the GameWorld authors' official YouTube live stream (youtube.com/@gameworld-bench)](https://www.youtube.com/watch?v=vcOLE5vcKro).*
+
 | | |
 |---|---|
 | Year | 2026 |

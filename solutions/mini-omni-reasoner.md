@@ -2,6 +2,10 @@
 
 Mini-Omni-Reasoner interleaves reasoning with spoken output in a speech LLM.
 
+![Mini-Omni-Reasoner demo streaming its spoken response and inner thoughts side by side](../assets/gifs/sol-mini-omni-reasoner.gif)
+
+*Screen recording (cropped, real speed) of the official demo answering an uploaded spoken math question: the "Response" text and the "Inner Thoughts" reasoning stream in together after a 0.267 s response time. Source: [Mini-Omni-Reasoner README demo video](https://github.com/xzf-thu/Mini-Omni-Reasoner#demo).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

@@ -2,6 +2,10 @@
 
 The Dota 2 bot scripting API calls Lua `Think()` every frame, and dotaservice exposes a gRPC step interface.
 
+![dotaservice bot playing Dota 2 mid lane with policy output overlay](../assets/gifs/dota-2-bot-api.gif)
+
+*Recording of an RL policy (not an LLM) controlling a Dota 2 hero through dotaservice, with the in-game overlay showing the chosen unit order and a terminal strip printing the PyTorch policy outputs per step; the full 2.7 s README demo, resized and looped. Source: [TimZaman/dotaservice README demo.gif](https://github.com/TimZaman/dotaservice).*
+
 | | |
 |---|---|
 | Year | 2018 |

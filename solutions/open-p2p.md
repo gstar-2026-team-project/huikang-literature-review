@@ -2,6 +2,10 @@
 
 Open-P2P is a keyboard/mouse action model for 3D PC games that runs at 20 Hz on a consumer GPU.
 
+![Open-P2P shooting at a human opponent in a Roblox FPS duel](../assets/gifs/sol-open-p2p.gif)
+
+*Recording of Open-P2P playing a Roblox FPS round against a human player in real time, with the round timer at the top counting down from 0:57; a 4-second clip of the authors' "AI Agent vs Human Player" video, not sped up. Source: [Open P2P project page](https://elefant-ai.github.io/open-p2p/).*
+
 | | |
 |---|---|
 | Year | 2026 |

@@ -2,6 +2,10 @@
 
 TextWorld is a turn-based text-game framework stepped by `step(command)`.
 
+![TextWorld banner: a key unlocks a door that opens onto a game transcript](../assets/gifs/textworld.gif)
+
+*The project's animated banner (an illustration, not a recording of play, cropped and sped up 1.4x): a key unlocks a door, which opens on a sample TextWorld transcript with a quest, a room description and the command "eat broccoli". Source: [Microsoft Research TextWorld project page](https://www.microsoft.com/en-us/research/project/textworld/).*
+
 | | |
 |---|---|
 | Year | 2018-20 |

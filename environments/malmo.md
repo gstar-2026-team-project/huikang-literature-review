@@ -2,6 +2,10 @@
 
 Malmo is Microsoft's Minecraft platform; natively it runs at 20 Hz with observations coming in asynchronously.
 
+![Malmo Python agent loop driving a Minecraft character](../assets/gifs/malmo.gif)
+
+*A screen-capture clip from the Microsoft Research promo video: a Python agent loop (`sendCommand("move 1")`, `getWorldState()`) runs in the editor, the Minecraft window shows the character moving, and the console prints observations and rewards (a recording, not sped up). Source: [Microsoft Research, Project Malmo video (YouTube)](https://www.youtube.com/watch?v=KkVj_ddseO8).*
+
 | | |
 |---|---|
 | Year | 2016-22 |

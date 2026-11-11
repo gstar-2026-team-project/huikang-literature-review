@@ -2,6 +2,10 @@
 
 Qwen3-Omni is a Thinker-Talker model in which thinking precedes streaming output.
 
+![Qwen3-Omni Thinker-Talker architecture diagram](../assets/gifs/sol-qwen3-omni.jpg)
+
+*Architecture diagram (paper Figure 2): vision and AuT audio encoders feed the MoE Thinker, whose middle-layer hidden states drive the MoE Talker, an MTP module and a streaming codec decoder that emit speech. Source: [Qwen3-Omni Technical Report, arXiv 2509.17765](https://arxiv.org/html/2509.17765).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

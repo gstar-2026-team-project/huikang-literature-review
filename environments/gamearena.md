@@ -2,6 +2,10 @@
 
 GameArena is a game-based evaluation scored on "each round's decision".
 
+![GameArena Akinator game: the LLM asks yes/no questions turn by turn and guesses "chair"](../assets/gifs/gamearena.png)
+
+*Paper figure (Figure 1) illustrating the Akinator game, in which the LLM asks a human up to 20 yes-or-no questions, one turn at a time, before guessing the object. Source: [GameArena, arXiv 2412.06394](https://arxiv.org/abs/2412.06394).*
+
 | | |
 |---|---|
 | Links | [arXiv 2412.06394](https://arxiv.org/abs/2412.06394) |

@@ -2,6 +2,10 @@
 
 CombatVLA is a 3B VLA for Black Myth: Wukong that outputs the action first and truncates the explanation at inference.
 
+![VARP and CombatVLA fighting side by side in Black Myth: Wukong](../assets/gifs/sol-combatvla.gif)
+
+*Recording from the authors' inference-speed comparison video, played at 2x speed: VARP (left) and CombatVLA (right) fight in Black Myth: Wukong with the game paused during each model call, so frozen stretches show inference time. Source: [CombatVLA project page](https://combatvla.github.io/).*
+
 | | |
 |---|---|
 | Year | 2025 |

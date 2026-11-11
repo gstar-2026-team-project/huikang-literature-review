@@ -2,6 +2,10 @@
 
 STAR is a 1v1 hex wargame with turn-based and real-time modes.
 
+![Two LLM agents playing the STAR RoTK hex map beside their tool-call terminals](../assets/gifs/star.gif)
+
+*Recording of two LLM agents playing the RoTK hex wargame: the game window (left) with units, minimap and battle log, next to an agent terminal streaming `perform_action` tool calls (right); cropped from the authors' README GIF. Source: [star-nexus/star README](https://github.com/star-nexus/star).*
+
 | | |
 |---|---|
 | Year | 2026 |

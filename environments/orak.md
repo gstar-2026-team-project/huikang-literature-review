@@ -2,6 +2,10 @@
 
 Orak is a 12-game benchmark that pauses the game during inference, with a StarCraft II ablation that removes the pause.
 
+![Orak](../assets/gifs/orak.gif)
+
+*A screen recording of Claude Sonnet 4 calling Orak's MCP tools (load-obs, send-agent-module-response, dispatch-final-action) while Baba Is You waits behind a PAUSE overlay, then moves one step. Source: [Recording from the Orak leaderboard page, KRAFTON AI (Park et al., arXiv 2506.03610)](https://krafton-ai.github.io/orak-leaderboard/).*
+
 | | |
 |---|---|
 | Year | 2025 |

@@ -2,6 +2,10 @@
 
 DreamerV3 and Dreamer 4 are world-model agents evaluated on simulator-stepped Minecraft and other domains.
 
+![Dreamer 4 agent digging down and mining diamond ore in Minecraft](../assets/gifs/sol-dreamer.gif)
+
+*Recording of the Dreamer 4 agent evaluated in real Minecraft, digging down at about six minutes of episode time (overlay, top right), finding diamond ore and mining it to earn the "Diamonds!" advancement; a 5 s excerpt from the authors' edited video, which plays other parts at 10x. Source: [Danijar Hafner et al., "Dreamer 4 / Diamonds from Offline Experience" video](https://www.youtube.com/watch?v=oDlBtTcX0g0).*
+
 | | |
 |---|---|
 | Year | 2023-25 |

@@ -2,6 +2,10 @@
 
 microRTS is a small RTS game whose competition gives a 100 ms compute budget per game cycle.
 
+![microRTS game on a 16x16 map with workers, bases and barracks](../assets/gifs/microrts.gif)
+
+*Recording of a microRTS game from the MicroRTS-Py README, sped up 2.5x, with the game-cycle counter (T) shown at bottom left. Source: [Farama-Foundation/MicroRTS-Py](https://github.com/Farama-Foundation/MicroRTS-Py).*
+
 | | |
 |---|---|
 | Year | 2013 |

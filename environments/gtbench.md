@@ -2,6 +2,10 @@
 
 GTBench is a set of board and card games with a baseline that "randomly selects action at each turn".
 
+![GTBench schematic: LLM participants, prompt adapter and ten game environments](../assets/gifs/gtbench.jpg)
+
+*Figure 1 from the paper (a diagram, not a recording): LLM participants and reasoning agents (Prompt, CoT, SC-CoT, ToT) exchange observations and actions through a prompt adapter with ten turn-based games, from Tic-Tac-Toe and Connect-4 to Kuhn Poker, Liar's Dice and Negotiation. Source: [Duan et al., GTBench, arXiv 2402.12348](https://arxiv.org/abs/2402.12348).*
+
 | | |
 |---|---|
 | Links | [arXiv 2402.12348](https://arxiv.org/abs/2402.12348) |

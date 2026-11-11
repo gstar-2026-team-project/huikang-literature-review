@@ -2,6 +2,10 @@
 
 ABIDES is a discrete-event market simulator with per-agent latency and computation delay, not an LLM benchmark.
 
+![ABIDES class diagram: Kernel, Message, Agent, Config, Order, FinancialAgent](../assets/gifs/abides.png)
+
+*Cropped paper diagram (Figure 2, top two rows) of the ABIDES framework's classes: a Kernel that controls the simulation and acts as the clearinghouse for all messages passed between agents. Source: [Byrd, Hybinette and Balch, arXiv 1904.12066](https://arxiv.org/html/1904.12066v1).*
+
 | | |
 |---|---|
 | Year | 2019 |

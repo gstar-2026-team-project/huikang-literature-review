@@ -2,6 +2,10 @@
 
 OSWorld-Human is "The First CUA Latency Study", measuring planning and reflection latency per step while the environment waits.
 
+![Timeline of one OSWorld task by Agent S2 and GTA1, coloured by planning, reflection, judging, grounding and action time](../assets/gifs/osworld-human.png)
+
+*Paper figure (Figure 1): per-step timeline of one OS task (creating an SSH user) completed by Agent S2 (top, about 2,500 s) and GTA1 (bottom, about 4,500 s), showing that LLM planning, reflection and judging calls take up most of the wall-clock time. Source: [Abhyankar, Qi and Zhang, arXiv 2506.16042](https://arxiv.org/abs/2506.16042).*
+
 | | |
 |---|---|
 | Year | 2025 |

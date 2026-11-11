@@ -2,6 +2,10 @@
 
 HLA plays Overcooked with a human partner and chat at about 3 Hz, with a scripted executor acting while the LLMs run.
 
+![HLA chef answering a typed human command in Overcooked while the game timer runs](../assets/gifs/hla-overcooked.gif)
+
+*Recorded replay from the human study (Player-421, map Quick) at real speed: the human (pink beard) types "let chop some tomatos and lettuce first", HLA (blue chef) replies in the AI Output line and chops a tomato while the timer runs from about 2 to 8 s of 100. Source: [HLA project page](https://sites.google.com/view/overcooked-hla/).*
+
 | | |
 |---|---|
 | Year | 2023 |

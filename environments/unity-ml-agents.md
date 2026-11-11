@@ -2,6 +2,10 @@
 
 Unity ML-Agents is the route for building new realtime environments; its step API is synchronous.
 
+![A blue cube agent in a walled arena knocks over a gold-brick pyramid](../assets/gifs/unity-ml-agents.gif)
+
+*Recording (real-time, about 5 s) of a trained agent in what appears to be the Pyramids example scene, moving through the walled arena and toppling the gold-brick pyramid, from the clip committed to the ML-Agents repository. Source: [Unity-Technologies/ml-agents, Project/Recordings/movie.mp4](https://github.com/Unity-Technologies/ml-agents/blob/develop/Project/Recordings/movie.mp4).*
+
 | | |
 |---|---|
 | Year | 2017 |

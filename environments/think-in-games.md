@@ -2,6 +2,10 @@
 
 Think in Games is offline action prediction from Honor of Kings replays, not play.
 
+![Think in Games GRPO training diagram](../assets/gifs/think-in-games.png)
+
+*Diagram of the method: given an instruction and an Honor of Kings game state, the policy model samples several think-then-answer outputs, an action verifier scores each predicted action, and GRPO updates the policy against a frozen reference model (paper figure, no gameplay footage was published). Source: [Think in Games, arXiv 2508.21365, Figure 1](https://arxiv.org/abs/2508.21365).*
+
 | | |
 |---|---|
 | Year | 2025 |

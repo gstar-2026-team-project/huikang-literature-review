@@ -2,6 +2,10 @@
 
 Jericho is a turn-based interactive-fiction environment stepped by `step(action)`.
 
+![Jericho observation and action excerpt from 9:05](../assets/gifs/jericho.png)
+
+*Figure from the Jericho paper showing an excerpt from the game 9:05, where text observations alternate with typed actions such as "Answer phone" and "Examine me". Source: [Hausknecht et al., Interactive Fiction Games: A Colossal Adventure (arXiv 1909.05398), Figure 1](https://arxiv.org/abs/1909.05398).*
+
 | | |
 |---|---|
 | Year | 2018-20 |

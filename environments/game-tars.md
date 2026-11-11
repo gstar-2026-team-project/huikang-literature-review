@@ -2,6 +2,10 @@
 
 Game-TARS was evaluated on web games run with time-pause, plus Minecraft (MCU) and ViZDoom on synchronous simulators.
 
+![Game-TARS playing Racing and Temple Run](../assets/gifs/game-tars.gif)
+
+*Recording from the authors' pre-recorded unseen-games montage, cropped to two tiles (Racing, with its in-game timer, and Temple Run) with the agent's Thought and Action text; it does not show whether the game paused during inference. Source: [ByteDance Seed, Game-TARS page](https://seed-tars.com/game-tars).*
+
 | | |
 |---|---|
 | Year | 2025 |

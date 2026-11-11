@@ -2,6 +2,10 @@
 
 Bench2Drive is a driving benchmark run in CARLA synchronous mode.
 
+![Top-down CARLA view of the Think2Drive expert car driving among labelled traffic](../assets/gifs/bench2drive.gif)
+
+*A recording, played at normal speed and cropped around the car, of the Think2Drive RL expert (white box, "ego_vehicle") driving a two-lane road in the Vehicle Opens Door scenario while collecting training data (not an evaluated model). Source: [Bench2Drive project page](https://thinklab-sjtu.github.io/Bench2Drive/).*
+
 | | |
 |---|---|
 | Year | 2024 |

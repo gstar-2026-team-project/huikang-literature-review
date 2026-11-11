@@ -2,6 +2,10 @@
 
 Figure Helix is a robotics dual system with a 7-9 Hz VLM and a 200 Hz policy linked by a latent.
 
+![Two Figure 02 robots running Helix put groceries away next to an open fridge](../assets/gifs/sol-figure-helix.gif)
+
+*A 4-second excerpt from the hero video on Figure's Helix announcement page: an edited recording of two Figure 02 robots, both running the same Helix weights, putting away groceries at a fridge (cropped, no on-screen clock). Source: [Figure, "Helix: A Vision-Language-Action Model for Generalist Humanoid Control"](https://www.figure.ai/news/helix).*
+
 | | |
 |---|---|
 | Category | scaffold (robotics dual system) |

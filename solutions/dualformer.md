@@ -2,6 +2,10 @@
 
 Dualformer trains a transformer on randomly dropped reasoning traces.
 
+![Dualformer structured trace dropping strategies](../assets/gifs/sol-dualformer.png)
+
+*Paper figure (diagram) showing an A* search trace and the four levels of structured trace dropping (drop close clauses, cost tokens, some create clauses, or the whole trace) used to train Dualformer. Source: [Su et al., Dualformer, Figure 3.1](https://arxiv.org/abs/2410.09918).*
+
 | | |
 |---|---|
 | Year | 2024 |

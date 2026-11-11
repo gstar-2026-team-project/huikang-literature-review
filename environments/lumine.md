@@ -2,6 +2,10 @@
 
 Lumine is evaluated in two regimes: long main-storyline missions run realtime-live, and a 141-task benchmark run paused-live for every agent.
 
+![Lumine 141-task benchmark categories](../assets/gifs/lumine.jpg)
+
+*Figure from the paper showing example in-game screenshots and instructions for the paused-live 141-task Genshin Impact benchmark across its four categories (Collection, Combat, NPC Interaction, Puzzle), with simple, hard and unseen task counts. Source: [Lumine paper, Figure 8 (arXiv 2511.08892)](https://arxiv.org/html/2511.08892).*
+
 | | |
 |---|---|
 | Year | 2025 |

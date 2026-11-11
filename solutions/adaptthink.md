@@ -2,6 +2,10 @@
 
 AdaptThink trains a reasoning LLM with RL to choose between thinking and not thinking.
 
+![AdaptThink chooses Thinking or NoThinking by problem difficulty](../assets/gifs/sol-adaptthink.png)
+
+*Diagram (paper Figure 1) contrasting existing reasoning models, which always think, with AdaptThink, which thinks on difficult problems and answers directly on simple ones. Source: [Zhang et al., AdaptThink (arXiv 2505.13417)](https://arxiv.org/abs/2505.13417).*
+
 | | |
 |---|---|
 | Year | 2025 |

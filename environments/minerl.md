@@ -2,6 +2,10 @@
 
 MineRL is a Minecraft environment with 20 Hz synchronous stepping.
 
+![First-person Minecraft tunnelling with a pickaxe and torch](../assets/gifs/minerl.gif)
+
+*A 4.5 s clip from the official MineRL Competition 2019 trailer: a recording of first-person Minecraft play, mining down a tunnel with a pickaxe and torch toward an ore block; the trailer does not say whether a human or an agent is playing, and no timer is shown. Source: [Microsoft Research, MineRL Competition 2019](https://www.youtube.com/watch?v=ggo1WAldyq0).*
+
 | | |
 |---|---|
 | Year | 2016-22 |

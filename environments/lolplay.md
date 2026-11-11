@@ -2,6 +2,10 @@
 
 LOLPlay is a set of 36 champion-specific tasks in the native League of Legends client, played realtime-live on the wall clock.
 
+![LOLPlay](../assets/gifs/lolplay.gif)
+
+*A recording of GPT-6 Astra (low effort) playing Lee Sin in League of Legends on LOLPlay Task002, with the wall clock running: its status goes from "waiting for model" to "executing action batch" (Q skillshot on a jungle camp, level up) to the next step while the in-game timer moves from 03:04 to 03:09. Rearranged from the left pane of the side-by-side video (status panel and timer enlarged and moved above the game view). Source: [Clip from the LOLPlay project page (answers111.github.io/LOL-Play-homepage), Zhaojian Yu et al.](https://answers111.github.io/LOL-Play-homepage/).*
+
 | | |
 |---|---|
 | Year | 2026 |

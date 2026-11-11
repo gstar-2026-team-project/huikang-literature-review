@@ -2,6 +2,10 @@
 
 DSGBench runs StarCraft II and Street Fighter III with an `asynch_mode` flag that switches between paused-live and realtime-live.
 
+![DSGBench overview diagram](../assets/gifs/dsgbench.jpg)
+
+*Overview figure from the authors: the six games with the Async/Sync switch, the observation-to-prompt and response-to-action agent loop, capability metrics with per-model results, and decision-tracking analysis; a diagram, not footage. Source: [DSGBench project page](https://fateyetian.github.io/DSGBench/).*
+
 | | |
 |---|---|
 | Year | 2025 |

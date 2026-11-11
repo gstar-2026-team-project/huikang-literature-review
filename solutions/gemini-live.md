@@ -2,6 +2,10 @@
 
 Gemini Live is Google's live streaming API with a `thinkingLevel` setting whose default is minimal.
 
+![Gemini Live demo app turning its page red after a spoken request](../assets/gifs/sol-gemini-live.gif)
+
+*Screen recording at normal speed from Google Cloud's Live API demo walkthrough: the presenter talks to Gemini Live over a live mic and webcam stream, and the model calls the app's custom CSS tool, which turns the page background red. Source: [Google Cloud, "Live API plain js demo walkthrough" (YouTube)](https://www.youtube.com/watch?v=RLM1Qsp64WU).*
+
 | | |
 |---|---|
 | Year | 2025-26 |

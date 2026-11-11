@@ -2,6 +2,10 @@
 
 VARP is a successor of Cradle that pauses the game using photo mode during VLM inference.
 
+![VARP agent fighting the Wolf Stalwart in Black Myth: Wukong](../assets/gifs/varp.gif)
+
+*A 4-second excerpt of the authors' edited recording of the VARP agent fighting the Wolf Stalwart in Black Myth: Wukong (Task 4, captioned "Success"); no inference pauses or clock are visible. Source: [VARP Agent official video](https://www.youtube.com/watch?v=S1OWlF2LALM).*
+
 | | |
 |---|---|
 | Year | 2024-25 |

@@ -2,6 +2,10 @@
 
 PyBoy is a Game Boy emulator with a `tick()` API and adjustable emulation speed.
 
+![PyBrosAI agent playing Mario in PyBoy](../assets/gifs/pyboy.gif)
+
+*Recording of the PyBrosAI agent playing a Game Boy Mario level in PyBoy, with the in-game timer at top right; a 5 s excerpt of the README's looping GIF. Source: [Baekalfen/PyBoy README](https://github.com/Baekalfen/PyBoy).*
+
 | | |
 |---|---|
 | Year | 2016- |

@@ -2,6 +2,10 @@
 
 AsyncLM keeps generating while tools run and uses interrupt tokens on return.
 
+![Timelines of synchronous, parallel and asynchronous LLM function calling](../assets/gifs/sol-asynclm.png)
+
+*Paper figure (diagram) comparing LLM and executor timelines for synchronous, parallel-synchronous and asynchronous function calling, where AsyncLM keeps generating while tools run and results return as interrupts. Source: [Gim et al., arXiv 2412.07017, Figure 2](https://arxiv.org/abs/2412.07017).*
+
 | | |
 |---|---|
 | Year | 2024 |

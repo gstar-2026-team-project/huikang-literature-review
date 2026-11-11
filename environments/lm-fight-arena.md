@@ -2,6 +2,10 @@
 
 LM Fight Arena has two models fight in an emulator that streams raw frames, framed as "real-time, adversarial environments".
 
+![LM Fight Arena control loop diagram](../assets/gifs/lm-fight-arena.jpg)
+
+*Diagram of the control loop (paper Fig. 2): the Mortal Kombat II emulator streams frames that are subsampled and position-marked, combined with health, position and previous actions, and sent to two LMMs whose word outputs are translated into button presses. Source: [Paper, arXiv 2510.08928 (Fig. 2)](https://arxiv.org/html/2510.08928v2).*
+
 | | |
 |---|---|
 | Year | 2025 |

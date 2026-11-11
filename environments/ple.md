@@ -2,6 +2,10 @@
 
 PLE (PyGame Learning Environment) is a set of tiny games with text-serialisable state and one or two buttons.
 
+![Six PLE games running in a 3x2 grid](../assets/gifs/ple.gif)
+
+*Recordings of six PLE games (Flappy Bird, Pixelcopter, Catcher, Pong, Snake, WaterWorld), rearranged by cropping the maintainers' separate docs GIFs, resampling them to 10 fps and tiling them in one grid, with no agent, score or clock shown. Source: [PLE docs GIFs (ntasfi/PyGame-Learning-Environment)](https://github.com/ntasfi/PyGame-Learning-Environment/tree/master/docs/_static).*
+
 | | |
 |---|---|
 | Year | 2016- |

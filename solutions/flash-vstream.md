@@ -2,6 +2,10 @@
 
 Flash-VStream is a streaming video LLM.
 
+![Flash-VStream answering a question during an egocentric cooking video](../assets/gifs/sol-flash-vstream.gif)
+
+*A 5 s clip of the authors' recorded demo video: the question "What is happening now?" is asked at stream time 53:00 and the model's answer appears beside the cooking video, labelled "Answer Latency 1.0s". Source: [Flash-VStream project page](https://invinciblewyq.github.io/vstream-page).*
+
 | | |
 |---|---|
 | Category | realtime architecture (streaming video LLM) |

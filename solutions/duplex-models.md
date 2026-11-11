@@ -2,6 +2,10 @@
 
 Duplex models (MiniCPM-Duplex) read a time slice of text, write a slice or stay idle.
 
+![Duplex model timeline: user messages arrive in time slices t to t+3 while the model stays idle, answers, and switches to movies mid-reply](../assets/gifs/sol-duplex-models.png)
+
+*Paper figure (diagram) of a duplex model processing the user's input in time slices: it stays idle at t+1, starts answering at t+2, and switches to movies once the user interrupts during t+3. Source: [Zhang et al., arXiv 2406.15718](https://arxiv.org/abs/2406.15718).*
+
 | | |
 |---|---|
 | Year | 2024 |

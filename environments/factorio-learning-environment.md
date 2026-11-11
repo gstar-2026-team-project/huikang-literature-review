@@ -2,6 +2,10 @@
 
 In the Factorio Learning Environment the agent writes Python programs in a REPL against the Factorio server.
 
+![FLE agent loop: Python program, stdout/stderr, Factorio server state](../assets/gifs/factorio-learning-environment.jpg)
+
+*Diagram (cropped from the paper's Figure 2): the agent writes a Python program that runs against the Factorio server through the Python API, the game state updates, and stdout or an error such as "Drill not working, status NOT_FUELED" comes back and is added to memory. Source: [Hopkins et al., arXiv 2503.09617](https://arxiv.org/html/2503.09617).*
+
 | | |
 |---|---|
 | Year | 2025 |
