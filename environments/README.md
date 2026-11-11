@@ -431,7 +431,7 @@ Later, for two-agent tasks such as negotiation: [DPT-Agent's realtime Overcooked
 Design choices the evidence supports:
 - Offer three clocks on the same tasks (wall, token or injected, paused). The paused score is the control that shows the failure is temporal.
 - Collect human baselines under the same clock and interface. Almost no existing benchmark has them.
-- Rule out scripted solutions by construction (no code execution, no offline trace editing), since they approach world-record times where live play is several times slower.
+- Rule out scripted solutions by construction (no code execution, no offline trace editing), since in [SpeedrunBench](speedrunbench.md) they approach world-record times while models choosing moves online (with the game waiting) take several times the record.
 - Fix and report the default action, the tick rate, and action age.
 - Include tasks whose answer is "wait" or "act at time T", since timing itself is where realtime API models score near zero.
 
