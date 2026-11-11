@@ -65,6 +65,7 @@ Visuals are excerpts of each work's published recordings, replays or figures, no
 |---|---|---|---|---|---|
 | [SpeedrunBench](environments/speedrunbench.md) | Oct 2026 | frames to finish games vs human records | game waits; offline traces | scripted traces within 3-7% of records; online, Pokemon Blue takes 4-12x the record | <img src="assets/gifs/speedrunbench.gif" alt="speedrunbench"> |
 | [Polytopia bench](environments/polytopia-bench.md) | Oct 2026 | model writes a Polytopia bot in 40 min | game waits; 2 s per move | GPT-6 Astra 74.9/100; beats RL bot ~3% | <img src="assets/gifs/polytopia-bench.gif" alt="Model-written bots playing Polytopia"> |
+| [LLM sailing race](environments/llm-sailing-race.md) | Nov 2026 | steering a sailboat from raw numbers | paused; one decision per 5 s | Gemini 4 Argon won; Opus 5.5 missed mark 1 | <img src="assets/gifs/llm-sailing-race.gif" alt="LLM sailing race"> |
 
 **Methods for thinking while acting** (closest to post-training: training models to do better)
 
