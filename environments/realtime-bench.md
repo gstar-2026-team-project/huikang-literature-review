@@ -1,6 +1,6 @@
 # Realtime-Bench
 
-Realtime-Bench is a benchmark of 50 web and game tasks, each with a programmatic success check, run under wall, token and paused clocks.
+Realtime-Bench is a benchmark of 50 web and game tasks, each with a programmatic success check, run under wall, token and paused clocks. Not to be confused with [RealtimeBench](realtimebench.md) (arXiv 2610.20665, Peking University and Samsung), a different benchmark with a near-identical name.
 
 ![Realtime-Bench](../assets/gifs/realtime-bench.gif)
 

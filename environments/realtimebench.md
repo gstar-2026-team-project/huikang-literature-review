@@ -1,6 +1,6 @@
 # RealtimeBench (TORSI)
 
-RealtimeBench ("The World Won't Wait") is a set of 180 tasks over six arcade games run paused, live and accelerated, introduced with the TORSI method.
+RealtimeBench ("The World Won't Wait") is a set of 180 tasks over six arcade games run paused, live and accelerated, introduced with the TORSI method. Not to be confused with [Realtime-Bench](realtime-bench.md) (arXiv 2610.22155, UT Austin and others), a different benchmark with a near-identical name.
 
 ![RealtimeBench](../assets/gifs/realtimebench.png)
 
