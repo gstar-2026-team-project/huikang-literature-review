@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// The comparison tables have many columns; let them use the full width and
+// scroll sideways instead of squashing every cell.
+.markdown-body {
+  max-width: 1280px;
+}
+
+.markdown-body table {
+  display: block;
+  overflow-x: auto;
+}

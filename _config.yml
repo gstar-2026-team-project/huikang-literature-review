@@ -1,0 +1,15 @@
+title: Realtime LLM literature review
+description: Environments and solutions for LLMs that sense, think and act in real time
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+relative_links:
+  enabled: true
+  collections: false
+exclude:
+  - .github
+  - .claude
