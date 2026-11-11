@@ -13,3 +13,18 @@
   display: block;
   overflow-x: auto;
 }
+
+// Every headline GIF or figure is a 480x270 file; show them all at the same
+// size, smaller inside tables so each row's visual has the same height.
+.markdown-body img[src*="assets/gifs/"] {
+  width: 480px;
+  height: 270px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.markdown-body td img[src*="assets/gifs/"] {
+  width: 320px;
+  height: 180px;
+  max-width: none;
+}
