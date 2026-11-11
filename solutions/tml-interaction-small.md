@@ -2,13 +2,13 @@
 
 TML-Interaction-Small is a 276B-parameter MoE interaction model whose input and output are interleaved in 200 ms micro-turns, with a separate asynchronous background model that reasons and calls tools.
 
-![Thinking Machines interaction models](../assets/gifs/tml-interaction-small.gif)
+![Thinking Machines interaction models: animated micro-turn timeline](../assets/gifs/tml-interaction-small.gif)
 
-*Recording from the authors' "Introducing interaction models" video (1:54-2:02): while three people keep talking to the model over a webcam (left), it generates a "Human Reaction Times by Modality" bar chart live in a visualization sandbox (right), going from "Connecting visualization sandbox..." to the title to the finished chart in about 6 s; the on-screen caption reads "The model can produce visualization while keeping the conversation going". Source: [Video: Thinking Machines Lab, "Introducing interaction models" (May 2026), YouTube @thinkymachines](https://www.youtube.com/watch?v=A12AVongNN4&t=114s).*
+*Animation (Figure 1, "Time-aligned micro-turn based") from the authors' blog post, captured from the page: video frames, the user's audio and the model's audio fill in side by side in 200 ms micro-turns over about 3 s, so the model speaks while the user is still talking; hovering the markers then labels four moments: "Model interrupts and responds immediately" (micro-turn 3, 600 ms), "Model and user both remain silent" (1400 ms), "Model backchannels while the user talks" (2000 ms) and "Model reacts to visual clues without explicit prompting" (2600 ms). Source: [Thinking Machines Lab, "Interaction models" blog, Figure 1 (May 2026)](https://thinkingmachines.ai/blog/interaction-models/).*
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | May 2026 |
 | Authors / org | Thinking Machines Lab |
 | Links | [blog](https://thinkingmachines.ai/blog/interaction-models/) |
 | Demo | [blog](https://thinkingmachines.ai/blog/interaction-models/) and [YouTube](https://www.youtube.com/@thinkymachines): 10 pre-recorded company demo videos of live full-duplex voice/video conversation (interjections, live translation, time awareness, rep counting, tool calls), an animated 200 ms micro-turn diagram, and a page widget comparing recorded audio from TML vs GPT-realtime/Gemini. No games, no try-it access; human-playable: no. |
