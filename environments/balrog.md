@@ -8,7 +8,7 @@ BALROG is a long-horizon text and text+image game benchmark stepped once per age
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Nov 2024 |
 | Links | [arXiv 2411.13543](https://arxiv.org/abs/2411.13543) |
 | Demo | [balrogai.com](https://balrogai.com): leaderboard where each model has a page with replication commands and a link to recorded per-step text trajectory logs (CSV/JSON on [GitHub](https://github.com/balrog-ai/experiments)), plus a short recorded montage video on the [HF paper page](https://huggingface.co/papers/2411.13543). All runs are offline and turn-based: the game waits for each action, and there is no live play. Human-playable: no. |
 | Play mode | paused-live |

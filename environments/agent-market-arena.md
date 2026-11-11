@@ -8,7 +8,7 @@ Agent Market Arena is a live-data trading arena that "trades at a fixed daily ti
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Oct 2025 |
 | Links | [arXiv 2510.11695](https://arxiv.org/abs/2510.11695) |
 | Demo | [AMA live dashboard](https://ama.thefin.ai/live) (linked from the paper): a daily-updated dashboard of agents' paper-trading decisions and returns on BTC, ETH, BMRN and TSLA, plus a Live Challenge and a Leaderboard. In Nov 2026 its Supabase backend did not resolve, so every view showed no data. No game view or replay; not human-playable. |
 | Play mode | paused-live (live data, daily) |

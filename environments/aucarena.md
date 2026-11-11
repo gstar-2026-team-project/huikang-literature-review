@@ -8,7 +8,7 @@ AucArena is a round-based auction in which bidders act per auction round.
 
 | | |
 |---|---|
-| Year | 2023 |
+| Year | Oct 2023 |
 | Links | [arXiv 2310.05746](https://arxiv.org/abs/2310.05746) |
 | Demo | [project page](https://auction-arena.github.io) with static figures, plus [HF Space](https://huggingface.co/spaces/jiangjiechen/Auction-Arena-Demo), a Gradio auction where LLM and human bidders play with live API calls (bring your own key). It is turn-based and waits for every bidder with no timeout. The Space currently shows a runtime error (launch timed out). Human-playable: designed to be, but not reachable now. |
 | Play mode | paused-live, round-based auction |

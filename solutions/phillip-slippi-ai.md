@@ -8,7 +8,7 @@ Phillip (slippi-ai) plays Melee with a 12-15 frame imposed delay plus a predicti
 
 | | |
 |---|---|
-| Year | 2017- |
+| Year | Feb 2017 |
 | Links | [arXiv 1810.07286](https://arxiv.org/abs/1810.07286) |
 | Demo | [x_pilot Twitch channel](https://twitch.tv/x_pilot): live stream "Play vs the Phillip AI (!help)" where the bot plays humans over Slippi netplay in real time (Ping, FPS 59.8 and "Delay: 20f" overlays); human-playable via netplay per the repo README. Also: recorded YouTube matches vs top players, e.g. [Zain plays Phillip the AI in first to 5 wins](https://www.youtube.com/watch?v=c8nRFAGvr2c). |
 | Category | RL and decision model |

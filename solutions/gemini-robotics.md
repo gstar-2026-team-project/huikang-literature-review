@@ -8,7 +8,7 @@ Gemini Robotics uses a cloud backbone under 160 ms with a local decoder that giv
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Mar 2025 |
 | Links | [arXiv 2503.20020](https://arxiv.org/abs/2503.20020) |
 | Demo | [launch blog](https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/) with four official YouTube videos (e.g. [Dynamic interactions](https://www.youtube.com/watch?v=HyQs2OAIf-I)), and the [Gemini Robotics model page](https://deepmind.google/models/gemini-robotics/) (now showing the later 2.x models): recorded videos of real robots (ALOHA 2 bi-arm) doing tasks in real time, labelled "Autonomous 1x". Not a game, not interactive, no live model calls. |
 | Category | RL and decision model |

@@ -8,7 +8,7 @@ FLAIR uses interleaved or latent reasoning in a speech LLM, evaluated on speech 
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | Mar 2026 |
 | Links | [arXiv 2603.17837](https://arxiv.org/abs/2603.17837) |
 | Demo | None found (searched: arXiv abstract page and comments ("Accepted by ICML 2026"), URLs in the paper PDF, ICML 2026 poster page, GitHub repository search, web search for FLAIR / "The Silent Thought" demo, code or project page) |
 | Category | realtime architecture (thinking while speaking) / post-training |

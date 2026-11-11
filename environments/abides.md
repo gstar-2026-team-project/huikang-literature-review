@@ -8,7 +8,7 @@ ABIDES is a discrete-event market simulator with per-agent latency and computati
 
 | | |
 |---|---|
-| Year | 2019 |
+| Year | Apr 2019 |
 | Links | [arXiv 1904.12066](https://arxiv.org/abs/1904.12066) |
 | Demo | None found (searched: arXiv abstract page, GitHub abides-sim/abides README, homepage field and wiki, jpmorganchase/abides-jpmc-public README and homepage field, web search for "ABIDES market simulator demo video") |
 | Play mode | simulator (no LLM benchmark) |

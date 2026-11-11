@@ -8,7 +8,7 @@ HFTBench is a latency-sensitive trading backtest from "Win Fast or Lose Slow" in
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Links | [arXiv 2505.19481](https://arxiv.org/abs/2505.19481) |
 | Demo | [project page](https://www.competitive-agent.com/): animated HFTBench cumulative-yield charts (FPX vs FP16), a yield-bar GIF and an offline latency-tradeoff dial that only moves along precomputed curves; no recording or replay of a trading run. [code](https://github.com/HaoKang-Timmy/LatencySensitiveBench) README has an HFTBench heading but no demo. Human-playable: no. |
 | Play mode | realtime-live (in a backtest) |

@@ -8,7 +8,7 @@ Physical Atari runs ALE free-running at 60 Hz, played by a robot at 30 FPS with 
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jun 2026 |
 | Authors / org | Javed, Modayil, Kennickell, Sutton, Carmack |
 | Links | [arXiv 2606.19357](https://arxiv.org/abs/2606.19357) |
 | Demo | [Keen Technologies project page](https://keenagi.com/research/physical-atari/): project page with a 15 s autoplaying, looping video ("learning.mov") of three Robotrollers moving CX40+ joysticks while three Atari Devbox screens show the games, plus photo assembly guides for the Robotroller and Devbox. A recording of the robots playing live; no replay viewer, no score or clock readout, not human-playable. |

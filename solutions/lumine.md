@@ -8,7 +8,7 @@ Lumine is a Qwen2-VL-7B game agent for Genshin Impact that perceives at 5 Hz, th
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Nov 2025 |
 | Authors / org | ByteDance Seed |
 | Links | [arXiv 2511.08892](https://arxiv.org/abs/2511.08892) |
 | Demo | [Lumine](https://www.lumine-ai.org/): project page with short recorded task clips and full-length YouTube playthroughs (Genshin Mondstadt 5h, Liyue 7h, Star Rail 7h at 4x, Wuthering Waves 1h46m); one combat clip shows the in-game timer running. All recorded video, with no live model or replay viewer; human-playable: no. |

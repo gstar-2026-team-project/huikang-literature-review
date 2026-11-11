@@ -8,7 +8,7 @@ Parallelized Planning-Acting runs planning and acting threads with a single-slot
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Mar 2025 |
 | Links | [arXiv 2503.03505](https://arxiv.org/abs/2503.03505) |
 | Demo | [Official demo videos in the repo README](https://github.com/zju-vipa/Odyssey/tree/master/Multi-Agent#demo) ([ender_dragon.mp4](https://raw.githubusercontent.com/zju-vipa/Odyssey/master/Multi-Agent/demo/ender_dragon.mp4), [wither.mp4](https://raw.githubusercontent.com/zju-vipa/Odyssey/master/Multi-Agent/demo/wither.mp4)): spectator-mode recordings of a large team of LLM agents beating the Ender Dragon and the Wither on a running server, with a boss-health counter and in-game chat. Recordings, some sped up; not human-playable. |
 | Category | scaffold |

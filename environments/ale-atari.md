@@ -8,7 +8,7 @@ The Arcade Learning Environment (ALE) steps Atari 2600 games synchronously at 60
 
 | | |
 |---|---|
-| Year | 2013 |
+| Year | Jul 2012 |
 | Authors / org | Bellemare et al. 2013; Farama |
 | Links | [docs](https://ale.farama.org/environments/) |
 | Demo | [environment docs with gameplay GIFs](https://ale.farama.org/environments/): each game page has a short looping gameplay GIF (e.g. [Freeway](https://ale.farama.org/environments/freeway/)); a recording, not a model playing against a clock. A [WebAssembly page](https://ale.farama.org/wasm/) documents running ALE in the browser, but no hosted playable instance. |

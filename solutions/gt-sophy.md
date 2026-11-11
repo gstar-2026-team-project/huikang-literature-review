@@ -8,7 +8,7 @@ GT Sophy is a Gran Turismo racing agent with 10 Hz control in a game that runs o
 
 | | |
 |---|---|
-| Year | 2022 |
+| Year | Feb 2022 |
 | Links | [paper page](https://ai.sony/publications/Outracing-champion-Gran-Turismo-drivers-with-deep-reinforcement-learning) |
 | Demo | [GT Sophy Race Together](https://www.gran-turismo.com/us/gran-turismo-sophy/race-together/) ([site](https://www.gran-turismo.com/us/gran-turismo-sophy/)): recorded broadcasts of live 2021 races against top human drivers, with GT Sport physics running in real time; the site itself gives no latency figure (10 Hz control per the paper). Nothing playable; human-playable: no. |
 | Category | RL and decision model |

@@ -8,7 +8,7 @@ GameVerse is a 15-game benchmark, paused by default, in which Snake and Plants v
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Mar 2026 |
 | Authors / org | Tsinghua |
 | Links | [arXiv 2603.06656](https://arxiv.org/abs/2603.06656) |
 | Demo | [project page](https://gameverse-bench.github.io/): recorded, sped-up gameplay videos of VLM agents (and a human player) for all 15 games, before/after-reflection comparisons and a static leaderboard. The Snake clip shows a real-time game clock (Time x/1200s, Action Timeout 10.0) that keeps running while the model thinks. [code](https://github.com/THUSI-Lab/GameVerse) to run locally. Human-playable: no; no live model or replay viewer. |

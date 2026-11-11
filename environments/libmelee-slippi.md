@@ -8,7 +8,7 @@ libmelee drives Super Smash Bros. Melee in Dolphin at 60 Hz, reusing the last in
 
 | | |
 |---|---|
-| Year | 2017- |
+| Year | Dec 2016 |
 | Links | [repo](https://github.com/altf4/libmelee) |
 | Demo | [video](https://www.youtube.com/watch?v=1R723AS1P-0): AltF4 coding quickstart, 2020. A scripted Jigglypuff bot reads gamestate each frame through console.step() (60 fps, the game does not wait). Tutorial only; no ML and no gameplay in sampled frames. Human-playable: no. |
 | Play mode | realtime-live (default) + paused-live (`blocking_input=True`) |

@@ -8,7 +8,7 @@ GameWorld is a benchmark of 34 browser games and 170 tasks whose main mode pause
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Apr 2026 |
 | Authors / org | Ouyang, Hu, Lin, Ng, Shou (NUS, Oxford) |
 | Links | [arXiv 2604.07429](https://arxiv.org/abs/2604.07429), project [gameworld-bench.github.io](https://gameworld-bench.github.io); code [gameworld-project/gameworld](https://github.com/gameworld-project/gameworld) |
 | Demo | [project page](https://gameworld-project.github.io/) with a static [trajectory casebook](https://gameworld-project.github.io/static/figures/gameworld/cases/case_study_casebook/case_study_casebook.html) of recorded step-by-step THINK/CONTROL/EVAL cards (Minecraft, Mario CUA vs Generalist, Flappy Bird), plus a [YouTube "24/7 live" channel](https://www.youtube.com/@gameworld-bench/live) with 2 archived streams (Apr 2026) of Qwen3.5-122B playing the games in rotation. The streams show step n/100, score, reasoning and a wall-clock countdown, but don't say whether the paused or RT track was running; human-playable: no. |

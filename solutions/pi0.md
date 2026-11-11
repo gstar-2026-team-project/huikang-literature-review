@@ -8,7 +8,7 @@ pi0 is a robot policy that predicts 50 Hz action chunks with 73-86 ms inference 
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Oct 2024 |
 | Links | [arXiv 2410.24164](https://arxiv.org/abs/2410.24164) |
 | Demo | [pi0 blog](https://www.pi.website/blog/pi0): recorded videos of real robots acting autonomously ('uncut, from a single policy operating fully autonomously'; 1x/2x speed in the file names). The later RTC post says pi0 ran synchronously, pausing between chunks during inference. No interactive or live demo; human-playable: no. |
 | Category | RL and decision model |

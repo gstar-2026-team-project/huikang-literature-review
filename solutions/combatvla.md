@@ -8,7 +8,7 @@ CombatVLA is a 3B VLA for Black Myth: Wukong that outputs the action first and t
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Mar 2025 |
 | Links | [arXiv 2503.09527](https://arxiv.org/abs/2503.09527) |
 | Demo | [project page](https://combatvla.github.io/): two pre-recorded videos. One shows the model completing 13 Black Myth: Wukong combat tasks with the game pauses during inference edited out. The other is a side-by-side inference-speed comparison with VARP that keeps the pauses (about 1.8 s per call). The game waits for the model. Human-playable: no. Live demo: no. |
 | Category | RL and decision model / post-training |

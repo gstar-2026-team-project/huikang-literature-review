@@ -8,6 +8,7 @@ StreamBridge is a streaming video LLM.
 
 | | |
 |---|---|
+| Year | May 2025 |
 | Category | realtime architecture (streaming video LLM) |
 | Demo | None found (searched: GitHub repo apple/ml-streambridge README and assets (no homepage set; `demo.py` is a local script and weights are not released), arXiv 2505.05467 abstract comments, Apple ML Research page, web search for "StreamBridge demo" / project page / video) |
 

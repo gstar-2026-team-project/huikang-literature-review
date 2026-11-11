@@ -8,7 +8,7 @@ Flappy Bird in flappy-bird-gymnasium is a tiny one-button game with text-seriali
 
 | | |
 |---|---|
-| Year | 2016- |
+| Year | Mar 2023 |
 | Links | [flappy](https://github.com/markub3327/flappy-bird-gymnasium) |
 | Demo | [README GIF](https://github.com/markub3327/flappy-bird-gymnasium/blob/main/imgs/dqn.gif): official recorded GIF of the bundled DQN agent playing (score counter past 200). A recording, not an LLM and not a running-clock evaluation; human play is local only (`flappy_bird_gymnasium` command), no web-playable page. |
 | Play mode | paused-live (Dino browser is realtime-live) |

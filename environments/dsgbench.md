@@ -8,7 +8,7 @@ DSGBench runs StarCraft II and Street Fighter III with an `asynch_mode` flag tha
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Mar 2025 |
 | Links | [arXiv 2503.06047](https://arxiv.org/abs/2503.06047) |
 | Demo | None found (searched: arXiv abstract page, repo README of DeciBrain-Group/DSGBench (no homepage field), [project page](https://fateyetian.github.io/DSGBench/) (static figures only), [Game Wiki](https://decibrain-group.github.io/GameWiki/) (text only, "Under Construction"), web search for "DSGBench demo video"). |
 | Play mode | paused-live (`asynch_mode` false) + realtime-live (`asynch_mode` true) |

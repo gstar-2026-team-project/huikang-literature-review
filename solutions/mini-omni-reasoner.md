@@ -8,7 +8,7 @@ Mini-Omni-Reasoner interleaves reasoning with spoken output in a speech LLM.
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | Aug 2025 |
 | Links | [arXiv 2508.15827](https://arxiv.org/abs/2508.15827) |
 | Demo | [README demo video](https://github.com/xzf-thu/Mini-Omni-Reasoner#demo): a 40 s official screen recording of a Streamlit-style UI answering one uploaded spoken math question, with the spoken "Response" and the "Inner Thoughts" reasoning shown side by side. A recording, not a live demo, and no game. |
 | Category | realtime architecture (thinking while speaking) / post-training |

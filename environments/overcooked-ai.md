@@ -8,7 +8,7 @@ Overcooked-AI is a step-locked gym whose web demo runs human-AI games on a real 
 
 | | |
 |---|---|
-| Year | 2019 |
+| Year | Oct 2019 |
 | Authors / org | Carroll et al. |
 | Links | [repo](https://github.com/HumanCompatibleAI/overcooked_ai) |
 | Demo | [Live demo](https://humancompatibleai.github.io/overcooked-demo/) (redirects to humancompatible.ai/overcooked-demo) + [replay viewer](https://humancompatible.ai/overcooked-demo/replay): in-browser human-vs-RL-agent play (PPO-BC/self-play/PBT TF.js policies, not LLMs) on a fixed 150 ms wall-clock tick (~6.7 fps) where idle input = STAY, plus a viewer for recorded trajectory JSONs; human-playable: yes. |

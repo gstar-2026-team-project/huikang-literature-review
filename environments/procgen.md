@@ -8,7 +8,7 @@ Procgen is a set of 16 procedurally generated games with a human rate of 15 Hz a
 
 | | |
 |---|---|
-| Year | 2019 |
+| Year | Dec 2019 |
 | Links | [repo](https://github.com/openai/procgen) |
 | Demo | [blog](https://openai.com/blog/procgen-benchmark/): 16 looping MP4 env clips; the post doesn't say whether agent or human plays them. The live page is behind a Cloudflare 403, so it was viewed via the Wayback Machine. Synchronous gym env, so the game waits for the agent. Human-playable: locally via procgen.interactive, not in browser. |
 | Play mode | paused-live |

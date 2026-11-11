@@ -8,7 +8,7 @@ Odysseus scales RL on a VLM to 100+ turn episodes with PPO and a lightweight tur
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | May 2026 |
 | Authors / org | Princeton |
 | Links | [arXiv 2605.00347](https://arxiv.org/abs/2605.00347) |
 | Demo | [project page](https://odysseus-project.github.io/): side-by-side recorded gameplay videos, base Qwen3-VL-8B against Odysseus, on Super Mario Land (trained levels and off-policy or unseen start states) and Super Mario Bros (cross-game transfer), each with the model's per-turn perception, reasoning and answer text beside the frame. These are recordings, not a live model, and no part of the page is playable. |

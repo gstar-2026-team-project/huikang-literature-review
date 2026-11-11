@@ -8,7 +8,7 @@ FTW is a Quake III CTF agent that reacts in 258 ms against 559 ms for humans, wi
 
 | | |
 |---|---|
-| Year | 2018-19 |
+| Year | Jul 2018 |
 | Links | [arXiv 1807.01281](https://arxiv.org/abs/1807.01281) |
 | Demo | [DeepMind blog](https://deepmind.google/blog/capture-the-flag-the-emergence-of-complex-cooperative-agents/) with an embedded [CTF replay viewer](https://storage.googleapis.com/deepmind-media/research/ctf/index.html) (6 recorded 4,500-frame matches, agent-only and human+agent, top-down 3D with timeline and score) and official YouTube videos of agents playing. All recordings; not live and not human-playable. |
 | Category | RL and decision model |

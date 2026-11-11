@@ -8,7 +8,7 @@ PyBoy is a Game Boy emulator with a `tick()` API and adjustable emulation speed.
 
 | | |
 |---|---|
-| Year | 2016- |
+| Year | Jan 2016 |
 | Demo | [GitHub README media](https://github.com/Baekalfen/PyBoy) (looping GIFs: Pokemon, Mario rewind, Pokemon Pinball AI, PyBrosAI Mario) and the linked third-party video [Training AI to Play Pokemon with Reinforcement Learning](https://www.youtube.com/watch?v=DcYLT37ImBY) (Peter Whidden, PokemonRedExperiments): recordings of games and RL agents running in PyBoy. No LLM play, no replay viewer, not playable in the browser. |
 | Play mode | paused-live (Dino browser is realtime-live) |
 | Clock | STEP at about 30 fps |

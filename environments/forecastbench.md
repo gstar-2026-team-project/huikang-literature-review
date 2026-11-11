@@ -8,7 +8,7 @@ ForecastBench is a forecasting benchmark whose questions resolve days to months 
 
 | | |
 |---|---|
-| Year | 2024-26 |
+| Year | Sep 2024 |
 | Links | [arXiv 2409.19839](https://arxiv.org/abs/2409.19839) |
 | Demo | [ForecastBench](https://www.forecastbench.org/): static Tournament and Baseline leaderboards and an /explore chart (Brier Index vs model release date), updated nightly; datasets on GitHub and Hugging Face. No traces, replays or live runs. Human-playable: no. |
 | Play mode | paused-live (forecast before resolution) |

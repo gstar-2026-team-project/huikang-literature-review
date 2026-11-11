@@ -8,7 +8,7 @@ TORSI is a scaffold in which a slow teacher writes guidance offline and a fast s
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Oct 2026 |
 | Authors / org | Pan et al. |
 | Links | [arXiv 2610.20665](https://arxiv.org/abs/2610.20665) |
 | Demo | None found (searched: arXiv [abs](https://arxiv.org/abs/2610.20665) and HTML for project, code and video links; [Hugging Face papers page](https://huggingface.co/papers/2610.20665), which returns 404; [papers.cool](https://papers.cool/arxiv/2610.20665); and web searches for 'The World Won't Wait', RealtimeBench and TORSI). The paper only has static Figure 1 frame strips showing live-clock failures, such as Snake's 824 ms response against a 667 ms tick. It mentions released replay logs but gives no URL. Human-playable: no. |

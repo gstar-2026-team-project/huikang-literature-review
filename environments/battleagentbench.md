@@ -8,6 +8,7 @@ BattleAgentBench is "a turn-based interactive game, Battle City".
 
 | | |
 |---|---|
+| Year | Aug 2024 |
 | Links | [arXiv 2408.15971](https://arxiv.org/abs/2408.15971) |
 | Demo | None found (searched: arXiv abstract page (no comments field, no code or demo links), [GitHub THUDM/BattleAgentBench](https://github.com/THUDM/BattleAgentBench) README and homepage field (static method diagram and one game screenshot only), web searches for project page, video and Hugging Face Space) |
 | Play mode | paused-live (turn- or step-based) |

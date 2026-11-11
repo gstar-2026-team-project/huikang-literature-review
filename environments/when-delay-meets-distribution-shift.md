@@ -8,7 +8,7 @@ When Delay Meets Distribution Shift is a robotics setting with simulated asynchr
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Dec 2026 |
 | Links | [NeurIPS](https://neurips.cc/virtual/2026/162917) |
 | Demo | None found (searched: NeurIPS 2026 poster page and its "Project Page" link, the anonymous code repo [vla-latency-benchmark-23CB](https://anonymous.4open.science/r/vla-latency-benchmark-23CB/README.md) (plain README, no media), OpenReview forum 5ji7QDSgJK (blocked by a browser check), web search for a project page or video) |
 | Play mode | realtime-live (simulated asynchronous execution) |

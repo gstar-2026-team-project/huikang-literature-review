@@ -8,7 +8,7 @@ Joi-Bench-Task is a speech benchmark in which users intervene while the agent sp
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Nov 2026 |
 | Links | [arXiv 2611.12118](https://arxiv.org/abs/2611.12118) |
 | Demo | None found (searched: arXiv abstract page and comments, outbound links in the arXiv HTML paper, web searches for "Joi-Bench-Task" and "Joi-Bench" demo / GitHub / Hugging Face) |
 | Play mode | realtime-live (speech) |

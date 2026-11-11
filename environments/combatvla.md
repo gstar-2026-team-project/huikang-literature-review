@@ -8,7 +8,7 @@ CombatVLA's benchmark is combat in Black Myth: Wukong, with the game paused duri
 
 | | |
 |---|---|
-| Year | 2024-25 |
+| Year | Mar 2025 |
 | Authors / org | Alibaba |
 | Links | [arXiv 2503.09527](https://arxiv.org/abs/2503.09527) |
 | Demo | [project page](https://combatvla.github.io/): two pre-recorded videos. One shows the model completing 13 Black Myth: Wukong combat tasks with the game pauses during inference edited out. The other is a side-by-side inference-speed comparison with VARP that keeps the pauses (about 1.8 s per call). The game waits for the model. Human-playable: no. Live demo: no. |

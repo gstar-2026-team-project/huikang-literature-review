@@ -8,7 +8,7 @@ Voyager is an LLM agent that writes Mineflayer JavaScript skills for Minecraft.
 
 | | |
 |---|---|
-| Year | 2023-25 |
+| Year | May 2023 |
 | Links | [Voyager](https://arxiv.org/abs/2305.16291) |
 | Demo | [project page](https://voyager.minedojo.org/): a gallery of 9 short edited, recorded Minecraft clips (mine amethyst, build nether portal, etc.) plus static figures. There is no live or replay viewer, and the code pauses the server while GPT-4 is queried, so the game waits for the model. Human-playable: no. |
 | Category | scaffold |

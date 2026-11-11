@@ -8,7 +8,7 @@ TextWorld is a turn-based text-game framework stepped by `step(command)`.
 
 | | |
 |---|---|
-| Year | 2018-20 |
+| Year | Jun 2018 |
 | Demo | [Microsoft Research project page](https://www.microsoft.com/en-us/research/project/textworld/) (aka.ms/textworld): an animated GIF banner, a sample game transcript and the official "Getting Started with TextWorld" video (YouTube WVIIigrPUJs). Its [Try it](https://www.microsoft.com/en-us/research/project/textworld/try-it/) page embeds a human-playable sample game in a browser player, but the game file is gone and the player shows an error. No model is shown playing and nothing runs against a clock. |
 | Play mode | paused-live, turn-based |
 | Clock | none |

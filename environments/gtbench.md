@@ -8,6 +8,7 @@ GTBench is a set of board and card games with a baseline that "randomly selects 
 
 | | |
 |---|---|
+| Year | Feb 2024 |
 | Links | [arXiv 2402.12348](https://arxiv.org/abs/2402.12348) |
 | Demo | [HF Space leaderboard](https://huggingface.co/spaces/GTBench/GTBench): a static Gradio table of scores for each game, LLM, agent and opponent across 10 turn-based OpenSpiel games. It has no replays, game viewer or live play; human-playable: no. |
 | Play mode | paused-live (turn- or step-based) |

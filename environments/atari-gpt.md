@@ -8,7 +8,7 @@ Atari-GPT evaluates LLMs on seven Atari games with frame skip 8 and one model qu
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Aug 2024 |
 | Authors / org | Waytowich, White, Sunbeam, Goecks (US Army Research Lab) |
 | Links | [arXiv 2408.15950](https://arxiv.org/abs/2408.15950) |
 | Demo | [project page](https://dev1nw.github.io/atari-gpt/) ([videos](https://dev1nw.github.io/atari-gpt/videos.html), [Google Sites videos](https://sites.google.com/view/atari-gpt/gameplay-performance-videos)): pre-recorded MP4 grids of 7 Atari games, with Human, GPT-4 Turbo, GPT-4o, Gemini 1.5 Flash and Claude 3 Haiku side by side, plus with/without in-context-learning versions. They are recordings of runs where the game paused for the model, not live play; the site says the 2-7 s inference is 'not yet fast enough for real time gameplay'. Human-playable: no. |

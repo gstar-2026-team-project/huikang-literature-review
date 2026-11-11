@@ -8,7 +8,7 @@ DeepMind Lab is a step-locked 3D platform, convertible but Linux-only with a Baz
 
 | | |
 |---|---|
-| Year | 2016 |
+| Year | Dec 2016 |
 | Links | [repo](https://github.com/google-deepmind/lab) |
 | Demo | [video](https://www.youtube.com/watch?v=M40rN7afngY): 'Nav Maze Level 1', Google DeepMind, 2016. First-person 3D maze with score and timer HUD; the description says 'captured via human player', so no agent is shown. Human-playable: no (not in browser). |
 | Play mode | paused-live |

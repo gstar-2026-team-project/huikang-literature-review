@@ -8,7 +8,7 @@ stable-retro (Gym Retro) steps console emulators one frame at a time at 60 Hz.
 
 | | |
 |---|---|
-| Year | 2018 |
+| Year | Apr 2018 |
 | Links | [repo](https://github.com/Farama-Foundation/stable-retro) |
 | Demo | [video](https://www.youtube.com/watch?v=hkOcxJvJVjk): RetroArchAI screencast, 2025. A PyTorch model trained with stable-retro overrides one player's input in NHL94 and Virtua Fighter 32x, with the emulator running live against a human. RL net, not an LLM. Human-playable: yes, locally (not in browser). |
 | Play mode | paused-live |

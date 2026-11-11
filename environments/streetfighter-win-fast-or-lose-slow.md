@@ -8,7 +8,7 @@ In the StreetFighter benchmark from "Win Fast or Lose Slow", two locally served 
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Authors / org | Kang, Q. Zhang, Cai, Xu, Krishna, Du, Weissman (Georgia Tech, Berkeley, Harvard, Stanford) |
 | Links | [arXiv 2505.19481](https://arxiv.org/abs/2505.19481), code [LatencySensitiveBench](https://github.com/HaoKang-Timmy/LatencySensitiveBench) (no licence file) |
 | Demo | [project page](https://www.competitive-agent.com/): pre-recorded screen-capture videos of LLM-vs-LLM Street Fighter III matches (DIAMBRA) in which the game's round timer keeps running while the models think, selectable by FPX speedup (1.0x = 1301ms to 2.4x = 542ms latency for the red player); [code](https://github.com/HaoKang-Timmy/LatencySensitiveBench) embeds one more clip. Human-playable: no. |

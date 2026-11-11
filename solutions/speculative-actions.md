@@ -8,7 +8,7 @@ In Speculative Actions a fast model guesses the slow actor's next step, which is
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Oct 2025 |
 | Links | [arXiv 2510.04371](https://arxiv.org/abs/2510.04371) |
 | Demo | No game demo found. Only an [ICLR 2026 oral talk video](https://iclr.cc/virtual/2026/oral/10009727), hosted on SlidesLive, which is a conference talk rather than gameplay. The [code repo](https://github.com/naimengye/speculative-action) has no GIFs, videos or replay viewer, and nothing shows a model playing live. |
 | Category | scaffold |

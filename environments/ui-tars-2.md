@@ -8,7 +8,7 @@ UI-TARS-2 is evaluated on 15 browser mini-games in a synchronous browser sandbox
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Sep 2025 |
 | Authors / org | ByteDance Seed |
 | Links | [arXiv 2509.02544](https://arxiv.org/abs/2509.02544) |
 | Demo | [UI-TARS-2 Showcase](https://seed-tars.com/showcase/ui-tars-2/): official project page of seven recorded Agent TARS session replays (web search, coding, Jupyter, page deployment). No game footage, game replays or playable games; nothing shows the model playing against a clock. |

@@ -8,7 +8,7 @@ Alpha Arena is a live-data trading arena whose decisions are "spaced by minutes 
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | Oct 2025 |
 | Links | [alphaarena.ai](https://www.alphaarena.ai/blog/TechPost1) |
 | Demo | [alphaarena.ai](https://www.alphaarena.ai) ([leaderboard](https://www.alphaarena.ai/leaderboard)): archive dashboard of the Season 1.5 live-money LLM trading competition (ended Dec 3, 2025; 'Models are no longer running'), with P&L, completed trades, positions and per-decision ModelChat logs (prompt, chain of thought, JSON decisions) timestamped every ~1.5-4 min of real market time. The [Nof1 site](https://nof1.ai) is a static company page. Human-playable: no. |
 | Play mode | paused-live (live data, slow cadence) |

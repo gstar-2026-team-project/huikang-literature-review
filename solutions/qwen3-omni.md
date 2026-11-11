@@ -8,7 +8,7 @@ Qwen3-Omni is a Thinker-Talker model in which thinking precedes streaming output
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | Sep 2025 |
 | Links | [arXiv 2509.17765](https://arxiv.org/abs/2509.17765) |
 | Demo | [Hugging Face Space "Qwen3-Omni Demo"](https://huggingface.co/spaces/Qwen/Qwen3-Omni-Demo) (also on [ModelScope](https://modelscope.cn/studios/Qwen/Qwen3-Omni-Demo)): a Gradio chat with Online (mic/webcam recording) and Offline (text and file upload) tabs; in Nov 2026 a text query returned "Error". Also an official [launch video](https://youtu.be/_zdOrPju4_g). It shows general omni-modal chat, not a model playing a game against a running clock. |
 | Category | realtime architecture |

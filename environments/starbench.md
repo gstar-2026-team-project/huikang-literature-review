@@ -8,7 +8,7 @@ StarBench is "A Turn-Based RPG Benchmark".
 
 | | |
 |---|---|
-| Year | 2024-26 |
+| Year | Oct 2025 |
 | Links | [arXiv 2510.18483](https://arxiv.org/abs/2510.18483) |
 | Demo | None found (searched: arXiv abstract page (no comments or project link), paper HTML links, GitHub repo search for "StarBench" and "honkai star rail benchmark", web search for StarBench demo, video, project page and Hugging Face Space; the alphaXiv benchmark listing is a score table with no replays) |
 | Play mode | paused-live, turn-based |

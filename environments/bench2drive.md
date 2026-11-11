@@ -8,7 +8,7 @@ Bench2Drive is a driving benchmark run in CARLA synchronous mode.
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Jun 2024 |
 | Links | [arXiv 2406.03877](https://arxiv.org/abs/2406.03877) |
 | Demo | [project page](https://thinklab-sjtu.github.io/Bench2Drive/) and [YouTube video](https://www.youtube.com/watch?v=-osdzJJs2g0): recorded videos of the Think2Drive RL expert driving the CARLA scenarios used to collect the training data. These are recordings, not a live model run, a replay viewer or a human-playable demo, and no LLM agent appears. |
 | Play mode | paused-live |

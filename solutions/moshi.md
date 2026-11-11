@@ -8,7 +8,7 @@ Moshi is a 7B text LLM over Mimi codec tokens that predicts user audio, its own 
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Oct 2024 |
 | Authors / org | Kyutai |
 | Links | [arXiv 2410.00037](https://arxiv.org/abs/2410.00037) |
 | Demo | [Moshi live demo](https://moshi-chat.kyutai.org/) (moshi.chat now has an expired certificate): a live browser voice demo that needs a microphone; Moshi is a full-duplex speech-to-speech model (5-min sessions) that listens and talks continuously, and the [release blog](https://kyutai.org/blog/2024-09-18-moshi-release) has recorded videos of the web client with a 'Server Audio Stats' panel (latency about 0.1 s, missed audio). The follow-up [Unmute](https://unmute.sh/) ([explainer](https://kyutai.org/unmute/)) is a live STT -> LLM -> TTS cascade with editable character prompts. No game environment; human-playable: no game, but humans can talk to the live model. |

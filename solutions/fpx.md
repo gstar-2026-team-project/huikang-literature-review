@@ -8,7 +8,7 @@ FPX is mixed-precision quantisation used as a latency knob, evaluated on Street 
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Links | [arXiv 2505.19481](https://arxiv.org/abs/2505.19481) |
 | Demo | [project page](https://www.competitive-agent.com/): pre-recorded screen-capture videos of LLM-vs-LLM Street Fighter III matches (DIAMBRA) in which the round timer keeps running while the models think, selectable by FPX speedup (1.0x = 1301ms to 2.4x = 542ms latency for the red player), plus animated HFTBench yield charts (FPX vs FP16) and an offline latency-tradeoff dial; [code](https://github.com/HaoKang-Timmy/LatencySensitiveBench) embeds one more clip. Human-playable: no. |
 | Category | scaffold |

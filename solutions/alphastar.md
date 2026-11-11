@@ -8,7 +8,7 @@ AlphaStar played StarCraft II on Battle.net with a camera interface and limits o
 
 | | |
 |---|---|
-| Year | 2019 |
+| Year | Jan 2019 |
 | Links | [blog](https://deepmind.google/blog/alphastar-grandmaster-level-in-starcraft-ii-using-multi-agent-reinforcement-learning/) |
 | Demo | [AlphaStar blog](https://deepmind.google/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii/): recorded videos of live real-time matches against TLO and MaNa (about 350 ms average observation-to-action delay at about 280 APM), an [agent-view visualisation video](https://www.youtube.com/watch?v=HcZ48JDamyk) and an interactive [league-strategy map](https://storage.googleapis.com/deepmind-media/research/alphastar/index.html). The replay download link now redirects to the DeepMind homepage. Human-playable: no. |
 | Category | RL and decision model |

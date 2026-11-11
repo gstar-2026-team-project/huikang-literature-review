@@ -8,7 +8,7 @@ HIMA is a scaffold in which small fine-tuned agents propose long build sequences
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Aug 2025 |
 | Links | [arXiv 2508.06042](https://arxiv.org/abs/2508.06042) |
 | Demo | [project page](https://dcahn12.github.io/projects/hima) with an embedded official [YouTube video](https://www.youtube.com/watch?v=AEqLN2pz9ns) (4:37) of one HIMA vs built-in Elite AI StarCraft II game, narrated and overlaid with the agents' proposals and the planner's decision. A recording shown in the SC2 replay viewer at "Faster x4", not live and not human-playable. |
 | Category | scaffold / post-training |

@@ -8,6 +8,7 @@ GameArena is a game-based evaluation scored on "each round's decision".
 
 | | |
 |---|---|
+| Year | Dec 2024 |
 | Links | [arXiv 2412.06394](https://arxiv.org/abs/2412.06394) |
 | Demo | [AI Space Escape on Roblox](https://www.roblox.com/games/114904064694961/AI-Space-Escape) (human-playable live game; humans play Akinator, Taboo and Bluffing against live LLM guards, but it needs a Roblox account and app, so it was not played here) and [project blog](https://lmgame.org/#/blog/ai_space_escape/) (static screenshots and rankings, no video or replay viewer). |
 | Play mode | paused-live (turn- or step-based) |

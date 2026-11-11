@@ -8,7 +8,7 @@ CivBench is a turn-based strategy benchmark played "over 300 turns".
 
 | | |
 |---|---|
-| Year | 2024-26 |
+| Year | Sep 2026 |
 | Links | [arXiv 2609.02459](https://arxiv.org/abs/2609.02459) |
 | Demo | [civ6-mcp site](https://civ6-mcp.lwilko.com) (repo homepage of [lmwilki/civ6-mcp](https://github.com/lmwilki/civ6-mcp)): a leaderboard with replays. It has a CivBench ELO leaderboard from 23 games plus a game archive where each recorded game opens a turn-by-turn diary viewer and an animated map replay. These are recordings, not live play, and none is human-playable. |
 | Play mode | paused-live, turn-based |

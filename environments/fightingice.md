@@ -8,7 +8,7 @@ FightingICE is a 60 fps fighting game from the IEEE CoG competition with observa
 
 | | |
 |---|---|
-| Year | 2013 / 2022 |
+| Year | Oct 2013 |
 | Authors / org | Ritsumeikan ICE Lab; IEEE CoG competition |
 | Links | [arXiv 2203.01556](https://arxiv.org/abs/2203.01556), [Repo](https://github.com/TeamFightingICE/FightingICE) |
 | Demo | [Competition site](https://www.ice.ci.ritsumei.ac.jp/~ftgaic/) and [results page](https://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-R.html) with official YouTube videos, including the [2026 DareFightingICE LLM AI Competition results video](https://www.youtube.com/watch?v=LV24hG35gbI): recorded clips of LLM agents (Iconic vs BakaCirno) fighting with the in-game round timer counting down at about real-time speed. Recordings only; no browser-playable build or replay viewer (the game is a Java download). |

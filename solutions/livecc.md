@@ -8,6 +8,7 @@ LiveCC is a streaming video LLM.
 
 | | |
 |---|---|
+| Year | Apr 2025 |
 | Category | realtime architecture (streaming video LLM) |
 | Demo | [project page](https://showlab.github.io/livecc/) with a 2:07 teaser video of recorded LiveCC-7B-Instruct commentary on streamed videos (whiteboard recording, NBA, how-to, Dota 2, SpaceX), with a "Video Time" overlay; the [Hugging Face Space](https://huggingface.co/spaces/chenjoya/livecc) live demo is paused. Recording only; the model watches and comments but does not play. |
 

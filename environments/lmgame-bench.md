@@ -8,7 +8,7 @@ LMGame-Bench evaluates models on Super Mario Bros., Tetris, Sokoban, Candy Crush
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Authors / org | Hu et al. (UCSD, MBZUAI, Berkeley) |
 | Links | [arXiv 2505.15146](https://arxiv.org/abs/2505.15146), [GamingAgent repo](https://github.com/lmgame-org/GamingAgent) (MIT) |
 | Demo | [site](https://lmgame.org/) + [HF leaderboard](https://huggingface.co/spaces/lmgame/lmgame_bench) (the game_arena_bench URL redirects here): a static leaderboard plus GIF/YouTube galleries of recorded model runs. These are 2x2 comparison edits; the harness videos are aligned by 'Step N' (the game waits for each action), and the older Mario clips show the NES timer running. Human-playable: no; there are no live runs or replay viewer, and 'Try Now' links to the GitHub repo. |

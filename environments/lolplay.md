@@ -8,7 +8,7 @@ LOLPlay is a set of 36 champion-specific tasks in the native League of Legends c
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Nov 2026 |
 | Authors / org | Zhaojian Yu |
 | Links | [arXiv 2611.03685](https://arxiv.org/abs/2611.03685), code [answers111/LOLPlay](https://github.com/answers111/LOLPlay) (read; no licence file) |
 | Demo | [project page](https://answers111.github.io/LOL-Play-homepage/) with a [side-by-side recorded video](https://answers111.github.io/LOL-Play-homepage/assets/videos/task002-comparison.mp4): GPT-6 Astra vs DeepSeek-v4.1-Flash on one 10-minute task, with step counters, action logs and 'waiting for model' status overlays. The game keeps running during inference (the in-game AFK warning appears while the model is thinking). The page also has a leaderboard with per-request latency and a catalog of the 36 tasks. No interactive replay viewer; human-playable: no. |

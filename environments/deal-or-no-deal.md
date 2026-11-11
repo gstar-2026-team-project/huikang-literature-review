@@ -8,7 +8,7 @@ Deal or No Deal is a turn-based negotiation task in which "Agents then sequentia
 
 | | |
 |---|---|
-| Year | 2017 |
+| Year | Jun 2017 |
 | Links | [arXiv 1706.05125](https://arxiv.org/abs/1706.05125) |
 | Demo | [EMNLP 2017 talk video](https://aclanthology.org/D17-1259.mp4) (ACL Anthology): a recorded 25-minute conference talk whose slides show example human-vs-model negotiation transcripts. No playable page, live demo or replay viewer; the code repo (facebookresearch/end-to-end-negotiator, archived) has no media. |
 | Play mode | paused-live, turn-based |

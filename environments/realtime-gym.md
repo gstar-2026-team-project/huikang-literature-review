@@ -8,7 +8,7 @@ Real-Time Reasoning Gym (RealtimeGym) runs Freeway, Snake and Overcooked (script
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Nov 2025 |
 | Authors / org | Wen, Ye, Y. Zhang, Yang, Zhu (Stanford SALT and others) |
 | Links | [arXiv 2511.04898](https://arxiv.org/abs/2511.04898), code [SALT-NLP/RealtimeGym](https://github.com/SALT-NLP/RealtimeGym) (MIT) |
 | Demo | [interactive demo](https://realtimegym.saltlab.stanford.edu/): replay viewer of recorded trajectories (Freeway, Snake, Overcooked; load and time-pressure settings) showing the Reactive, Planning and AgileThinker agents side by side with per-step reasoning traces. Not human-playable. |

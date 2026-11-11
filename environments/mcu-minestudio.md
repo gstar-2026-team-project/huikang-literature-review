@@ -8,7 +8,7 @@ MCU is a Minecraft evaluation suite that runs on MineStudio's vendored copy of t
 
 | | |
 |---|---|
-| Year | 2016-22 |
+| Year | Oct 2023 |
 | Demo | [MCU project page](https://craftjarvis.github.io/MCU/): a project page with 18 recorded MP4 clips of agents doing MCU tasks (16 example tasks plus a simple/hard "sleep in bed" pair). Some clips overlay the task prompt and the per-step keyboard/mouse action readout. These are offline recordings; no clip shows a model playing live against a running clock, and nothing on the page can be played. |
 | Play mode | paused-live (MineRL, MineDojo, MCU/MineStudio) + realtime-live (native Malmo) |
 | Clock | STEP at 20 Hz |

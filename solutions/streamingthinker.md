@@ -8,7 +8,7 @@ StreamingThinker reasons while the prompt streams, with separate position IDs an
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Oct 2025 |
 | Links | [arXiv 2510.17238](https://arxiv.org/abs/2510.17238) |
 | Demo | [project page](https://jl-tong.github.io/streamingthinker) with an animated GIF (also in the [repo README](https://github.com/EIT-NLP/StreamingLLM/tree/main/StreamingThinker)): a schematic of batch thinking next to streaming thinking on one math word problem. It is an illustration, not a live model, recording of a run, replay viewer or anything a human can play; no game. |
 | Category | realtime architecture / post-training |

@@ -8,7 +8,7 @@ SIMA 2 fine-tunes Gemini Flash-Lite to emit text action chunks in commercial 3D 
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Dec 2025 |
 | Links | [arXiv 2512.04797](https://arxiv.org/abs/2512.04797) |
 | Demo | [SIMA 2 blog](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/): edited gameplay videos with chat overlays (SIMA 1 vs SIMA 2, No Man's Sky, Genie 3 worlds); limited research preview only, with no live model, replay viewer or playable demo. Human-playable: no. |
 | Category | RL and decision model / post-training |

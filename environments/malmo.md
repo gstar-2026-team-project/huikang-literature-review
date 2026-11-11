@@ -8,7 +8,7 @@ Malmo is Microsoft's Minecraft platform; natively it runs at 20 Hz with observat
 
 | | |
 |---|---|
-| Year | 2016-22 |
+| Year | Jul 2016 |
 | Demo | [official video](https://www.youtube.com/watch?v=KkVj_ddseO8) (embedded on the [project page](https://www.microsoft.com/en-us/research/project/project-malmo/)): a 1:41 Microsoft Research promo of Malmo in Minecraft with B-roll of agent code and missions running. It is a recording, not a replay viewer, and nobody can play it; the project's [Videos tab](https://www.microsoft.com/en-us/research/project/project-malmo/videos/) lists talks and challenge videos. |
 | Play mode | paused-live (MineRL, MineDojo, MCU/MineStudio) + realtime-live (native Malmo) |
 | Clock | STEP at 20 Hz |

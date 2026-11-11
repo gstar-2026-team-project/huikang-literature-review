@@ -8,7 +8,7 @@ gym-chrome-dino sends key presses into a live browser game, so the Dino browser 
 
 | | |
 |---|---|
-| Year | 2016- |
+| Year | Oct 2018 |
 | Demo | [hosted T-Rex Runner](https://elvisyjlin.github.io/t-rex-runner/), the page that gym-chrome-dino's `DinoGame` loads ([elvisyjlin/gym-chrome-dino](https://github.com/elvisyjlin/gym-chrome-dino)). You can play it yourself in the browser. The game runs live on the wall clock, so obstacles keep coming whether or not you press a key. The site does not show a model playing. |
 | Play mode | paused-live (Dino browser is realtime-live) |
 | Clock | STEP at about 30 fps |

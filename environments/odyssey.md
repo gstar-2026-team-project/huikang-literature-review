@@ -8,7 +8,7 @@ Odyssey is a Minecraft code agent that writes Mineflayer JavaScript skills, with
 
 | | |
 |---|---|
-| Year | 2023-25 |
+| Year | Jul 2024 |
 | Demo | [README demo videos](https://github.com/zju-vipa/Odyssey#demo): four official recorded MP4s (mine diamonds, craft sword and fight a zombie, shear a sheep and milk a cow, autonomous exploration) of the Odyssey agent, filmed in Minecraft spectator mode and partly sped up. Recordings only, not human-playable; the combat clip shows server pause/unpause messages. |
 | Play mode | scripted (Voyager, Odyssey: server paused during LLM calls) / realtime-live (MINDcraft) |
 | Clock | server 20 TPS |

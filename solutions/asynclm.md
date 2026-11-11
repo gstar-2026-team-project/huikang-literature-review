@@ -8,7 +8,7 @@ AsyncLM keeps generating while tools run and uses interrupt tokens on return.
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Dec 2024 |
 | Links | [arXiv 2412.07017](https://arxiv.org/abs/2412.07017) |
 | Demo | None found (searched: arXiv abstract page (no comments or code links), web search for "AsyncLM demo" and "Asynchronous LLM Function Calling" code; only an unofficial third-party reimplementation, github.com/kaelzhang/async-lm, turned up) |
 | Category | scaffold |

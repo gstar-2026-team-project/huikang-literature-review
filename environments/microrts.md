@@ -8,7 +8,7 @@ microRTS is a small RTS game whose competition gives a 100 ms compute budget per
 
 | | |
 |---|---|
-| Year | 2013 |
+| Year | Aug 2012 |
 | Links | [wiki](https://github.com/Farama-Foundation/MicroRTS/wiki) |
 | Demo | [video](https://www.youtube.com/watch?v=_jVOMNqw3Qs): Ontañón's 2018 install walkthrough (git clone, README) for the microRTS AI competition. No gameplay in the sampled frames. Human-playable: no. |
 | Play mode | paused-live with 100 ms per-cycle budget (competition) / paused-live (gym) |

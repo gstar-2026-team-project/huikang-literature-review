@@ -8,7 +8,7 @@ HLA is a scaffold with a slow LLM, a fast LLM and a scripted executor, playing O
 
 | | |
 |---|---|
-| Year | 2023 |
+| Year | Dec 2023 |
 | Authors / org | Liu et al. |
 | Links | [arXiv 2312.15224](https://arxiv.org/abs/2312.15224) |
 | Demo | [project page](https://sites.google.com/view/overcooked-hla/): a static Google Site of recorded GIF replays comparing HLA with its ablations (scripted-command tests captioned with wall-clock completion times such as 'Success in 19.7s', plus replays of 4 human-study players who chat or speak). The recordings show the game clock running while the model acts in real time (the slow-LLM ablation lets soups burn). Human-playable: no. |

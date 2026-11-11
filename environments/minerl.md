@@ -8,7 +8,7 @@ MineRL is a Minecraft environment with 20 Hz synchronous stepping.
 
 | | |
 |---|---|
-| Year | 2016-22 |
+| Year | Apr 2019 |
 | Links | [MineRL](https://github.com/minerllabs/minerl) |
 | Demo | [MineRL Competition 2019 video](https://www.microsoft.com/en-us/research/video/minerl-competition-2019/) (YouTube [ggo1WAldyq0](https://www.youtube.com/watch?v=ggo1WAldyq0)): official 66 s Microsoft Research trailer with first-person Minecraft mining footage and captions; a recording, not a model playing live. The docs ([minerl.readthedocs.io](https://minerl.readthedocs.io/en/latest/), Cloudflare-blocked in headless Chrome) embed short gameplay GIF clips. Not human-playable in the browser. |
 | Play mode | paused-live (MineRL, MineDojo, MCU/MineStudio) + realtime-live (native Malmo) |

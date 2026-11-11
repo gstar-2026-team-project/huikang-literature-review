@@ -8,7 +8,7 @@ Realtime-Venus is a full-duplex model whose front-end delegates to a background 
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Sep 2026 |
 | Links | [arXiv 2609.13814](https://arxiv.org/abs/2609.13814) |
 | Demo | [project page](https://realtime-venus.github.io/#demos): three recorded demo scenes (full-duplex speech with a user follow-up that overlaps the reply, a microwave beep spotted from audio and video, a flight search handed to the background harness), each with a timed transcript and Listen/Speak/Delegate status. Recordings of live real-time sessions, not a live model and not a game. |
 | Category | realtime architecture |

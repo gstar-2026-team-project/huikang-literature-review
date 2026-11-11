@@ -8,7 +8,7 @@ BudgetThinker inserts periodic remaining-budget tokens and trains with SFT and R
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Aug 2025 |
 | Links | [arXiv 2508.17196](https://arxiv.org/abs/2508.17196) |
 | Demo | None found (searched: arXiv abstract page, GitHub repo MobileLLM/BudgetThinker README and homepage field, web search for "BudgetThinker demo"; only model weights and a dataset on Hugging Face, no Space, video or project page). |
 | Category | post-training |

@@ -8,7 +8,7 @@ gym-super-mario-bros is a step-locked NES Super Mario Bros. environment on nes-p
 
 | | |
 |---|---|
-| Year | 2018 |
+| Year | Apr 2018 |
 | Links | [repo](https://github.com/Kautenja/gym-super-mario-bros) |
 | Demo | None found (searched: repo README and homepage field (empty), repo file tree, README at tag [7.4.0](https://github.com/Kautenja/gym-super-mario-bros/blob/7.4.0/README.md) and old PyPI descriptions, web search for "gym-super-mario-bros demo video"). The old README has only a 200x200 walking-Mario sprite GIF and six static 256x224 stage screenshots, no gameplay video or replay. |
 | Play mode | paused-live |

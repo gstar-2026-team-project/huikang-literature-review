@@ -8,7 +8,7 @@ Think in Games trains Qwen 14B/32B with SFT and GRPO to predict macro actions fo
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Aug 2025 |
 | Links | [arXiv 2508.21365](https://arxiv.org/abs/2508.21365) |
 | Demo | None found (searched: arXiv abstract and HTML paper links, Hugging Face papers/Spaces, GitHub, web search for "Think in Games" demo; only press coverage, no project page, repo or video) |
 | Category | post-training |

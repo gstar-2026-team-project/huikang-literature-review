@@ -8,7 +8,7 @@ AdaptThink trains a reasoning LLM with RL to choose between thinking and not thi
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Links | [AdaptThink](https://arxiv.org/abs/2505.13417) |
 | Demo | None found (searched: arXiv abstract page, GitHub repo THU-KEG/AdaptThink README and homepage field, Hugging Face paper page, model cards and Spaces search). |
 | Category | post-training |

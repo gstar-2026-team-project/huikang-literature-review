@@ -8,7 +8,7 @@ LiveTradeBench is a live-data trading benchmark with one decision per trading da
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Nov 2025 |
 | Links | [arXiv 2511.03628](https://arxiv.org/abs/2511.03628) |
 | Demo | [trade-bench.live](https://trade-bench.live) (repo homepage): live leaderboard site (Stock, Polymarket, later BitMEX) charting each LLM agent's portfolio value and rankings, updated per trading cycle. Not a game view or replay; not human-playable. Site unreachable (connection timeout) on 10 Nov 2026; seen only via Wayback Machine snapshots, whose leaderboard data was not archived. |
 | Play mode | paused-live (live data, daily) |

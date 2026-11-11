@@ -8,7 +8,7 @@ PLE (PyGame Learning Environment) is a set of tiny games with text-serialisable 
 
 | | |
 |---|---|
-| Year | 2016- |
+| Year | Feb 2016 |
 | Demo | [docs game GIFs](https://github.com/ntasfi/PyGame-Learning-Environment/tree/master/docs/_static) (also on the [games docs page](http://pygame-learning-environment.readthedocs.org/en/latest/user/games.html)): looping animated GIFs of each of the 10 games running. They are recordings with no model, score or clock shown; there is no browser-playable version, live demo or replay viewer. |
 | Play mode | paused-live (Dino browser is realtime-live) |
 | Clock | STEP at about 30 fps |

@@ -8,7 +8,7 @@ TowerMind is an open Unity tower defence with pixel, JSON and vector observation
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jan 2026 |
 | Links | [arXiv 2601.05899](https://arxiv.org/abs/2601.05899) |
 | Demo | [GitHub README GIF](https://github.com/tb6147877/TowerMind) captioned "GPT-4.1 playing TowerMind": a short recording (about 6 s) of the model building towers on one level, not a live run or replay viewer. A [Colab notebook](https://colab.research.google.com/drive/13AJxze6069ADPAa_NZcVmOo28gSWKiMj?usp=sharing) sets up and runs the environment yourself; nothing is human-playable in the browser. |
 | Play mode | paused-live |

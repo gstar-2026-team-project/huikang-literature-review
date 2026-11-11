@@ -8,7 +8,7 @@ LLM Colosseum has two LLMs fight in Street Fighter III via DIAMBRA while the gam
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Mar 2024 |
 | Authors / org | OpenGenerativeAI |
 | Links | [GitHub](https://github.com/OpenGenerativeAI/llm-colosseum) |
 | Demo | [phospho web demo](https://llm-colosseum.phospho.ai): in-browser MAME emulator where two LLMs (GPT-4o-mini/Pixtral/Llama 3.2) fight live in SF3. The game loop runs at 8 ticks/s and the round timer keeps running while async vision calls are in flight (in Nov 2026 the backend returned empty responses, so the fighters idled). Also: [HF leaderboard](https://huggingface.co/spaces/junior-labs/llm-colosseum) (runtime error), [demo video](https://www.youtube.com/watch?v=Kk8foX3dm2I). Human-playable: no (keyboard character select only). |

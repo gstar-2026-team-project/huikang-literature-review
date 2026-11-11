@@ -8,7 +8,7 @@ Open-P2P is a keyboard/mouse action model for 3D PC games that runs at 20 Hz on 
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jan 2026 |
 | Links | [arXiv 2601.04575](https://arxiv.org/abs/2601.04575) |
 | Demo | [project page](https://elefant-ai.github.io/open-p2p/): official recorded videos of the model playing commercial 3D games (16-game montage, a Roblox FPS match against a human, 150M-1.2B model comparison, instruction-following and action-conditioning ablations). Recordings of real-time play; no live model, replay viewer or human-playable page. |
 | Category | RL and decision model |

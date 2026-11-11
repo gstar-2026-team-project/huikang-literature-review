@@ -8,7 +8,7 @@ DuplexWorld is a speech benchmark whose world "moves on its own clock" via a tic
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Aug 2026 |
 | Links | [arXiv 2608.10716](https://arxiv.org/abs/2608.10716) |
 | Demo | [project page](https://duplexworld.github.io/) with [voice samples](https://duplexworld.github.io/samples.html), a [tick-by-tick harness walkthrough](https://duplexworld.github.io/system.html) and an interactive [leaderboard](https://duplexworld.github.io/leaderboard.html): recorded speech-to-speech calls replayed with audio and an animated Pathfinding map (walker and copilot positions). These are recordings of past runs on the 200 ms tick clock, not live model calls; not human-playable. |
 | Play mode | realtime-live (speech) |

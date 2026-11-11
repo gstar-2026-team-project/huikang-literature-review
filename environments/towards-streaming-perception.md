@@ -8,7 +8,7 @@ Towards Streaming Perception defines "streaming accuracy", scoring the most rece
 
 | | |
 |---|---|
-| Year | 2020 |
+| Year | May 2020 |
 | Authors / org | Li, Wang, Ramanan |
 | Links | [arXiv 2005.10420](https://arxiv.org/abs/2005.10420) |
 | Demo | [project page](https://www.cs.cmu.edu/~mengtial/proj/streaming/) + [visual walkthrough](https://mtli.github.io/streaming/streaming-visuals.html): talk videos and pre-rendered dashcam videos comparing offline and streaming (latency-aware) detectors and forecasting, with the Argoverse-HD annotation viewer and an [eval.ai challenge leaderboard](https://eval.ai/web/challenges/challenge-page/800/overview). Human-playable: no. |

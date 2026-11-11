@@ -55,8 +55,8 @@ Visuals are excerpts of each work's published recordings, replays or figures, no
 | [OmniGameArena](environments/omnigamearena.md) | Jun 2026 | 12 Unreal Engine 5 games | paused, latency charged | GPT-5.5 SharedFloor: 0.368 → 0.048 | <img src="assets/gifs/omnigamearena.gif" alt="GPT-5.5 playing LastStand in OmniGameArena"> |
 | [GameWorld-RT](environments/gameworld.md) | Apr 2026 | 34 browser games, human baselines | paused, wall clock (RT) | humans 55-77% success; RT run on 2 models | <img src="assets/gifs/gameworld.gif" alt="Qwen3.5-122B-A10B playing NS-Shaft in GameWorld"> |
 | [Real-Time Reasoning Gym](environments/realtime-gym.md) | Nov 2025 | Freeway, Snake, Overcooked | N tokens per step | planner 0.92 → 0.05 under pressure | <img src="assets/gifs/realtime-gym.gif" alt="Three agents playing Freeway in RealtimeGym"> |
-| [PokeAgent speedrun track](environments/pokeagent-speedrun.md) | 2025-26 | Pokemon Emerald to the first gym | wall clock | winner 40:13 (scripted); human 18 min | <img src="assets/gifs/pokeagent-speedrun.gif" alt="Winning PokeAgent agent in a Pokemon Emerald battle"> |
-| [OpenAI Universe](environments/openai-universe.md) | 2016 | games over remote desktop: pixels in, keys out | wall clock, 60 fps | no LLM results; archived 2018 | <img src="assets/gifs/openai-universe.gif" alt="Universe agent driving a racing Flash game"> |
+| [PokeAgent speedrun track](environments/pokeagent-speedrun.md) | Jul 2025 | Pokemon Emerald to the first gym | wall clock | winner 40:13 (scripted); human 18 min | <img src="assets/gifs/pokeagent-speedrun.gif" alt="Winning PokeAgent agent in a Pokemon Emerald battle"> |
+| [OpenAI Universe](environments/openai-universe.md) | Dec 2016 | games over remote desktop: pixels in, keys out | wall clock, 60 fps | no LLM results; archived 2018 | <img src="assets/gifs/openai-universe.gif" alt="Universe agent driving a racing Flash game"> |
 
 
 **Related benchmarks with designs to avoid or copy**
@@ -72,13 +72,13 @@ Eval mode: RE = realtime-live, PL = paused-live (see [Play modes and clocks](#pl
 
 | Work | Date | Idea | Evaluated on | Eval mode | Headline result | Visual |
 |---|---|---|---|---|---|---|
-| [AgileThinker](solutions/agile-thinker.md) | ICLR 2026 | fast model acts on a slow planner's partial reasoning | [RealtimeGym](environments/realtime-gym.md) | RE, token clock | 0.90 → 0.58 under pressure (planner alone 0.05) | <img src="assets/gifs/agile-thinker.gif" alt="AgileThinker playing Snake in the RealtimeGym demo"> |
+| [AgileThinker](solutions/agile-thinker.md) | Nov 2025 | fast model acts on a slow planner's partial reasoning | [RealtimeGym](environments/realtime-gym.md) | RE, token clock | 0.90 → 0.58 under pressure (planner alone 0.05) | <img src="assets/gifs/agile-thinker.gif" alt="AgileThinker playing Snake in the RealtimeGym demo"> |
 | [TORSI](solutions/torsi.md) | Oct 2026 | slow teacher writes guidance; fast student plays | [RealtimeBench](environments/realtimebench.md) | RE, wall clock | student 13.5 → 24.2 out of 100 | <img src="assets/gifs/torsi.png" alt="TORSI method diagram"> |
-| [Thinking Machines interaction models](solutions/tml-interaction-small.md) | 2026 | full-duplex model, 200 ms micro-turns | speech timing only | RE (speech) | TimeSpeak 64.7, CueSpeak 81.7 | <img src="assets/gifs/tml-interaction-small.gif" alt="Thinking Machines time-awareness demo"> |
-| [Lumine](solutions/lumine.md) | 2025 | imitation-trained agent, 5 Hz see, 30 Hz act | Genshin Impact | RE missions; PL benchmark | Act I in 56 min vs 53 for experts | <img src="assets/gifs/lumine.gif" alt="Lumine playing Genshin Impact"> |
-| [Timely-RL](solutions/timely-rl.md) | 2026 | RL with zero reward past a deadline | math, GPQA, text games | static, deadline | on-time 53.3% vs 30.0% (AIME) | <img src="assets/gifs/timely-rl.png" alt="Timely-RL training pipeline diagram"> |
-| [Kyutai interactivity alignment](solutions/kyutai-interactivity-alignment.md) | 2026 | RL with timing rewards for speech | Full-Duplex-Bench | RE (speech) | interruption latency 1.38 → 0.46 s | <img src="assets/gifs/kyutai-interactivity-alignment.png" alt="Kyutai timing-reward method diagram"> |
-| [Real-Time Chunking](solutions/real-time-chunking.md) | 2025 | compute the next action chunk while acting | robots, Kinetix sim | RE (robots) | no loss with 200 ms added delay | <img src="assets/gifs/real-time-chunking.gif" alt="Real-time chunking robot lighting a candle"> |
+| [Thinking Machines interaction models](solutions/tml-interaction-small.md) | May 2026 | full-duplex model, 200 ms micro-turns | speech timing only | RE (speech) | TimeSpeak 64.7, CueSpeak 81.7 | <img src="assets/gifs/tml-interaction-small.gif" alt="Thinking Machines time-awareness demo"> |
+| [Lumine](solutions/lumine.md) | Nov 2025 | imitation-trained agent, 5 Hz see, 30 Hz act | Genshin Impact | RE missions; PL benchmark | Act I in 56 min vs 53 for experts | <img src="assets/gifs/lumine.gif" alt="Lumine playing Genshin Impact"> |
+| [Timely-RL](solutions/timely-rl.md) | Jan 2026 | RL with zero reward past a deadline | math, GPQA, text games | static, deadline | on-time 53.3% vs 30.0% (AIME) | <img src="assets/gifs/timely-rl.png" alt="Timely-RL training pipeline diagram"> |
+| [Kyutai interactivity alignment](solutions/kyutai-interactivity-alignment.md) | Jun 2026 | RL with timing rewards for speech | Full-Duplex-Bench | RE (speech) | interruption latency 1.38 → 0.46 s | <img src="assets/gifs/kyutai-interactivity-alignment.png" alt="Kyutai timing-reward method diagram"> |
+| [Real-Time Chunking](solutions/real-time-chunking.md) | Jun 2025 | compute the next action chunk while acting | robots, Kinetix sim | RE (robots) | no loss with 200 ms added delay | <img src="assets/gifs/real-time-chunking.gif" alt="Real-time chunking robot lighting a candle"> |
 
 Timely-RL and Kyutai's work are the nearest existing post-training recipes; nobody has yet trained a model against a live game clock.
 

@@ -8,7 +8,7 @@ OmniMMI is an offline-replay benchmark that formalises streaming video as frames
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Mar 2025 |
 | Links | [arXiv 2503.22952](https://arxiv.org/abs/2503.22952) |
 | Demo | [project page](https://omnimmi.github.io) with six short example task clips (AP, SG, MD, SI, PA, PT) and a sortable leaderboard (no replays); [M4 page](https://omnimmi.github.io/m4.html) with two recorded screen captures of the M4 model running on a streaming video in a terminal. All recordings; nothing live or human-playable. |
 | Play mode | offline replay |

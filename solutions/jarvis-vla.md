@@ -8,7 +8,7 @@ JARVIS-VLA is a Minecraft model listed with the VPT line on the 20 Hz native int
 
 | | |
 |---|---|
-| Year | 2022-25 |
+| Year | Mar 2025 |
 | Category | RL and decision model |
 | Method | 20 Hz native interface; synchronous simulator |
 | Evaluated on | Minecraft |

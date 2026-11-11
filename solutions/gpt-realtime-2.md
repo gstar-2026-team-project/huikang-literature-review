@@ -8,7 +8,7 @@ gpt-realtime-2 is OpenAI's Realtime API model, with reasoning-effort levels and 
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | May 2026 |
 | Links | [docs](https://developers.openai.com/api/docs/models/gpt-realtime-2) |
 | Demo | [gpt-realtime-2 docs](https://developers.openai.com/api/docs/models/gpt-realtime-2): the official Realtime Playground needs sign-in (Cloudflare check), the launch post's embedded voice session was blocked by a bot check, and the [Realtime Console](https://github.com/openai/openai-realtime-console) is self-hosted with your own key. No public game-playing demo; human-playable: no. |
 | Category | realtime architecture |

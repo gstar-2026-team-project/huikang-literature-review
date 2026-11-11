@@ -8,7 +8,7 @@ TextStarCraft II plays StarCraft II through text macro actions against the built
 
 | | |
 |---|---|
-| Year | 2023 |
+| Year | Dec 2023 |
 | Links | [arXiv 2312.11865](https://arxiv.org/abs/2312.11865), original code [sc2musa/Large-Language-Models-play-StarCraftII](https://github.com/sc2musa/Large-Language-Models-play-StarCraftII) |
 | Demo | [Project page](https://sites.google.com/view/textstarcraft2/%E9%A6%96%E9%A1%B5) with 10 embedded YouTube videos and a [YouTube playlist](https://www.youtube.com/playlist?list=PL2vvP3CXffZxrjxSjVAL7QXNFqNq96mcy): edited screen recordings of the LLM agent (Protoss) playing full games against the built-in AI, plus short clips of single tactics (Voidray play, scouting, Chrono Boost, Zealot rush). Recordings only; no live demo, replay viewer or human-playable page. |
 | Play mode | paused-live (built-in AI experiments) + realtime-live (human matches) |

@@ -8,7 +8,7 @@ In CodeClash LLMs write bots whose code competes in arenas; "LMs do not play the
 
 | | |
 |---|---|
-| Year | 2023-25 |
+| Year | Nov 2025 |
 | Links | [arXiv 2511.00839](https://arxiv.org/abs/2511.00839) |
 | Demo | [CodeClash Trajectory Viewer](https://viewer.codeclash.ai/): recorded tournament logs with per-round winners, cost and the full agent edit-phase transcripts and diffs; [project site](https://codeclash.ai/) has an Elo leaderboard and recorded arena animations. All recordings; no live model play against a clock; not human-playable. |
 | Category | scaffold |

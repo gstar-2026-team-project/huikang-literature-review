@@ -8,7 +8,7 @@ OpenAI Universe was a 2016 platform that ran any program behind a remote desktop
 
 | | |
 |---|---|
-| Year | 2016 |
+| Year | Dec 2016 |
 | Authors / org | OpenAI |
 | Links | [announcement](https://openai.com/index/universe/), [repo](https://github.com/openai/universe) |
 | Demo | [launch post (archived)](https://web.archive.org/web/20161207112259/https://openai.com/blog/universe/): recorded video clips, mostly of human demonstrators, plus recorded RL agents (Pong 'plays at real time', racing Flash games, Mini-WoB, slither.io). The original universe.openai.com is offline (an [archived catalog](https://web.archive.org/web/20161206150325/https://universe.openai.com/) remains). Human-playable: no. |

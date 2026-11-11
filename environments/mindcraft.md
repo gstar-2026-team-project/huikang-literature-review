@@ -8,7 +8,7 @@ MINDcraft issues high-level commands on a live Minecraft server.
 
 | | |
 |---|---|
-| Year | 2023-25 |
+| Year | Aug 2023 |
 | Links | [arXiv 2504.17950](https://arxiv.org/abs/2504.17950) |
 | Demo | [project page](https://mindcraft-minecollab.github.io/): static leaderboard plus 11 recorded YouTube clips (timelapses and showcases of LLM bots building, cooking and crafting with chat and !command bubbles, including failure cases); no replay viewer or hosted live demo. You can run it yourself on a live Minecraft server via [github](https://github.com/kolbytn/mindcraft); human-playable in browser: no. |
 | Play mode | scripted (Voyager, Odyssey: server paused during LLM calls) / realtime-live (MINDcraft) |

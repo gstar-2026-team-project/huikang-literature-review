@@ -8,7 +8,7 @@ NitroGen's universal simulator is a Gymnasium wrapper that intercepts the game e
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jan 2026 |
 | Authors / org | NVIDIA and collaborators |
 | Links | [arXiv 2601.02427](https://arxiv.org/abs/2601.02427) |
 | Demo | [NitroGen page](https://nitrogen.minedojo.org/): project page with a pre-recorded montage captioned 'Autonomous Agent' (Rocket League, Cyberpunk 2077, Cuphead); the video does not show whether the game kept running or was paused during inference. Human-playable: no. Live model: no. The only Space found (community [blanchon/NitroGen-Pokemon](https://huggingface.co/spaces/blanchon/NitroGen-Pokemon)) was asleep. |

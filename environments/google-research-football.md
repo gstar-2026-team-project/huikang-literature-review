@@ -8,7 +8,7 @@ Google Research Football is an archived football simulator at 100 ms per step wi
 
 | | |
 |---|---|
-| Year | 2019 |
+| Year | Jun 2019 |
 | Links | [repo](https://github.com/google-research/football) |
 | Demo | [research-football.dev](https://research-football.dev) (the game server named in the repo description) does not resolve. The [Kaggle 2020 competition leaderboard](https://www.kaggle.com/competitions/google-football/leaderboard) lists recorded RL-bot episodes (0.5 s per-step timeout), but its replay viewer currently fails ('Unable to render', visualizer 404). The [official trailer](https://www.youtube.com/watch?v=F8DcgFDT9sc) is an edited recording of the environment. No hosted LLM demo; human-playable: only with a local install. |
 | Play mode | paused-live |

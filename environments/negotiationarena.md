@@ -8,7 +8,7 @@ NegotiationArena is a turn-based negotiation benchmark with games capped by "Max
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Feb 2024 |
 | Links | [arXiv 2402.05863](https://arxiv.org/abs/2402.05863) |
 | Demo | None found (searched: arXiv abstract page, GitHub repo vinid/NegotiationArena README and homepage field (empty), ICML 2024 poster page, web search for "NegotiationArena demo" / Hugging Face Space / video). The README's Colab tutorials only show static summary tables from 4 pre-recorded BuySell logs, with no transcript viewer or media. |
 | Play mode | paused-live, turn-based |

@@ -8,6 +8,7 @@ ACT predicts many actions per inference and executes them open-loop.
 
 | | |
 |---|---|
+| Year | Apr 2023 |
 | Category | RL and decision model (robotics latency method) |
 | Demo | [ACT / ALOHA project page](https://tonyzhaozh.github.io/aloha/) (Zhao, Kumar, Levine, Finn, RSS 2023): official project page with recorded videos of ACT policies running on the ALOHA bimanual robot in real time, plus reactiveness, distractor-robustness and policy-input camera clips. Recordings only; nothing playable or live. |
 

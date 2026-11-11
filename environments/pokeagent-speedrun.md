@@ -8,7 +8,7 @@ The PokeAgent speedrunning track asks agents to play Pokemon Emerald to the firs
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | Jul 2025 |
 | Authors / org | Karten, Grigsby and others (Princeton, UT Austin) |
 | Links | [arXiv 2603.15563](https://arxiv.org/abs/2603.15563) |
 | Demo | [site](https://pokeagentchallenge.com/speedrunning.html), [leaderboard](https://pokeagent.github.io/leaderboard.html): static track page plus a final first-gym leaderboard (winner Heatz, 40:13 wall-clock) where each entry links to a team-uploaded YouTube screen recording (e.g. [Heatz](https://youtu.be/A28OJRl3R8o)) of the agent's Emerald run. All are recorded runs, nothing is live or interactive, and the winning video is edited to 12 min, so it cannot show the real-time clock. Battle [replays](https://replays.pokeagentchallenge.com/) cover the battling track only. Human-playable: no. |

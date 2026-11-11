@@ -8,7 +8,7 @@ FlashAdventure is a set of Flash adventure games chosen to avoid strict time lim
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Sep 2025 |
 | Links | [arXiv 2509.01052](https://arxiv.org/abs/2509.01052) |
 | Demo | [project page](https://ahnjaewoo.github.io/flashadventure) with a 14 s [YouTube teaser](https://www.youtube.com/watch?v=ff4aKGzyW1Q): a static paper page plus a montage of the 34 Flash games. It has no agent replays, live runs or trajectory viewer, and the games are untimed and wait for the agent; human-playable: no. |
 | Play mode | paused-live (untimed by design) |

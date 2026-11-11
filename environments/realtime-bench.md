@@ -8,7 +8,7 @@ Realtime-Bench is a benchmark of 50 web and game tasks, each with a programmatic
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Oct 2026 |
 | Authors / org | Tang, Yang, Zhang, Wang, Cheng, Zhao, M. Li, W. Li, Xia, Pei (UT Austin, Ohio State, UIUC, NVIDIA, Northwestern, Steadyworks) |
 | Links | [arXiv 2610.22155](https://arxiv.org/abs/2610.22155), code [RealtimeAgents/Realtime-Bench](https://github.com/RealtimeAgents/Realtime-Bench) (MIT) |
 | Demo | [project site](https://realtimeagents.org/) with one MP4 clip per public task, a [leaderboard](https://realtimeagents.org/#/leaderboard) and a public [trajectory browser](https://realtimeagents.org/harbor/) of every evaluation job (screen recordings plus full per-step trajectories with tick numbers, reasoning, actions and timestamps). Some game tasks have a human-playable view (e.g. [Gomoku, "Play Black"](https://realtimeagents.org/harbor/?view=task&task=gomoku)). Recordings confirm wall-clock play. |

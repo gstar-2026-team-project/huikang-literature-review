@@ -8,7 +8,7 @@ Distilling System 2 into 1 is a post-training method listed with Dualformer (sig
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Jul 2024 |
 | Category | post-training |
 | Method | train on randomly dropped reasoning traces; distil |
 | Evaluated on | mazes, QA |

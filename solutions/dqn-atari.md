@@ -8,7 +8,7 @@ The DQN / Atari line of RL agents acts with frameskip 4 (15 Hz) and gets inferen
 
 | | |
 |---|---|
-| Year | 2015- |
+| Year | Dec 2013 |
 | Links | [ALE docs](https://ale.farama.org/environments/) |
 | Demo | ["DQN Breakout" video](https://www.youtube.com/watch?v=TmPfTpjtdgg) (Google DeepMind, 1:12), embedded in the [Google Research blog post](https://research.google/blog/from-pixels-to-actions-human-level-control-through-deep-reinforcement-learning/): an official recording of DQN playing Breakout after 100, 200, 400 and 600 training episodes, ending with the tunnel strategy. A recording, not live or human-playable. |
 | Category | RL and decision model |

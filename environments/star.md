@@ -8,7 +8,7 @@ STAR is a 1v1 hex wargame with turn-based and real-time modes.
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Mar 2026 |
 | Links | [arXiv 2603.09337](https://arxiv.org/abs/2603.09337) |
 | Demo | [official video](https://www.youtube.com/watch?v=4bSB5S3ixLI) (also an animated GIF in the [repo README](https://github.com/star-nexus/star)): a 95 s screen recording of two LLM agents playing the RoTK hex map, with the game window's running "Game Time" clock next to the agents' terminals streaming tool calls. It is a recording; there is no replay viewer and no public page where a person can play. |
 | Play mode | paused-live (turn_based) + realtime-live (real_time) |

@@ -8,7 +8,7 @@ STITCH interleaves reasoning chunks with spoken chunks so reasoning costs no ext
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | Jul 2025 |
 | Links | [STITCH](https://arxiv.org/abs/2507.15375) |
 | Demo | [project page](https://d223302.github.io/STITCH/): pre-rendered mp4 animations of chunked unspoken reasoning interleaved with speech tokens on spoken math QA. Scripted and illustrative (the page notes the 'speed shown here is an ideal case'). No live model and no game; human-playable: no. |
 | Category | realtime architecture (thinking while speaking) / post-training |

@@ -8,7 +8,7 @@ VARP is a successor of Cradle that pauses the game using photo mode during VLM i
 
 | | |
 |---|---|
-| Year | 2024-25 |
+| Year | Sep 2024 |
 | Play mode | paused-live |
 | Clock | game paused during inference |
 | Observation | screenshots |

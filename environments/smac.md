@@ -8,7 +8,7 @@ SMAC and SMACv2 are step-locked StarCraft II multi-agent micro battles.
 
 | | |
 |---|---|
-| Year | 2019 |
+| Year | Feb 2019 |
 | Links | [repo](https://github.com/oxwhirl/smacv2) |
 | Demo | [SMACv2 project page](https://sites.google.com/view/smacv2): nine embedded YouTube videos (terran, protoss, zerg at 5 vs 5, 10 vs 11, 20 vs 20) of trained MARL policies, recorded as StarCraft II replays played back in the game client. Recordings only, not live and not human-playable. |
 | Play mode | paused-live |

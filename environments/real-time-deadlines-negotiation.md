@@ -8,7 +8,7 @@ In the UPenn Real-Time Deadlines setting two agents negotiate a contract under a
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jan 2026 |
 | Authors / org | Sehgal, Guntuku, Ungar |
 | Links | [arXiv 2601.13206](https://arxiv.org/abs/2601.13206) |
 | Demo | None found (searched: arXiv 2601.13206 abstract page (no project page or video listed); code repo github.com/sehgal-neil/llm-temporal-awareness (README is CLI replication instructions only, no homepage, no media); web search for the paper title plus demo/GitHub) |

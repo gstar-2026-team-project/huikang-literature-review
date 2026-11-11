@@ -8,7 +8,7 @@ Gemini Live is Google's live streaming API with a `thinkingLevel` setting whose 
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | May 2025 |
 | Links | [docs](https://ai.google.dev/gemini-api/docs/live-guide) |
 | Demo | [Gemini Live docs](https://ai.google.dev/gemini-api/docs/live): AI Studio Live needs sign-in and there is no public game-playing demo. The closest is Google's [Real-Time Gaming Guide](https://cloud.google.com/blog/topics/developers-practitioners/how-to-use-gemini-live-api-native-audio-in-vertex-ai) (code plus [video](https://www.youtube.com/watch?v=RLM1Qsp64WU)), where a human plays and Gemini Live gives spoken advice from the streamed screen; human-playable: no hosted version. |
 | Category | realtime architecture |

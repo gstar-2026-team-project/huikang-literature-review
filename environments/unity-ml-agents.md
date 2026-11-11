@@ -8,7 +8,7 @@ Unity ML-Agents is the route for building new realtime environments; its step AP
 
 | | |
 |---|---|
-| Year | 2017 |
+| Year | Sep 2017 |
 | Links | [repo](https://github.com/Unity-Technologies/ml-agents) |
 | Demo | [SoccerTwos Space](https://huggingface.co/spaces/unity/ML-Agents-SoccerTwos) (official `unity` Hugging Face Space; sibling Spaces for Walker, Worm, PushBlock, Pyramids, Huggy): a Unity WebGL build where you pick two trained ONNX policies from the Hub and watch them play 2v2 soccer live in the browser. RL policies, not LLMs; watch-only, not human-playable. |
 | Play mode | paused-live |

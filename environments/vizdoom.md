@@ -8,7 +8,7 @@ ViZDoom is a Doom-based platform whose `ASYNC_PLAYER` mode advances at 35 tics/s
 
 | | |
 |---|---|
-| Year | 2016 |
+| Year | May 2016 |
 | Authors / org | Kempka, Wydmuch, Runc, Toczek, Jaskowski, 2016; Farama |
 | Links | [repo](https://github.com/Farama-Foundation/ViZDoom), [competitions paper](https://arxiv.org/abs/1809.03470) |
 | Demo | [docs](https://vizdoom.farama.org/): documentation only, with pre-rendered scenario GIFs and no agent videos or replays (the [original site](https://vizdoom.cs.put.edu.pl/) with the competition pages is unreachable). Third-party [HF Space](https://anakin87-tiny-doom-defender.hf.space/) streams two ~1M-parameter models playing Defend the Center live (MJPEG frames plus an SSE step/action/kills feed). Human-playable: no. |

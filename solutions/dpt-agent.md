@@ -8,7 +8,7 @@ DPT-Agent is a scaffold in which an FSM rewritten by the LLM acts every tick, wi
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Feb 2025 |
 | Authors / org | Zhang et al. |
 | Links | [arXiv 2502.11882](https://arxiv.org/abs/2502.11882), [code](https://github.com/sjtu-marl/DPT-Agent) (MIT) |
 | Demo | [project page](https://sjtu-marl.github.io/DPT-Agent-page/): two short recorded GIFs (7 s and 15 s) of DPT-Agent (red hat) cooking alongside a human (blue hat) in a pixel-art Overcooked burger kitchen, with the time_left counter running down (clips appear sped up), plus static results tables; [AGI-Eval leaderboard](https://agi-eval.cn/evaluation/detail?id=56): score and latency tables, no replays. Human-playable online: no (the repo ships a local human-vs-LLM Flask app on localhost:5001). |

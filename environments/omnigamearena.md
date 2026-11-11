@@ -8,7 +8,7 @@ OmniGameArena is a set of 12 new Unreal Engine 5 games played paused (PDQ) or wi
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jun 2026 |
 | Authors / org | Lin, Qian, Liu, Huang et al. (HKU, LIGHTSPEED, CUHK, Tsinghua) |
 | Links | [arXiv 2606.09826](https://arxiv.org/abs/2606.09826), code [mxlin043/OmniGameArena](https://github.com/mxlin043/OmniGameArena) |
 | Demo | [project page](https://mxlin043.github.io/OmniGameArena/): a leaderboard plus recorded gameplay videos per model and game, with a toggle between latency-free and latency-charged mode. In the latency-free clips the UE5 countdown clock is frozen while the model thinks; in the latency-charged clips it keeps running beside a 'Thinking...' panel. Human-playable: no (the UE5 environment is available to download from HF/ModelScope). |

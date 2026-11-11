@@ -8,7 +8,7 @@ dGSLM is a textless model over two audio channels.
 
 | | |
 |---|---|
-| Year | 2022 |
+| Year | Mar 2022 |
 | Links | [arXiv 2203.16502](https://arxiv.org/abs/2203.16502) |
 | Demo | [audio samples page](https://speechbot.github.io/dgslm/): official project page with pre-generated stereo audio samples (prompt, ground truth, dGSLM continuations, cascaded baseline, unconditional generations) shown as two-channel waveforms. Recordings only; no live model and nothing to talk to. |
 | Category | realtime architecture |

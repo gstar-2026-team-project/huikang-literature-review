@@ -8,7 +8,7 @@ RRARA is a scaffold in which a rule reflex acts at once and an asynchronous LLM 
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | Jun 2025 |
 | Authors / org | Zheng et al. |
 | Links | [arXiv 2506.07223](https://arxiv.org/abs/2506.07223) |
 | Demo | None found (searched: arXiv abstract page and comments ("Accepted by the CVPR 2025 Embodied AI Workshop", no project, code or video links), web search for the paper title, "RRARA" and "Time Conversion Mechanism" with demo, project page, GitHub and video) |

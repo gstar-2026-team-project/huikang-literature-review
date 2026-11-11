@@ -8,7 +8,7 @@ PySC2 and python-sc2 are StarCraft II interfaces whose `realtime=True` mode adva
 
 | | |
 |---|---|
-| Year | 2017 |
+| Year | Aug 2017 |
 | Links | [source](https://github.com/google-deepmind/pysc2/blob/master/docs/environment.md), [python-sc2](https://github.com/BurnySc2/python-sc2) |
 | Demo | [video](https://www.youtube.com/watch?v=-fKUyT14G-8): 15-second DeepMind clip, 2017, of the PySC2 renderer with feature layers and a Frame/FPS counter. Hotkey hints suggest the human UI. No agent shown. PySC2 is synchronous by default. Human-playable: no (not in browser). |
 | Play mode | paused-live + realtime-live (`realtime=True`) |

@@ -8,7 +8,7 @@ AmongAgents is an Among Us game that "repeatedly switches between two phases (Ta
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Jul 2024 |
 | Links | [arXiv 2407.16521](https://arxiv.org/abs/2407.16521) |
 | Demo | None found (searched: arXiv abstract page and comments, GitHub repo cyzus/among-agents README and homepage field, web search for "AmongAgents demo") |
 | Play mode | paused-live, phase/step-based |

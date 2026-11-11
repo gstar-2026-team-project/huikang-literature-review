@@ -8,7 +8,7 @@ Kyutai interactivity alignment runs GRPO on the text stream of Moshi and Persona
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jun 2026 |
 | Authors / org | Ohashi, Zeghidour, Defossez, Kharitonov |
 | Links | [arXiv 2606.11167](https://arxiv.org/abs/2606.11167) |
 | Demo | [Kyutai blog post with audio samples](https://kyutai.org/blog/2026-06-10-interactivity): recorded side-by-side audio of base vs post-trained Moshi and PersonaPlex, with two-track (user/examiner and model) waveform players, for Full-Duplex-Bench v1 axes and v2 real-time dialogues with GPT-Realtime. Recordings only; no live model or human-playable demo. |

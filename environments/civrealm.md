@@ -8,7 +8,7 @@ CivRealm is a turn-based Civilization-style environment with a step/turn loop.
 
 | | |
 |---|---|
-| Year | 2024-26 |
+| Year | Jan 2024 |
 | Links | [repo](https://github.com/bigai-ai/civrealm) |
 | Demo | [docs site](https://bigai-ai.github.io/civrealm): documentation only, with static screenshots of Freeciv-web and a guide to observing your own local run at localhost:8080. No hosted video, replay or live demo. The game is turn-based and waits for the agent (begin_turn arrives only after all players finish; wait_for_observer setting). Human-playable: no hosted version. |
 | Play mode | paused-live, turn-based |

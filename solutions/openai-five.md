@@ -8,7 +8,7 @@ OpenAI Five played Dota 2 at 30 fps, acting on every fourth frame and reacting i
 
 | | |
 |---|---|
-| Year | 2019 |
+| Year | Dec 2019 |
 | Links | [arXiv 1912.06680](https://arxiv.org/abs/1912.06680) |
 | Demo | [OpenAI Five (archived)](https://web.archive.org/web/20191219212314/https://openai.com/blog/how-to-train-your-openai-five/): recorded Twitch VODs and still-downloadable .dem replays of live real-time matches against OG; the archived blog states 80 ms average reaction (later 200 ms) acting every 4th frame at 30 fps. The live [research page](https://openai.com/research/openai-five) is behind a Cloudflare check; OpenAI Five Arena (Apr 2019) is closed. Human-playable: no. |
 | Category | RL and decision model |

@@ -8,7 +8,7 @@ VideoLLM-online decides per video frame whether to stay silent or speak.
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Jun 2024 |
 | Links | [arXiv 2406.11816](https://arxiv.org/abs/2406.11816) |
 | Demo | [project page](https://showlab.github.io/videollm-online): recorded screen capture of a live streaming video-LLM run on egocentric video (bike repair, cooking), not a game. The model comments proactively, with a video-time clock, processing FPS (about 3 to 12 on an RTX 3090) and a latency per reply shown on screen. [HF Space](https://huggingface.co/spaces/chenjoya/videollm-online) is down (runtime error, deprecated). Human-playable: no. |
 | Category | realtime architecture |

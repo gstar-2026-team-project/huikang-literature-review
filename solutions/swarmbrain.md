@@ -8,7 +8,7 @@ SwarmBrain combines an LLM strategy with a reflex state machine for StarCraft II
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Jan 2024 |
 | Links | [arXiv 2401.17749](https://arxiv.org/abs/2401.17749) |
 | Demo | Official demo video ([YouTube](https://www.youtube.com/watch?v=-F0PQJPI4HM), [Bilibili](https://www.bilibili.com/video/BV1jZ421a7b7/)) linked from the [GitHub README](https://github.com/ramsayxiaoshao/SwarmBrain), plus one replay file (`videos/ZvT_Medium.SC2Replay`) in the repo. The video is a recording of a 13:23 Zerg-vs-Terran game played back in the StarCraft II replay viewer at "Faster" speed. It is not live and not human-playable. |
 | Category | scaffold |

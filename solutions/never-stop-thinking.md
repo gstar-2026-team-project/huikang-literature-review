@@ -8,7 +8,7 @@ Never Stop Thinking is an interrupt-and-resume orchestrator so a text LLM thinks
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Sep 2026 |
 | Links | [arXiv 2609.17416](https://arxiv.org/abs/2609.17416) |
 | Demo | None found (searched: arXiv abstract page and HTML full text, the code link it gives (github.com/19PINE-AI/never-stop-thinking, which returns 404), the 19PINE-AI GitHub org repo list, and web searches for the paper name with "demo", "ReactiveBench" and "video") |
 | Category | scaffold |

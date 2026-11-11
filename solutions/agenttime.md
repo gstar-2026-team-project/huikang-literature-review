@@ -8,6 +8,7 @@ AgentTime measures whether agents land within 5% of a requested working duration
 
 | | |
 |---|---|
+| Year | Oct 2026 |
 | Links | [arXiv 2610.09944](https://arxiv.org/abs/2610.09944) |
 | Demo | [project site and results explorer](https://agenttimebench.com/results/): leaderboard plus an interactive chart of every recorded run (time asked against time worked), with a page per run. Recorded results only; no videos, no live model calls, not something a human can play. |
 | Category | scaffold (supporting evidence) |

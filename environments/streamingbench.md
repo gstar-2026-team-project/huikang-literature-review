@@ -8,7 +8,7 @@ StreamingBench is a streaming video understanding benchmark whose questions carr
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Nov 2024 |
 | Links | [arXiv 2411.03628](https://arxiv.org/abs/2411.03628) |
 | Demo | [project page](https://streamingbench.github.io/) with a sample video, leaderboard and an embedded [result visualizer](https://sbvisualizer-github-io.vercel.app/) that plays benchmark videos with timestamped questions and the recorded answers of about ten models. Recorded outputs only; no live model and nothing human-playable. |
 | Play mode | offline replay |

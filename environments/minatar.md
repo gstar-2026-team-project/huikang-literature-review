@@ -8,7 +8,7 @@ MinAtar is a miniature Atari suite with tiny, text-serialisable state.
 
 | | |
 |---|---|
-| Year | 2016- |
+| Year | Mar 2019 |
 | Demo | [repo README GIFs](https://github.com/kenjyoung/MinAtar) and official YouTube videos (e.g. [MinAtar breakout](https://www.youtube.com/watch?v=cFk4efZNNVI)): looping GIFs of all five games and screen recordings of a trained DQN agent (not an LLM) playing. Recordings only; human play needs the local `examples/human_play.py` GUI. |
 | Play mode | paused-live (Dino browser is realtime-live) |
 | Clock | STEP at about 30 fps |

@@ -8,7 +8,7 @@ Polytopia Bench gives each model 40 minutes to write a Rust bot for 1v1 The Batt
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Oct 2026 |
 | Authors / org | Kevin Zhang (personal project; no affiliation stated) |
 | Links | write-up [*Introducing Polytopia Bench*](https://thekevinz.com/blog/polytopia-bench) (dated 31 October 2026), code and full archive in [kevinz917/superhuman-polytopia-bot `benchmark/`](https://github.com/kevinz917/superhuman-polytopia-bot/tree/main/benchmark) (Apache 2.0), [launch post on X](https://x.com/kzdagoof/status/2117257994232881492); no paper |
 | Demo | [interactive leaderboard](https://thekevinz.com/blog/polytopia-bench) in the write-up (filter by opponent and map family, inspect each model's five bots); [hosted Studio](https://polytopia-bot-kappa.vercel.app) where a human plays 1v1 against the RL bots used as the top opponent (not against the model-written bots). Human-playable: yes (Studio). |

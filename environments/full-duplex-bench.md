@@ -8,7 +8,7 @@ Full-Duplex-Bench evaluates full-duplex spoken dialogue models by streaming user
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Mar 2025 |
 | Links | [arXiv 2503.04721](https://arxiv.org/abs/2503.04721) |
 | Demo | [FDB-v3 demo page](https://daniellin94144.github.io/FDB-v3-demo): results tables (Pass@1, latency 4.25-10.12 s, interrupt/filler rates) and recorded stereo user/agent audio for GPT-Realtime, Gemini 2.5/3.1 Live, Grok, Ultravox and Cascaded on 6 disfluent tool-use scenarios. Covers v3 only. Human-playable: no. |
 | Play mode | realtime-live (speech), pre-recorded user audio streamed in |

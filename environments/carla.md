@@ -8,7 +8,7 @@ CARLA is a driving simulator whose default mode is asynchronous and whose synchr
 
 | | |
 |---|---|
-| Year | 2017 |
+| Year | Nov 2017 |
 | Links | [docs](https://carla.readthedocs.io/en/latest/adv_synchrony_timestep/) |
 | Demo | [carla.org homepage video](https://carla.org/) ([YouTube YLh07d-YPSI](https://www.youtube.com/watch?v=YLh07d-YPSI)): official release video, "CARLA 0.9.16 Release" (2:42), showing the simulator, its maps and sensor views (camera, segmentation, LIDAR). A recording of the simulator, not of an LLM or model playing; no replay viewer or browser-playable build. |
 | Play mode | realtime-live (default async) + paused-live (sync) |

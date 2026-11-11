@@ -8,7 +8,7 @@ The Pokemon stream harnesses (ClaudePlaysPokemonStarter, the FireRed harness) pl
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | Feb 2025 |
 | Links | [starter repo](https://github.com/davidhershey/ClaudePlaysPokemonStarter) |
 | Demo | [ClaudePlaysPokemon Twitch](https://www.twitch.tv/claudeplayspokemon) (offline; recorded clips such as [this one](https://www.twitch.tv/claudeplayspokemon/clip/DiligentWildVampireWoofer-7QnY4Da4FuDgFKiM)) and the [GPT Plays Pokémon companion site](https://gpt-plays-pokemon.clad3815.dev/) (run stats and milestones for Clad3815's FireRed and other runs). These are recordings and run logs of the stream harnesses, not the starter; the clips show the step counter frozen while Claude thinks. Human-playable: no. |
 | Play mode | paused-live |

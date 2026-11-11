@@ -8,7 +8,7 @@ Crafter and its JAX successor Craftax are fast, text-renderable open-world survi
 
 | | |
 |---|---|
-| Year | 2021 / 2024 |
+| Year | Mar 2021 |
 | Links | [Craftax](https://github.com/MichaelTMatthews/Craftax) |
 | Demo | [Craftax site](https://craftaxenv.github.io/): a project page with pre-rendered gameplay GIFs (skills and an author-tile gallery) that do not say who played them. [Crafter page](https://danijar.com/project/crafter/): a recorded human-expert video plus YouTube talk and emergent-behavior RL videos. Neither shows an LLM, and both environments are step-locked. Human-playable in the browser: no (local pygame GUI only). |
 | Play mode | paused-live |

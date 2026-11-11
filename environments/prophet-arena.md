@@ -8,7 +8,7 @@ Prophet Arena is "A Live Benchmark for Predictive Intelligence" in which forecas
 
 | | |
 |---|---|
-| Year | 2024-26 |
+| Year | Oct 2025 |
 | Links | [arXiv 2510.17638](https://arxiv.org/abs/2510.17638) |
 | Demo | [Prophet Arena](https://www.prophetarena.co/): live leaderboard on real prediction markets plus a [forecast-trace replay viewer](https://www.prophetarena.co/f/1p2TIjkOVlqwNWVYsDeCJg#watch) for recorded agent research runs (timestamped search/reprice steps, 5-60x playback). Paid, logged-in users can watch a run live. Human-playable: no (you can pose a question but not forecast yourself as a player). |
 | Play mode | paused-live (forecast before resolution) |

@@ -8,7 +8,7 @@ AnytimeReasoner trains a reasoning LLM with RL in which thinking is truncated at
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Links | [arXiv 2505.13438](https://arxiv.org/abs/2505.13438) |
 | Demo | None found (searched: arXiv abstract page, GitHub repo sail-sg/AnytimeReasoner README and homepage field, Hugging Face paper page, web search for "AnytimeReasoner demo"). |
 | Category | post-training |

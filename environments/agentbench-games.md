@@ -8,6 +8,7 @@ AgentBench's game tasks are Digital Card Game, Lateral Thinking Puzzles and Hous
 
 | | |
 |---|---|
+| Year | Aug 2023 |
 | Links | [arXiv 2308.03688](https://arxiv.org/abs/2308.03688) |
 | Demo | [README demo video](https://github.com/THUDM/AgentBench) (21.5 s, embedded in the GitHub README): official screen-recording montage of agent episodes, including the Digital Card Game (fish battle) and Lateral Thinking Puzzle UIs beside the model's prompt/response log. A recording of turn-by-turn play, not a live demo and not human-playable; the old project page llmbench.ai/agent now redirects to a domain-sale 404. |
 | Play mode | paused-live (turn- or step-based) |

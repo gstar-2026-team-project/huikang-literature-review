@@ -8,7 +8,7 @@ Duplex models (MiniCPM-Duplex) read a time slice of text, write a slice or stay 
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Jun 2024 |
 | Links | [arXiv 2406.15718](https://arxiv.org/abs/2406.15718) |
 | Demo | None found (searched: arXiv abstract page, thunlp/duplex-model GitHub README and repo files (no homepage set), Hugging Face model card and Spaces, web search for "MiniCPM-duplex demo" and demo video). The repo ships only a self-hosted Next.js chat demo that needs a local model server on ws://localhost:8765. |
 | Category | realtime architecture |

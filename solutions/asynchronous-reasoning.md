@@ -8,7 +8,7 @@ Asynchronous Reasoning is training-free concurrent think/read/write in one model
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Dec 2025 |
 | Links | [arXiv 2512.10931](https://arxiv.org/abs/2512.10931) |
 | Demo | [README live terminal demo GIF](https://github.com/yandex-research/AsyncReasoning#live-terminal-demo) (code [yandex-research/AsyncReasoning](https://github.com/yandex-research/AsyncReasoning), Apache-2.0): a recording of the thinker and writer streams running side by side on a text riddle, with a mode-switch log. It is a recording of a QA prompt, not a game; no live hosted demo and not human-playable. |
 | Category | scaffold |

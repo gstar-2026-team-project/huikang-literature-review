@@ -8,6 +8,7 @@ SHANKS generates reasoning while the user is still talking, so reasoning costs n
 
 | | |
 |---|---|
+| Year | Oct 2025 |
 | Links | [arXiv 2510.06917](https://arxiv.org/abs/2510.06917) |
 | Demo | [project page](https://d223302.github.io/SHANKS/): pre-rendered mp4 animations of a model thinking while the user speaks, with interruptions (math tutoring) and tool calls. Edited for reading: the caption says the video halts every 4 s. No live model and no game; human-playable: no. |
 | Category | realtime architecture (thinking while speaking) |

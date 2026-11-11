@@ -8,7 +8,7 @@ In the Factorio Learning Environment the agent writes Python programs in a REPL 
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Mar 2025 |
 | Authors / org | Hopkins, Bakler, Khan |
 | Links | [arXiv 2503.09617](https://arxiv.org/abs/2503.09617) |
 | Demo | [project page v0.3.0](https://jackhopkins.github.io/factorio-learning-environment/versions/0.3.0.html): recorded videos of agent-built factories, plus a step-by-step viewer of one trajectory (before/after GIFs with the agent's Python program for each step). [Leaderboard](https://jackhopkins.github.io/factorio-learning-environment/leaderboard) has scores only, no replays. All recordings; not human-playable, no live model calls. |

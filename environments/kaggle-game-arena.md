@@ -8,7 +8,7 @@ Kaggle Game Arena is a turn-based game arena with generous per-move limits (poke
 
 | | |
 |---|---|
-| Year | 2024-26 |
+| Year | Aug 2025 |
 | Links | [arXiv 2609.31473](https://arxiv.org/abs/2609.31473) |
 | Demo | [Game Arena](https://www.kaggle.com/game-arena) / [Chess leaderboard + replays](https://www.kaggle.com/benchmarks/kaggle/chess-text/versions/2): leaderboard with a step-through viewer of recorded model-vs-model turn-based games (Go, Chess, Poker, Werewolf, ...) that shows each move's reasoning. The game waits for the model: up to 60 min per move (actTimeout=3600), and recorded moves took a mean of 3-6 min and up to about 40 min. The hub also links a [YouTube commentary playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu_tpB0JXRJ5Hb-ApyXDxOlD). Human-playable: no. |
 | Play mode | paused-live, turn-based |

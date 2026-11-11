@@ -8,7 +8,7 @@ OSWorld 2.0 is a computer-use benchmark of 108 long tasks, step-looped, with 6 s
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jun 2026 |
 | Links | [arXiv 2606.29537](https://arxiv.org/abs/2606.29537) |
 | Demo | [project page](https://osworld-v2.xlang.ai/) with a 21 s overview video and leaderboard, and a [task showcase](https://osworld-v2.xlang.ai/task-showcase/) replay viewer that steps through recorded screenshot trajectories (8 tasks, per-step actions and thinking, rubric scores). Recordings only; not human-playable and no live model calls. |
 | Play mode | paused-live (step loop) with 6 streaming tasks whose UI keeps animating |

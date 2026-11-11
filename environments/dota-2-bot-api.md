@@ -8,7 +8,7 @@ The Dota 2 bot scripting API calls Lua `Think()` every frame, and dotaservice ex
 
 | | |
 |---|---|
-| Year | 2018 |
+| Year | Nov 2018 |
 | Links | [dotaservice](https://github.com/TimZaman/dotaservice) |
 | Demo | [dotaservice README demo.gif](https://github.com/TimZaman/dotaservice/raw/master/demo.gif) and two [DotaClient](https://github.com/TimZaman/dotaclient) YouTube recordings ([9 Mar 2019](https://www.youtube.com/watch?v=hxitG142gsY), [28 Jan 2019](https://www.youtube.com/watch?v=6vgStVonDdA)): recordings of an RL policy (not an LLM) playing Shadow Fiend 1v1 mid through dotaservice with action overlays; the Jan video shows the console logging "Script function 'Think' ... took ~28 ms" per frame. Recordings only; nothing human-playable or live. |
 | Play mode | scripted (bot scripting API) + paused-live (dotaservice) |

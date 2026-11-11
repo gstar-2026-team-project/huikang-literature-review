@@ -8,7 +8,7 @@ DIAMBRA Arena is a step-locked platform for arcade fighting games such as Street
 
 | | |
 |---|---|
-| Year | 2022 |
+| Year | Jan 2022 |
 | Links | [repo](https://github.com/diambra/arena) |
 | Demo | [site](https://www.diambra.ai), [docs](https://docs.diambra.ai), [YouTube](https://www.youtube.com/@diambra_ai/videos): the site has no in-browser demo (the [leaderboard](https://www.diambra.ai/leaderboard) API fails with a CORS error, the [web app](https://app.diambra.ai/) needs a wallet, and 'AIvsAI live' is a dead link when logged out). The YouTube channel has recorded videos of RL agent submissions (e.g. SB3 PPO vs CPU in UMK3) in step-locked emulation (step_ratio frames per env.step). Human-playable: no (local Docker plus ROMs only). |
 | Play mode | paused-live |

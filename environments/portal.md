@@ -8,6 +8,7 @@ In PORTAL the LLM writes behaviour trees.
 
 | | |
 |---|---|
+| Year | Mar 2025 |
 | Links | [arXiv 2503.13356](https://arxiv.org/abs/2503.13356) |
 | Demo | [project page](https://zhongwen.one/projects/portal): three ~8 s recorded YouTube montages (3x3 grids of FPS UGC game clips) of LLM-generated behaviour-tree policies running in real time, plus downloadable BT DSL/JSON examples; the LLM writes the tree offline and is not in the per-frame loop; no code or interactive demo; human-playable: no. |
 | Play mode | scripted |

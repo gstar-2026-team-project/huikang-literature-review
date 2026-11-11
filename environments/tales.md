@@ -8,7 +8,7 @@ TALES is a text-adventure benchmark with text games stepped per action.
 
 | | |
 |---|---|
-| Year | 2024-26 |
+| Year | Apr 2025 |
 | Links | [arXiv 2504.14128](https://arxiv.org/abs/2504.14128) |
 | Demo | [site](https://microsoft.github.io/tale-suite/): static leaderboard and per-game score charts, plus an embedded Zork I (iplayif/Parchment) that a human can play; [HF trajectories](https://huggingface.co/datasets/PEARLS-Lab/TALES-Trajectories) holds recorded per-step agent transcripts in a dataset viewer. Turn-based: the game waits for each action, and nothing on the site shows a live model. Human-playable: yes (Zork I only). |
 | Play mode | paused-live, turn-based |

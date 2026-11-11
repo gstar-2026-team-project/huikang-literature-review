@@ -8,7 +8,7 @@ Robotouille is a cooking benchmark where "asynchronous" means in-game cooking de
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Feb 2025 |
 | Links | [arXiv 2502.05227](https://arxiv.org/abs/2502.05227) |
 | Demo | [project page](https://portal-cornell.github.io/robotouille/): three short looping recorded videos of the pygame kitchen (a montage of many procedurally generated kitchens, one synchronous and one asynchronous episode) plus dependency-graph figures. Recordings only; no replay viewer, live model or human-playable page. |
 | Play mode | paused-live |

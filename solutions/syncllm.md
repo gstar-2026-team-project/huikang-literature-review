@@ -8,7 +8,7 @@ SyncLLM predicts the user's next speech chunk to hide latency.
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Sep 2024 |
 | Links | [arXiv 2409.15594](https://arxiv.org/abs/2409.15594) |
 | Demo | [project page](https://syncllm.cs.washington.edu/): static page that only plays pre-recorded media: a 63 s explainer video and 8 Fisher/Candor dialogue prompts with 60 s continuations from SyncLLM-F, dGSLM and SyncLLM-F-C (two SyncLLMs talking under a simulated 160 ms latency). No live model and no game; human-playable: no. |
 | Category | realtime architecture |

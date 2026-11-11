@@ -8,7 +8,7 @@ Dispider separates perception, decision and asynchronous reaction modules for st
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Jan 2025 |
 | Links | [arXiv 2501.03218](https://arxiv.org/abs/2501.03218) |
 | Demo | None found (searched: arXiv abstract and comments, GitHub repo Mark12Ding/Dispider README, homepage field and file tree (only img/logo.png and img/pipeline.png), CVPR 2025 poster page (its "Project Page" link points to the GitHub repo), Hugging Face model card Mar2Ding/Dispider and Spaces search, web search for "Dispider demo"/project page/video) |
 | Category | realtime architecture |

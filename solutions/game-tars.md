@@ -8,7 +8,7 @@ Game-TARS is a VLM game agent with sparse thinking, evaluated paused on Minecraf
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Oct 2025 |
 | Links | [arXiv 2510.23691](https://arxiv.org/abs/2510.23691) |
 | Demo | [Game-TARS page](https://seed-tars.com/game-tars): project page with pre-recorded montage videos of agent rollouts in Minecraft and unseen web/Windows games, with per-step Thought/Action text. The videos do not show whether the game kept running or was paused during inference. Human-playable: no. Live model: no. |
 | Category | RL and decision model / post-training |

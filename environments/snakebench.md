@@ -8,7 +8,7 @@ SnakeBench is a model-versus-model Snake arena where "The simulation proceeds ro
 
 | | |
 |---|---|
-| Year | 2024-26 |
+| Year | Feb 2025 |
 | Links | [repo](https://github.com/gkamradt/SnakeBench) |
 | Demo | [snakebench.com](https://snakebench.com/) ([top match replay](https://snakebench.com/match/10f42d75-5678-4626-9678-12bfd8f98fb6)) (+ [ARC Prize blog](https://arcprize.org/blog/snakebench)): leaderboard and replay viewer for recorded LLM-vs-LLM snake matches. You step round by round (Round N/100) and see each model's move and rationale. The game is turn-based and waits for both models' moves each round, with no clock. A [Live Games page](https://snakebench.com/live-games) polls for matches in progress but showed none when visited. Human-playable: no. |
 | Play mode | paused-live, turn-based |

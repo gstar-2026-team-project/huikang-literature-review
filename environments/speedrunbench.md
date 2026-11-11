@@ -8,7 +8,7 @@ SpeedrunBench "scores LLM agents on the number of frames needed to reach a goal 
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Oct 2026 |
 | Authors / org | Fujinuma, Kamahori, Koike and others (Patronus AI, UW, Institute of Science Tokyo) |
 | Links | [arXiv 2610.08076](https://arxiv.org/abs/2610.08076), [site](https://speedrunbench.com), [repo](https://github.com/patronus-ai/speedrun_bench); patched games [supertux-speedrun](https://github.com/patronus-ai/supertux-speedrun) and [tuxemon-speedrun](https://github.com/patronus-ai/tuxemon-speedrun); gated dataset on [Hugging Face](https://huggingface.co/datasets/PatronusAI/speedrunbench) |
 | Demo | [play page](https://speedrunbench.com/play): a human plays SuperTux live in the browser against a pre-recorded agent run (MP4) with a fixed target time; [leaderboard](https://speedrunbench.com/leaderboard) ranks models by best completion time. The agent side is a replay, not a model running live. Human-playable: yes. |

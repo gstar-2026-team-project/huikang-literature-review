@@ -8,7 +8,7 @@ SwiftSage pairs a small cloned fast model with a GPT-4 planner and a heuristic s
 
 | | |
 |---|---|
-| Year | 2023 |
+| Year | May 2023 |
 | Links | [arXiv 2305.17390](https://arxiv.org/abs/2305.17390) |
 | Demo | [project page](https://swiftsage.github.io): static paper page with figures only. It has no video, trajectory viewer or live run. The V2 [HF Space](https://huggingface.co/spaces/swiftsage-ai/SwiftSage) is a text-reasoning Q&A demo, not a game, and currently shows a runtime error. Human-playable: no. |
 | Category | scaffold |

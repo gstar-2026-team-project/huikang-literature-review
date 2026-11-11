@@ -8,7 +8,7 @@ Collab-Overcooked is a step-based two-LLM Overcooked benchmark with atomic actio
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Feb 2025 |
 | Links | [arXiv 2502.20073](https://arxiv.org/abs/2502.20073) |
 | Demo | [EMNLP 2025 poster talk on Underline](https://underline.io/lecture/130001-collab-overcooked-benchmarking-and-evaluating-large-language-models-as-collaborative-agents): official 7-minute narrated slide video with static benchmark diagrams; no gameplay footage, replay viewer or hosted playable page. The [repo](https://github.com/YusaeMeow/Collab-Overcooked) has a local-only browser mode for a human to play with an agent teammate. |
 | Play mode | paused-live |

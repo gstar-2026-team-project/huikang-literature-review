@@ -8,7 +8,7 @@ Game-Time is a speech benchmark of timing tasks (wait N seconds before answering
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Sep 2025 |
 | Links | [arXiv 2509.26388](https://arxiv.org/abs/2509.26388) |
 | Demo | [project page](https://ga642381.github.io/Game-Time): interactive waveform player of recorded two-channel (user top / model bottom) .wav samples. You choose task (Basic/Advanced, e.g. G-Simul.-Cue Rock-Paper-Scissors) and model (Moshi, Unmute, GPT-Realtime, SSML-LLM oracle); the oracle speaks over 'Shoot!' while Moshi speaks early. Human-playable: no. |
 | Play mode | realtime-live (speech) |

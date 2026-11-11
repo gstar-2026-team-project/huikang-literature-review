@@ -8,6 +8,7 @@ StreamingVLM is a streaming video LLM.
 
 | | |
 |---|---|
+| Year | Oct 2025 |
 | Category | realtime architecture (streaming video LLM) |
 | Demo | [Demo page](https://streamingvlm.hanlab.ai) (Cloudflare 502 in Nov 2026) and a [README demo video](https://github.com/mit-han-lab/streaming-vlm): a 2 min 26 s recording of the model writing live sports commentary captions over basketball and American football footage. Recorded output on video, not game play; not human-playable. |
 

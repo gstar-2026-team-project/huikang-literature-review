@@ -8,7 +8,7 @@ Orak fine-tuning is SFT of small Llama models on LLM trajectories across Orak's 
 
 | | |
 |---|---|
-| Year | 2025-26 |
+| Year | Jun 2025 |
 | Links | [arXiv 2506.03610](https://arxiv.org/abs/2506.03610) |
 | Demo | No demo specific to the fine-tuned models; the Orak [leaderboard](https://krafton-ai.github.io/orak-leaderboard/) Battle Arena tab lists Elo for SF3 and SC2 (Minitron-8B top in SF3 at 1680), and its two recorded GIFs show Claude (not the fine-tuned models) playing through MCP with the game paused between steps. Also a [YouTube promo](https://www.youtube.com/watch?v=2_tUJRrTYR0). Human-playable: no. |
 | Category | post-training |

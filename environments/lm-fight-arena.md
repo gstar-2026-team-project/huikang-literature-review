@@ -8,7 +8,7 @@ LM Fight Arena has two models fight in an emulator that streams raw frames, fram
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Oct 2025 |
 | Links | [arXiv 2510.08928](https://arxiv.org/abs/2510.08928) |
 | Demo | None found (searched: arXiv abstract page v1/v2 (no comments field, no project/code links), external links in the arXiv v2 HTML (none), GitHub repo search for "LM Fight Arena" and "mortal kombat LMM benchmark" (no results), web search for "LM Fight Arena" demo / GitHub / video / project page (only the paper and paper-summary sites)) |
 | Play mode | realtime-live (paper's description; no code) |

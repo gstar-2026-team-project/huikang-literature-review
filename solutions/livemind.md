@@ -8,7 +8,7 @@ LiveMind infers on a partial prompt while input streams.
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Jun 2024 |
 | Links | [arXiv 2406.14319](https://arxiv.org/abs/2406.14319) |
 | Demo | [README demo video](https://github.com/ChuangtaoChen-TUM/LiveMind) (official 1:50 Gradio screen recording) — conventional CoT and LiveMind side by side on a math word problem typed in as streaming input. It is a recording of streaming text input, not a game against a clock. The repo's Gradio playground runs locally only; there is no hosted version. |
 | Category | scaffold |

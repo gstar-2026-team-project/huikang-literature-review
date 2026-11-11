@@ -8,7 +8,7 @@ VPT is a Minecraft model on the 20 Hz native interface with a synchronous simula
 
 | | |
 |---|---|
-| Year | 2022-25 |
+| Year | Jun 2022 |
 | Links | [arXiv 2206.11795](https://arxiv.org/abs/2206.11795) |
 | Demo | [OpenAI VPT blog](https://openai.com/index/vpt/): the official project page, with embedded Vimeo clips of the agent playing Minecraft (crafting table, swimming, hunting, pillar jumping, crafting a diamond pickaxe). These are recordings of offline rollouts, with no live model and no replay viewer. Not human-playable. The page could not be rendered in the headless browser (Cloudflare challenge), so the clips were not watched. |
 | Category | RL and decision model |

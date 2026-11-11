@@ -8,6 +8,7 @@ GameBench is a set of board games such as Santorini where "two players take turn
 
 | | |
 |---|---|
+| Year | Jun 2024 |
 | Links | [arXiv 2406.06613](https://arxiv.org/abs/2406.06613) |
 | Demo | None found (searched: arXiv abstract page (no comments or links), [GitHub repo Joshuaclymer/GameBench](https://github.com/Joshuaclymer/GameBench) README and homepage field, the [project page](https://gamebench-website.vercel.app/) (only the abstract and one static results chart, no videos or replays), and web searches for a GameBench demo, video or Hugging Face Space). |
 | Play mode | paused-live (turn- or step-based) |

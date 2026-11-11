@@ -8,7 +8,7 @@ TimeSpeak and CueSpeak are Thinking Machines timing benchmarks for interaction m
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | May 2026 |
 | Links | [blog](https://thinkingmachines.ai/blog/interaction-models/) |
 | Demo | [blog](https://thinkingmachines.ai/blog/interaction-models/) and [YouTube](https://www.youtube.com/@thinkymachines): 10 pre-recorded company demo videos of live full-duplex voice/video conversation (interjections, live translation, time awareness, rep counting, tool calls), an animated 200 ms micro-turn diagram, and a page widget comparing recorded audio from TML vs GPT-realtime/Gemini. No games, no try-it access; human-playable: no. |
 | Play mode | realtime-live (speech) |

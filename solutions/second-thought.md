@@ -8,7 +8,7 @@ Second Thought forks reasoning branches during the act/observe wait.
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Aug 2026 |
 | Links | [arXiv 2608.13667](https://arxiv.org/abs/2608.13667) |
 | Demo | None found (searched: arXiv abstract page and PDF, the paper's anonymous code repo [anonymous.4open.science/r/2nd-thought](https://anonymous.4open.science/r/2nd-thought), which has a plain README with no media, web search for "Second Thought" demo, GitHub repo search). |
 | Category | scaffold |

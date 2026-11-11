@@ -8,7 +8,7 @@ Mineflayer is a Minecraft bot API whose bot physics run on a 50 ms wall-clock in
 
 | | |
 |---|---|
-| Year | 2015- |
+| Year | Jan 2011 |
 | Links | [repo](https://github.com/PrismarineJS/mineflayer) |
 | Demo | [prismarine-viewer](https://prismarinejs.github.io/prismarine-viewer/): static WebGL world snapshots per Minecraft version, with a draggable camera. No bot activity shown. Human-playable: no. |
 | Play mode | realtime-live at env level; LLM agents on it mostly scripted |

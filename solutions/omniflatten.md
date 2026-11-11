@@ -8,7 +8,7 @@ OmniFlatten is staged post-training of a small GPT over flattened speech and tex
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Oct 2024 |
 | Links | [arXiv 2410.17799](https://arxiv.org/abs/2410.17799) |
 | Demo | [project page](https://omniflatten.github.io/): static page with 5 recorded user-assistant voice-chat cases (40-116 s mp3s) with transcripts. No live model, no game and no Hugging Face Space; human-playable: no. |
 | Category | realtime architecture |

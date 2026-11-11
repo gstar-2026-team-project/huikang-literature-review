@@ -8,7 +8,7 @@ Talker-Reasoner pairs a fast talker with a slow reasoner sharing memory.
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Oct 2024 |
 | Links | [arXiv 2410.08328](https://arxiv.org/abs/2410.08328) |
 | Demo | None found (searched: arXiv abstract page and comments, NeurIPS 2024 OWA workshop poster page, OpenReview, web search for "Talker-Reasoner" demo, video and GitHub; no official code, project page or video) |
 | Category | scaffold |

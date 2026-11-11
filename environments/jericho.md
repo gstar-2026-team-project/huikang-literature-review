@@ -8,7 +8,7 @@ Jericho is a turn-based interactive-fiction environment stepped by `step(action)
 
 | | |
 |---|---|
-| Year | 2018-20 |
+| Year | Oct 2018 |
 | Demo | None found (searched: GitHub repo microsoft/jericho README and homepage field (empty), docs at jericho-py.readthedocs.io, arXiv 1909.05398 abstract page, web search for "Jericho interactive fiction demo video"). |
 | Play mode | paused-live, turn-based |
 | Clock | none |

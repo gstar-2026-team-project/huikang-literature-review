@@ -8,7 +8,7 @@ Real-Time EXPO-FT trains a small edit policy on top of a VLA with online RL on r
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Sep 2026 |
 | Links | [arXiv 2609.18207](https://arxiv.org/abs/2609.18207) |
 | Demo | [Real-Time EXPO-FT site](https://pd-perry.github.io/real-time-expo-ft/): project page with recorded real-robot rollout videos at 1x, with the physical world moving during inference, comparing the method against baselines with and without RTC. Robotics videos, not games; no Kinetix demo; human-playable: no. |
 | Category | post-training |

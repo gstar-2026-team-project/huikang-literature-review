@@ -8,6 +8,7 @@ D2E provides an open recorder with synchronised screen and input timestamps.
 
 | | |
 |---|---|
+| Year | Oct 2025 |
 | Links | [arXiv 2510.05684](https://arxiv.org/abs/2510.05684) |
 | Demo | [project page](https://worv-ai.github.io/d2e/): pre-recorded mp4s of human game footage (YouTube and OWA recordings across 8+ games, plus Battlefield 6 and Ogu as out-of-distribution games) with the Generalist-IDM's inferred keyboard/mouse actions overlaid. This is offline action labeling, not an agent playing. Robot rollout videos (LIBERO, CANVAS, SO-101) are also on the page. Human-playable: no; no live or interactive demo. |
 | Category | RL and decision model (game foundation and action models) |

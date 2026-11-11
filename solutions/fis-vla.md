@@ -8,6 +8,7 @@ FiS-VLA is a robotics dual system running at 117.7 Hz.
 
 | | |
 |---|---|
+| Year | Jun 2025 |
 | Links | [arXiv 2506.01953](https://arxiv.org/abs/2506.01953) |
 | Demo | [FiS-VLA site](https://fast-in-slow.github.io): project page with recorded real-robot rollout videos captioned 'Auto Execution Speed 8x'. Robotics videos, not games; no live or interactive demo; human-playable: no. |
 | Category | scaffold (robotics dual system) |

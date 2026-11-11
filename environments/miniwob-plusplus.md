@@ -8,7 +8,7 @@ MiniWoB++ is a suite of more than 100 short web tasks whose episode timer is wal
 
 | | |
 |---|---|
-| Year | 2017-18 |
+| Year | Feb 2018 |
 | Authors / org | World of Bits (Shi et al., 2017); MiniWoB++ (Liu et al., 2018); Farama |
 | Links | [docs](https://miniwob.farama.org/content/reward/), [source](https://github.com/Farama-Foundation/miniwob-plusplus) |
 | Demo | [docs](https://miniwob.farama.org/) / [task demos](https://miniwob.farama.org/demos/miniwob/click-button.html): every task can be played in the browser by a human, with a real-time countdown (10 s for most tasks, 15 s for simon-says). A correct click at about 2.5 s scored 0.74 (raw 1) and an idle timeout scored -1. No model is shown playing and there is no replay viewer (the Turk demonstrations are JSON files in a separate repo). Human-playable: yes. |

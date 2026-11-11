@@ -8,6 +8,7 @@ Flash-VStream is a streaming video LLM.
 
 | | |
 |---|---|
+| Year | Jun 2024 |
 | Category | realtime architecture (streaming video LLM) |
 | Demo | [2024 project page](https://invinciblewyq.github.io/vstream-page) with a 2:01 recorded demo video (demo_0706_reencode.mp4): the model answers questions at set times during an egocentric cooking video, with "Question Time" and "Answer Latency" overlays (for example 1.2 s). It is a recording, not a game and not live; the linked Hugging Face Space (IVGSZ/Flash-VStream-demo) returns 404. The [ICCV 2025 project page](https://zhang9302002.github.io/vstream-iccv-page/) has only static figures. |
 

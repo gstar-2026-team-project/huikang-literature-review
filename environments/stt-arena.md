@@ -8,7 +8,7 @@ STT-Arena is a computer-use benchmark whose triggers fire on state and spatio-te
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | May 2026 |
 | Links | [arXiv 2605.18548](https://arxiv.org/abs/2605.18548) |
 | Demo | None found (searched: arXiv abstract page (comment "Work in progress") and HTML paper links, GitHub [Miaow-Lab/STT-Arena](https://github.com/Miaow-Lab/STT-Arena) README (no homepage, only static figures) and repo page, Hugging Face dataset [Miaow-Lab/STT-Arena](https://huggingface.co/datasets/Miaow-Lab/STT-Arena) and Spaces search, web search for "STT-Arena" demo) |
 | Play mode | paused-live (state-triggered) |

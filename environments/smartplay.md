@@ -8,7 +8,7 @@ SmartPlay is a text game benchmark stepped once per model query.
 
 | | |
 |---|---|
-| Year | 2023 |
+| Year | Oct 2023 |
 | Links | [arXiv 2310.01557](https://arxiv.org/abs/2310.01557) |
 | Demo | None found (searched: GitHub microsoft/SmartPlay README and homepage field (empty; README has only static teaser and figure images), arXiv abstract page, Hugging Face paper page and Spaces search, web search for "SmartPlay demo" / project page / video). |
 | Play mode | paused-live |

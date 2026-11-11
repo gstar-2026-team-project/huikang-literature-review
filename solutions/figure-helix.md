@@ -8,6 +8,7 @@ Figure Helix is a robotics dual system with a 7-9 Hz VLM and a 200 Hz policy lin
 
 | | |
 |---|---|
+| Year | Feb 2025 |
 | Category | scaffold (robotics dual system) |
 | Results | real-robot demonstrations, no quantitative evaluation |
 | Demo | [Figure announcement page](https://www.figure.ai/news/helix): official page with a 2 min 54 s main video and six captioned clips of Figure 02 robots running Helix (two-robot grocery storage, fridge put-away, language-commanded picking). Edited recordings of real-robot runs; nothing live, no viewer, not playable. |

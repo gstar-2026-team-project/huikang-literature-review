@@ -8,7 +8,7 @@ Cradle is a general computer-control agent framework that states it must pause g
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Mar 2024 |
 | Authors / org | Tan et al., BAAI and others |
 | Links | [arXiv 2403.03186](https://arxiv.org/abs/2403.03186) |
 | Demo | [Project page](https://baai-agents.github.io/Cradle/): official recorded videos of Cradle playing RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2 (plus five software apps), all titled "at 16x speed". Recordings only; no live run, replay viewer or human-playable page. |

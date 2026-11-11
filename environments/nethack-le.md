@@ -8,7 +8,7 @@ The NetHack Learning Environment is a turn-based roguelike with a step loop.
 
 | | |
 |---|---|
-| Year | 2018-20 |
+| Year | Jun 2020 |
 | Links | [NLE](https://github.com/heiner/nle) |
 | Demo | [README example GIF](https://github.com/NetHack-LE/nle/raw/main/dat/nle/example_run.gif): official recording, captioned "Example of an agent running on NLE", of an agent exploring the NetHack terminal map, with the in-game turn counter advancing. Not human-playable in the browser, no replay viewer, and no LLM shown. |
 | Play mode | paused-live, turn-based |

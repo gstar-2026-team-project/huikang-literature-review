@@ -8,7 +8,7 @@ AgileThinker is a two-thread scaffold in which a planning thread streams reasoni
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Nov 2025 |
 | Authors / org | Wen, Ye, Zhang, Yang, Zhu |
 | Links | [arXiv 2511.04898](https://arxiv.org/abs/2511.04898), code in [RealtimeGym](https://github.com/SALT-NLP/RealtimeGym) (MIT) |
 | Demo | The [RealtimeGym interactive demo](https://realtimegym.saltlab.stanford.edu/) replays recorded AgileThinker trajectories side by side with the Reactive and Planning agents, with per-step reasoning traces. Not human-playable. |

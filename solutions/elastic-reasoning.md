@@ -8,7 +8,7 @@ Elastic Reasoning trains a reasoning LLM with GRPO on budget-constrained rollout
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Links | [arXiv 2505.05315](https://arxiv.org/abs/2505.05315) |
 | Demo | [Hugging Face Space "Efficient-Reasoning"](https://huggingface.co/spaces/Salesforce/Efficient-Reasoning) (linked as "Blog" from the repo README): a static Gradio explainer page with the paper's framework diagram and AIME / LiveCodeBench result figures. No live model, no game, not interactive. |
 | Category | post-training |

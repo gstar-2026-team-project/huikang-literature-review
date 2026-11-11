@@ -8,6 +8,7 @@ OmniMMI / M4 is a streaming video LLM entry (the OmniMMI benchmark and its M4 mo
 
 | | |
 |---|---|
+| Year | Mar 2025 |
 | Category | realtime architecture (streaming video LLM) |
 | Demo | [M4 page](https://omnimmi.github.io/m4.html): two recorded screen captures of M4 running locally on a streaming video ("Proactive Generation Demo" with a mixer alert, "Proactive Turn-taking Demo" with an interrupting query); [project page](https://omnimmi.github.io) has benchmark example clips and a leaderboard. Recordings only; nothing live or human-playable. |
 

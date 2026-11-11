@@ -8,6 +8,7 @@ In Hi Robot the high-level VLM re-runs every second or immediately on a user int
 
 | | |
 |---|---|
+| Year | Feb 2025 |
 | Links | [arXiv 2502.19417](https://arxiv.org/abs/2502.19417) |
 | Demo | [Hi Robot page](https://www.pi.website/research/hirobot): recorded videos of real robots acting autonomously ('autonomous, 1x speed') with subtitle overlays of a human interjecting mid-task and the robot's verbal replies. No latency readout, no interactive or live demo; human-playable: no. |
 | Category | scaffold (robotics dual system) |

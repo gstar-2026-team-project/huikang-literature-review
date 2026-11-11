@@ -8,7 +8,7 @@ MineDojo is a Minecraft environment with 20 Hz synchronous stepping.
 
 | | |
 |---|---|
-| Year | 2016-22 |
+| Year | Jun 2022 |
 | Play mode | paused-live (MineRL, MineDojo, MCU/MineStudio) + realtime-live (native Malmo) |
 | Clock | STEP at 20 Hz |
 | Observation | pixels (+ some state) |

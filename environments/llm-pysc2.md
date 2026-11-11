@@ -8,7 +8,7 @@ LLM-PySC2 gives LLMs the full pysc2 action space, with each step waiting up to a
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Nov 2024 |
 | Links | [arXiv 2411.05348](https://arxiv.org/abs/2411.05348) |
 | Demo | [GitHub README GIFs](https://github.com/NKAI-Decision-Team/LLM-PySC2): eight short GIFs (9-21 s each) of LLM-controlled Protoss units in SMAC and llm_pysc2 battles, captured from the StarCraft II replay viewer (timeline "0:08 / 0:38"). They are recordings of replays, not a live model on a clock, and nothing is human-playable. |
 | Play mode | paused-live |

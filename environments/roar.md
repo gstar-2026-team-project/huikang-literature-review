@@ -8,7 +8,7 @@ ROAR is a Unity arena shooter run as a "Multi-Agent Asynchronous Gym" in which t
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Oct 2026 |
 | Authors / org | Wang, Zhao, Yu, Zhou, Ma, Liu, Zhang, Chu, Koh, Ushaw, Davison (Newcastle University, University of Auckland, CTW Inc.) |
 | Links | [arXiv 2610.24282](https://arxiv.org/abs/2610.24282), code [tb6147877/ROAR](https://github.com/tb6147877/ROAR) (MIT, prebuilt Unity executables) |
 | Demo | [GitHub README](https://github.com/tb6147877/ROAR): recorded GIFs of Gemini-3.1 Pro and GPT-5.4 playing, shown turn-based vs real-time (40 ms tick). In the real-time clip the in-game countdown keeps running while the models think (04:59 to 01:55 over 153 s), and the agents get hit by the turret or die in the toxic zone. In the turn-based clips the game waits. Downloadable Unity builds (Linux/Windows) run locally; human-playable: yes (local executable only, not in the browser). |

@@ -8,7 +8,7 @@ Async I/O + Speculative Tool Calling is an event-driven loop decoupled from stre
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | May 2026 |
 | Authors / org | Hooper et al., Berkeley |
 | Links | [arXiv 2605.13360](https://arxiv.org/abs/2605.13360) |
 | Demo | None found (searched: arXiv abstract page and comments ("17 pages"), external links in the arXiv HTML v2, GitHub repo search for "speculative interaction agents" and "async-sft", web search for the paper title (v1 and v2) with demo/video/GitHub) |

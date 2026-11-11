@@ -8,7 +8,7 @@ PersonaPlex is NVIDIA's follow-up to Moshi with role and voice conditioning.
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Feb 2026 |
 | Authors / org | NVIDIA |
 | Links | [arXiv 2602.06053](https://arxiv.org/abs/2602.06053) |
 | Demo | [project page](https://research.nvidia.com/labs/adlr/personaplex/) (linked as "Demo" from the GitHub README): a 43 s intro video of a recorded live voice chat and five recorded stereo conversation clips (assistant, banking, medical reception, backchanneling, space emergency). These are recordings, not a hosted live demo; the repo's Web UI for live talk has to be self-hosted on a GPU with gated weights. |

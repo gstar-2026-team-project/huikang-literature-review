@@ -8,7 +8,7 @@ SIMA is a game agent for commercial 3D games whose environments "do not stop and
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Apr 2024 |
 | Links | [arXiv 2404.10179](https://arxiv.org/abs/2404.10179) |
 | Demo | [SIMA blog](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/): edited recorded gameplay clips from 9 partner games and research environments, with no latency or tick readout. No live model, replay viewer or playable demo; human-playable: no. |
 | Category | RL and decision model |

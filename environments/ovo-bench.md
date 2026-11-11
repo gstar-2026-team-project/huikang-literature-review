@@ -8,7 +8,7 @@ OVO-Bench is an offline-replay streaming video benchmark with query timestamps.
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Jan 2025 |
 | Links | [arXiv 2501.05510](https://arxiv.org/abs/2501.05510) |
 | Demo | None found (searched: arXiv abstract page and comments, GitHub repo JoeLeelyf/OVO-Bench and its homepage field, the project page https://joeleelyf.github.io/OVO-Bench/, which has only static figures: no videos, GIFs, replay viewer or live demo) |
 | Play mode | offline replay |

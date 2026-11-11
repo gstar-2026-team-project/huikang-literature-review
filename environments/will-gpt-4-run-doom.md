@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Mar 2024 |
 | Links | [arXiv 2403.05468](https://arxiv.org/abs/2403.05468) |
 | Demo | None found (searched: the paper's video page [adewynter.github.io/Doom](https://adewynter.github.io/Doom) returns a GitHub Pages 404; the author's homepage and the github.com/adewynter/Doom repo exist but no working video page was found). Human-playable: no. |
 | Play mode | paused-live |

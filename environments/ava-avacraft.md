@@ -8,7 +8,7 @@ AVA is SMAC-like StarCraft II micro at "2 Hz" for VLMs, paused-live from code.
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Mar 2025 |
 | Links | [arXiv 2503.05383](https://arxiv.org/abs/2503.05383) |
 | Demo | None found (searched: arXiv abstract and v7 HTML, GitHub repo camel-ai/VLM-Play-StarCraft2 README, homepage field and file tree, web search for AVA/AVACraft demo, YouTube and Bilibili videos). The paper says video demos are in its supplementary material, but none is posted publicly. |
 | Play mode | paused-live |

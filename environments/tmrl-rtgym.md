@@ -8,7 +8,7 @@ tmrl runs TrackMania at 20 Hz with an elastic wall-clock time step, and `rtgym` 
 
 | | |
 |---|---|
-| Year | 2021 |
+| Year | Dec 2021 |
 | Links | [tmrl](https://github.com/trackmania-rl/tmrl), [rtgym](https://github.com/yannbouteiller/rtgym) |
 | Demo | [video](https://www.youtube.com/watch?v=c1xq7iJ3f9E): French Underscore_ show, 2022. A tmrl SAC policy drives TrackMania live through a virtual gamepad (caption 'VUE DE L'IA', race timer running). The rtgym 'Time-step timed out' warning on screen shows the real-time clock does not wait. Pros race it afterward. Not an LLM. Human-playable: no. |
 | Play mode | realtime-live |

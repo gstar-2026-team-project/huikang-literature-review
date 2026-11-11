@@ -8,7 +8,7 @@ TimeArena is a text environment with simulated action durations that tests multi
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Feb 2024 |
 | Links | [arXiv 2402.05733](https://arxiv.org/abs/2402.05733) |
 | Demo | [project page](https://time-arena.github.io/) with two "Demo videos" ("Parallel Processing", "Serial Processing"): animated pixel-art recordings of one tea-room episode with a simulated clock (T=...min), action, feedback and score overlays. Recordings on a simulated clock, not a model playing live; not human-playable. |
 | Play mode | paused-live |

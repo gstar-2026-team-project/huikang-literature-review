@@ -8,7 +8,7 @@ The Real-Time Chunking benchmark is "a new benchmark of 12 highly dynamic tasks 
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Jun 2025 |
 | Links | [arXiv 2506.07339](https://arxiv.org/abs/2506.07339) |
 | Demo | [RTC page](https://www.pi.website/research/real_time_chunking): recorded real-robot videos with latency labels ('~200ms/~300ms latency'), an animated diagram of the robot executing one action chunk while the next is computed, a latency table (139 ms mobile, 108 ms static) and throughput charts at +0/+100/+200 ms injected delay. No Kinetix demo, no interactive or live demo; human-playable: no. |
 | Play mode | realtime-live (simulated delay) + realtime-live (real robot) |

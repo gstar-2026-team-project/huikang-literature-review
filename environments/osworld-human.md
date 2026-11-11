@@ -8,7 +8,7 @@ OSWorld-Human is "The First CUA Latency Study", measuring planning and reflectio
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Jun 2025 |
 | Links | [arXiv 2506.16042](https://arxiv.org/abs/2506.16042) |
 | Demo | [Blog post / project page](https://mlsys.wuklab.io/posts/oshuman) with an animated GIF schematic of Agent S2's per-step pipeline and interactive latency and step-count charts. It does not record an agent using a real desktop, and there is no replay viewer or playable page. The [repo](https://github.com/WukLab/osworld-human) has a static leaderboard. |
 | Play mode | paused-live |

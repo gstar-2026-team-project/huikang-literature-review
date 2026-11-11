@@ -8,7 +8,7 @@ ARC-AGI-3 is a set of turn-based grid games scored on action count against human
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jul 2025 |
 | Links | [docs](https://docs.arcprize.org/methodology) |
 | Demo | [play](https://arcprize.org/tasks/ls20) / [project page](https://arcprize.org/arc-agi/3/) / [sample replay](https://arcprize.org/replay/34a9614e-9b77-4f82-bda4-ff1320f2e15b) / [leaderboard](https://arcprize.org/leaderboard): 25 browser-playable turn-based grid games. The server advances one frame per action and has no clock; the bar on screen counts actions, not time. Each game page has a per-model table linking to recorded replays (NDJSON) with each step's reasoning, tokens, cost and thinking time (e.g. 48 s to 3 min per step, while the game waits). Human-playable: yes. |
 | Play mode | paused-live, turn-based |

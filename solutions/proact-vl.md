@@ -8,6 +8,7 @@ Proact-VL is a streaming video LLM that comments on gameplay but does not play.
 
 | | |
 |---|---|
+| Year | Mar 2026 |
 | Links | [arXiv 2603.03447](https://arxiv.org/abs/2603.03447) |
 | Demo | [project page](https://proact-vl.github.io) with three embedded YouTube demo videos (solo commentary on a League of Legends broadcast, multi-speaker commentary on a Counter-Strike 2 broadcast, Minecraft guidance) plus a [6.7 min overview video](https://youtu.be/IGD-2CO6-aQ): screen recordings of the model's subtitled commentary over prerecorded gameplay. The model never plays; no live demo, replay viewer or playable page. |
 | Category | realtime architecture (streaming video LLM) |

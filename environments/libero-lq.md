@@ -8,7 +8,7 @@ LIBERO-LQ "decouples policy inference from environment stepping, enabling simula
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jan 2026 |
 | Links | [page](https://vla2026.github.io/libero-lq) |
 | Demo | None found (searched: the project page https://vla2026.github.io/libero-lq, which has only four static figures and no videos, no repo or arXiv link, and no rollout viewer; web search for "LIBERO-LQ demo video") |
 | Play mode | realtime-live (simulated) |

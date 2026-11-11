@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Oct 2025 |
 | Authors / org | Wu et al., Berkeley |
 | Links | [arXiv 2510.11713](https://arxiv.org/abs/2510.11713), [code](https://github.com/dynamic-lm/interrupt-lrm) (Apache-2.0) |
 | Demo | [project page](https://dynamic-lm.github.io/): static paper site with result plots, an animated results figure, and viewers that show saved reasoning traces with and without interruption (interruptions inserted offline at fixed fractions of a precomputed trace, no live model); [dataset](https://huggingface.co/datasets/dynamic-lm/update-interrupt-benchmark) and [code](https://github.com/dynamic-lm/interrupt-lrm). It has no game environment. Human-playable: no. |

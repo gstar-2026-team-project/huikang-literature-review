@@ -8,7 +8,7 @@ Latent Bridge links a frozen fast VLM at 15 Hz and a frozen slow VLM at 1 Hz wit
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jun 2026 |
 | Authors / org | Li, Shi |
 | Links | [arXiv 2606.24470](https://arxiv.org/abs/2606.24470), [code](https://github.com/19PINE-AI/latent-bridge-games) |
 | Demo | [site](https://01.me/research/latent-bridge-games/): pre-rendered side-by-side MP4 replays (F/T/L) for 7 Atari games plus MetaDrive, with burned-in tick/action/score and slow-model guidance overlays, a 3:46 narrated video and interactive result charts; the recorded runs come from a lockstep loop in which the emulator waits for the fast model and blocks on the slow model every 15 ticks (code: [GitHub](https://github.com/19PINE-AI/latent-bridge-games)); human-playable: no. |

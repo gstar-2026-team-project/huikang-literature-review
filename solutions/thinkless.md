@@ -8,7 +8,7 @@ Thinkless trains a reasoning LLM with RL to choose between thinking and not thin
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Links | [Thinkless](https://arxiv.org/abs/2505.13379) |
 | Demo | None found (searched: arXiv abstract page and comments, GitHub repo VainF/Thinkless README and homepage field, Hugging Face model cards and Spaces). |
 | Category | post-training |

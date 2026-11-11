@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jul 2026 |
 | Links | [arXiv 2607.15621](https://arxiv.org/abs/2607.15621) |
 | Demo | None found (searched: arXiv abstract page and comments, arXiv HTML paper links, Hugging Face paper page and linked Spaces/models, GitHub repo search, web search for project page, demo or video) |
 | Category | post-training / scaffold (robotics dual system) |

@@ -8,7 +8,7 @@ HAZARD is a fire, flood and wind rescue benchmark in ThreeDWorld at 30 FPS, run 
 
 | | |
 |---|---|
-| Year | 2024 / 2025 |
+| Year | Jan 2024 |
 | Authors / org | HAZARD: Zhou, Chen et al.; RRARA: Zheng, Mao, Zhang, Cai (University of Sydney) |
 | Links | [arXiv 2506.07223](https://arxiv.org/abs/2506.07223), HAZARD [arXiv 2401.12975](https://arxiv.org/abs/2401.12975) |
 | Demo | [project page](https://embodied-agi.cs.umass.edu/hazard/) (the listed [vis-www.cs.umass.edu/hazard/](https://vis-www.cs.umass.edu/hazard/) URL did not resolve; older [Google Site](https://sites.google.com/view/hazard-challenge)): pre-recorded videos of fire/flood/wind scenes evolving and top-down agent rescue runs, plus a 10-sample-per-scenario dataset preview selector that just swaps MP4s. No live model, no timing overlay, leaderboard closed; human-playable: no. |

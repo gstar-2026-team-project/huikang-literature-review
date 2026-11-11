@@ -8,7 +8,7 @@ ProactiveVideoQA is an offline-replay video benchmark whose PAUC metric scores r
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Jul 2025 |
 | Links | [arXiv 2507.09313](https://arxiv.org/abs/2507.09313) |
 | Demo | None found (searched: arXiv abstract page (no comments field), GitHub repo yellow-binary-tree/ProactiveVideoQA (no homepage field; README has only a static dataset overview image), Hugging Face dataset wangyueqian/ProactiveVideoQA and Spaces search, web search for "ProactiveVideoQA demo"). |
 | Play mode | offline replay, timing-scored |

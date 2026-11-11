@@ -8,7 +8,7 @@ V-MAGE is a set of five pygame-style games with 30+ levels, played from pixels w
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Apr 2025 |
 | Authors / org | Zheng et al. (CSU-JPG) |
 | Links | [arXiv 2504.06148](https://arxiv.org/abs/2504.06148), [repo](https://github.com/CSU-JPG/V-MAGE) (no licence stated) |
 | Demo | [project page](https://csu-jpg.github.io/V-MAGE/): recorded GIF clips of GPT-4o, Gemini 2.0 Flash and Qwen2.5-VL-72B playing SuperMario, Race and FlappyBird, plus an Elo leaderboard. [Playground](https://huggingface.co/spaces/Fengx1nn/V-MAGE-DEMO) and [Eval demo](https://huggingface.co/spaces/Fengx1nn/V-MAGE-EVAL-DEMO) HF Spaces are asleep (the project page's own Space links return 404). Their code shows play advances one step at a time: the game waits for each human or model action, then runs N frames. Human-playable: yes when awake (button-driven, not real-time). |

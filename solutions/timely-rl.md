@@ -8,7 +8,7 @@ Timely-RL trains an 8B LLM with a timer tool using SFT and GRPO, with zero rewar
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jan 2026 |
 | Authors / org | Ma et al. |
 | Links | [arXiv 2601.16486](https://arxiv.org/abs/2601.16486) |
 | Demo | None found (searched: arXiv abstract page and comments, paper HTML links, GitHub repo [Entarochuan/Timely-Machine](https://github.com/Entarochuan/Timely-Machine) README, assets and homepage field, ACL Anthology, web search for Timely Machine / TimelyLM demo, Hugging Face). |

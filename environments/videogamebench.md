@@ -8,7 +8,7 @@ VideoGameBench asks a model to complete 1990s Game Boy and MS-DOS games from raw
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Authors / org | A. Zhang, Griffiths, Narasimhan, Press (Princeton) |
 | Links | [arXiv 2505.18134](https://arxiv.org/abs/2505.18134), code [alexzhang13/videogamebench](https://github.com/alexzhang13/videogamebench) (MIT; you must own the games) |
 | Demo | [site](https://www.vgbench.com) / [blog](https://vgbench.com/blog.html): static leaderboard plus pre-recorded VG-Agent clips (Kirby, Civ I, Zelda, Incredible Machine, Pokemon Crystal, Super Mario Land and Warcraft II in real-time mode; Doom II in Lite/paused mode), with UI overlays showing step count and $ cost; [practice games](https://vgbench.com/practice-games.html): 3 human-playable turn-based diagnostics (click, maze, drag) with no game clock; human-playable: yes (practice games only), no live model. |

@@ -8,7 +8,7 @@ DreamerV3 and Dreamer 4 are world-model agents evaluated on simulator-stepped Mi
 
 | | |
 |---|---|
-| Year | 2023-25 |
+| Year | Jan 2023 |
 | Links | [arXiv 2509.24527](https://arxiv.org/abs/2509.24527) |
 | Demo | [project page](https://danijar.com/dreamer4/): prerecorded videos only. They show the agent mining diamonds in real Minecraft (plus 4 uncut YouTube runs), imagination-training rollouts with reward and value curves, and a human playing in the world model compared with Lucid and Oasis. Nothing on the page indicates real-time agent timing. Human-playable: no (a third-party reimplementation, [Open Dreamer](https://next-state.github.io/open-dreamer/), has a queued live world-model demo for humans). |
 | Category | RL and decision model |

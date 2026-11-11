@@ -8,7 +8,7 @@ MiniCPM-o 4.5 is a 9B model on a Qwen3-8B backbone that uses time-division multi
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Apr 2026 |
 | Authors / org | OpenBMB |
 | Links | [arXiv 2604.27393](https://arxiv.org/abs/2604.27393) |
 | Demo | [live demo](https://minicpmo45.modelbest.cn/omni) (camera + mic or uploaded file, full-duplex over a WebSocket to the running model, one listen/speak decision about every second) and [omni cases page](https://openbmb.github.io/minicpm-o-4_5-omni/) of recorded real-world videos (elevator/subway reminders, street walk, building blocks); also an official [YouTube video](https://www.youtube.com/watch?v=6UzC-O1Q-1U). Nothing shows the model playing a game. |

@@ -8,7 +8,7 @@ In CodeClash agents edit code between rounds and the code competes in arenas.
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Nov 2025 |
 | Links | [arXiv 2511.00839](https://arxiv.org/abs/2511.00839) |
 | Demo | [CodeClash Trajectory Viewer](https://viewer.codeclash.ai/): recorded tournament logs (1901 completed runs), with per-round winners, cost and the full agent edit-phase transcripts and diffs. Also: [project site](https://codeclash.ai/) with an Elo leaderboard and [arena pages](https://codeclash.ai/arenas/) showing recorded game animations (e.g. a RobotRumble turn stepper). All recordings; no live model play against a clock; not human-playable. |
 | Play mode | scripted |

@@ -8,7 +8,7 @@ Interleaved Reasoning trains an LLM with RL that rewards correct intermediate an
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | May 2025 |
 | Links | [arXiv 2505.19640](https://arxiv.org/abs/2505.19640) |
 | Demo | None found (searched: arXiv abstract page (no comments field or code links), Apple ML Research page (abstract only, no media), NeurIPS 2025 workshop poster page ("Project Page" links to OpenReview), web search for demo, GitHub repo, project page and video) |
 | Category | post-training |

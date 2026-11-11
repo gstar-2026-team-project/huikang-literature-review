@@ -8,7 +8,7 @@ SmolVLA's async mode refills the action queue asynchronously, decoupling action 
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Jun 2025 |
 | Links | [arXiv 2506.01844](https://arxiv.org/abs/2506.01844) |
 | Demo | [async inference blog](https://huggingface.co/blog/async-robot-inference) and [SmolVLA blog](https://huggingface.co/blog/smolvla): official recorded videos and GIFs of real SO-100/SO-101 arms comparing sequential and async inference with the same policy. Recordings of physical robots, not a live or playable demo. |
 | Category | RL and decision model |

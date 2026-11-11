@@ -8,7 +8,7 @@ VLASH conditions the policy on the predicted state at execution time.
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Dec 2025 |
 | Links | [arXiv 2512.01031](https://arxiv.org/abs/2512.01031) |
 | Demo | [Project page](https://hanlab.mit.edu/projects/vlash) with an embedded [YouTube demo video](https://www.youtube.com/watch?v=IgN7CNicJS8) (also in the [repo README](https://github.com/mit-han-lab/vlash)): a 4 min recording of real robot arms running the VLA autonomously at 1x speed, playing ping-pong and whack-a-mole, with a Sync / Naive Async / Ours comparison. Recording only; no live, replay or human-playable demo. |
 | Category | RL and decision model |

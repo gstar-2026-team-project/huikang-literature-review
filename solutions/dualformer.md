@@ -8,7 +8,7 @@ Dualformer trains a transformer on randomly dropped reasoning traces.
 
 | | |
 |---|---|
-| Year | 2024 |
+| Year | Oct 2024 |
 | Links | [Dualformer](https://arxiv.org/abs/2410.09918) |
 | Demo | None found (searched: arXiv abstract page, code repo [facebookresearch/dualformer](https://github.com/facebookresearch/dualformer) README and homepage field, ICLR 2025 virtual poster page, web search for demo, video and Hugging Face Space) |
 | Category | post-training |

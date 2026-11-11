@@ -8,7 +8,7 @@ RTSGameBench is a Beyond All Reason benchmark in which the game pauses between d
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jun 2026 |
 | Authors / org | Kim et al., SNU |
 | Links | [arXiv 2606.18950](https://arxiv.org/abs/2606.18950) |
 | Demo | [project page](https://dcahn12.github.io/projects/rtsbench/): pre-recorded overview video of Beyond All Reason matches, sped up 3x, with a 'Decision Phase' overlay of the VLM's build, produce, assign and move commands. The in-game console shows 'Battle Resumed', which fits a game that pauses for each decision. Also a static leaderboard of 11 VLMs. Human-playable: no. |

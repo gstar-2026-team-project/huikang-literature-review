@@ -8,7 +8,7 @@ GPTNT is Keep Talking and Nobody Explodes with two agents under a live countdown
 
 | | |
 |---|---|
-| Year | 2026 |
+| Year | Jun 2026 |
 | Links | [arXiv 2606.28514](https://arxiv.org/abs/2606.28514), code [repo](https://github.com/GPTNT/gptnt) |
 | Demo | [site](https://gptnt.github.io) ([docs](https://gptnt.github.io/docs)): replay viewer of recorded Claude Sonnet 4.6 self-play games. It plays the defuser-view video in sync with a step log of reasoning, actions and messages, with wall-clock stamps. The async run shows the bomb timer running down while the models think (detonated at about 4:32), and there is also a sync (clock-frozen) run. There is also a leaderboard with async vs sync columns. Human-playable: no (needs your own copy of KTANE). |
 | Play mode | realtime-live |

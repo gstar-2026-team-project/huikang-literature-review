@@ -8,7 +8,7 @@ Training-time RTC simulates the inference delay in training by giving the commit
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Dec 2025 |
 | Links | [arXiv 2512.05964](https://arxiv.org/abs/2512.05964) |
 | Demo | [π\*0.6 blog](https://www.pi.website/blog/pistar06) (official videos) and the update note on the [RTC research page](https://www.pi.website/research/real_time_chunking): recorded real-robot videos of the π\*0.6 espresso-making demo, which the RTC page says used training-time RTC. These are recordings of the robot running, not a live demo, replay viewer or anything a human can play. |
 | Category | post-training |

@@ -8,7 +8,7 @@ Orak is a 12-game benchmark that pauses the game during inference, with a StarCr
 
 | | |
 |---|---|
-| Year | 2025 |
+| Year | Jun 2025 |
 | Authors / org | Park et al. (Krafton and others) |
 | Links | [arXiv 2506.03610](https://arxiv.org/abs/2506.03610), [repo](https://github.com/krafton-ai/Orak) (MIT; six games need purchase) |
 | Demo | [leaderboard](https://krafton-ai.github.io/orak-leaderboard/) + [YouTube promo](https://www.youtube.com/watch?v=2_tUJRrTYR0): a static leaderboard of 12 games plus Elo arena tables for SF3 and SC2, with two short recorded GIFs of Claude Desktop playing Ace Attorney and Baba Is You through MCP tool calls; the Baba Is You game shows a PAUSE overlay between steps, so the game waits for the model. No replays or live runs; human-playable: no. |
