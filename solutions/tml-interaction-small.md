@@ -4,7 +4,7 @@ TML-Interaction-Small is a 276B-parameter MoE interaction model whose input and 
 
 ![Thinking Machines interaction models](../assets/gifs/tml-interaction-small.gif)
 
-*Recording from the authors' Time-awareness demo: three people talk to the interaction model on a phone on the table, while an on-screen timer counts from 00:00 to 00:05. Source: [Video: Thinking Machines Lab, "Time-awareness" demo for Interaction Models (May 2026), YouTube @thinkymachines](https://www.youtube.com/watch?v=sqJNfze19jA).*
+*Recording from the authors' "Introducing interaction models" video (1:54-2:02): while three people keep talking to the model over a webcam (left), it generates a "Human Reaction Times by Modality" bar chart live in a visualization sandbox (right), going from "Connecting visualization sandbox..." to the title to the finished chart in about 6 s; the on-screen caption reads "The model can produce visualization while keeping the conversation going". Source: [Video: Thinking Machines Lab, "Introducing interaction models" (May 2026), YouTube @thinkymachines](https://www.youtube.com/watch?v=A12AVongNN4&t=114s).*
 
 | | |
 |---|---|
