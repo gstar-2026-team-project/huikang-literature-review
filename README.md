@@ -63,12 +63,17 @@ The works closest to the project's benchmarking and post-training, newest first 
 
 **Methods for thinking while acting** (closest to post-training: training models to do better)
 
-- [AgileThinker](solutions/agile-thinker.md) (ICLR 2026): a planning model streams its reasoning while a reactive model reads the partial trace and acts before each deadline. The clearest published design that pairs a fast and a slow model in an LLM game agent.
-- [TORSI](solutions/torsi.md) (Oct 2026): a slow teacher model writes guidance offline and a fast student model plays live on its own; this lifts the fast student's average RealtimeBench score from 13.5 to 24.2 (out of 100).
-- [Thinking Machines interaction models](solutions/tml-interaction-small.md) (2026): a full-duplex model (one that takes input and produces output at the same time) working in 200 ms micro-turns, with an asynchronous background model; strong on speech timing benchmarks but never evaluated as a game player.
-- [Lumine](solutions/lumine.md) (2025): a Genshin Impact agent trained by imitation, with perception at 5 Hz and action chunks at 30 Hz, that plays its long missions in realtime.
-- [Timely-RL](solutions/timely-rl.md) (2026) and [Kyutai interactivity alignment](solutions/kyutai-interactivity-alignment.md) (2026): reinforcement learning with a deadline or timing reward, on static tasks and on speech respectively. These are the nearest existing post-training recipes; nobody has yet trained against a live game clock.
-- [Real-Time Chunking](solutions/real-time-chunking.md) (2025): a robotics method for acting while the next chunk of actions is computed, not yet ported to LLM game agents.
+| Work | Date | Idea | Evaluated on | Eval mode | Headline result |
+|---|---|---|---|---|---|
+| [AgileThinker](solutions/agile-thinker.md) | ICLR 2026 | a planning model streams its reasoning while a reactive model reads the partial trace and acts before each deadline; the clearest published design that pairs a fast and a slow model in an LLM game agent | [Real-Time Reasoning Gym](environments/realtime-gym.md) (Freeway, Snake, Overcooked) | realtime-live, token clock | score from 0 to 1 falls from 0.90 to 0.58 as time pressure rises, against 0.92 to 0.05 for the planning model alone |
+| [TORSI](solutions/torsi.md) | Oct 2026 | a slow teacher model writes guidance offline; a fast student model plays live on its own | [RealtimeBench](environments/realtimebench.md) (6 arcade games) | realtime-live, wall clock | the fast student's average score rises from 13.5 to 24.2 (out of 100); no code yet |
+| [Thinking Machines interaction models](solutions/tml-interaction-small.md) | 2026 | a full-duplex model (input and output at the same time) working in 200 ms micro-turns, with an asynchronous background model that reasons and calls tools | speech timing benchmarks only; never evaluated as a game player | realtime-live (speech) | self-reported: TimeSpeak 64.7, CueSpeak 81.7; no public weights or API |
+| [Lumine](solutions/lumine.md) | 2025 | a Genshin Impact agent trained by imitation (1,731 h of human play); perception at 5 Hz, action chunks at 30 Hz, thinks only when it chooses to | Genshin Impact | realtime-live for long missions; paused for its 141-task benchmark | Mondstadt Act I in 56 min, against 53 min for expert humans; 114 ms to first action without thinking, 234 ms with |
+| [Timely-RL](solutions/timely-rl.md) | 2026 | reinforcement learning (SFT, then GRPO) where the reward is zero if the answer misses a wall-clock deadline | math, GPQA, Jericho text games | static tasks with a deadline (no game clock) | on-time rate on AIME at 0.75x the time budget: 53.3%, against 30.0% for Qwen3-8B |
+| [Kyutai interactivity alignment](solutions/kyutai-interactivity-alignment.md) | 2026 | reinforcement learning (GRPO) with rule-based timing rewards for a full-duplex speech model | Full-Duplex-Bench v1 and v2 | realtime-live (speech) | Moshi's interruption latency falls from 1.377 s to 0.461 s |
+| [Real-Time Chunking](solutions/real-time-chunking.md) | 2025 | a robotics method: start computing the next chunk of actions early, keep the actions that will run during the delay, fill in the rest; not yet ported to LLM game agents | real robots and the Kinetix simulator | realtime-live (robots); injected delay (simulator) | no loss of performance with 200 ms of added delay on real robots |
+
+Timely-RL and Kyutai's work are the nearest existing post-training recipes; nobody has yet trained a model against a live game clock.
 
 ## Key takeaways
 
