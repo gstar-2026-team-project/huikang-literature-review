@@ -56,7 +56,7 @@ The works closest to the project's benchmarking and post-training, newest first 
 | [PokeAgent speedrun track](environments/pokeagent-speedrun.md) | 2025-26 | Pokemon Emerald to the first gym (15 milestones), ranked by wall-clock time | wall clock | winner 40:13, but it used LLM-written scripted sub-policies rather than live play; best pure-LLM harness 1:29:17; top human speedrunner 18 min |
 | [OpenAI Universe](environments/openai-universe.md) | 2016 | Atari, Flash and browser games in a remote desktop: the agent sees pixels and sends keyboard and mouse events | wall clock over VNC, 60 fps | no LLM results (built for reinforcement-learning agents); archived in 2018 in favour of synchronous emulators, but still the closest precedent for this interface |
 
-**Related benchmarks that are not realtime, with designs to avoid or copy**
+**Related benchmarks with designs to avoid or copy**
 
 - [SpeedrunBench](environments/speedrunbench.md) (Oct 2026): scores frames to goal against human world records. Offline, the model edits an input trace (scripted) and gets within 3-7% of the record; online, the game waits for each action (paused-live) and runs take 4-12 times as long as the record. Its demo lets a human race a recorded model run.
 - [Orak](environments/orak.md) (2025): pauses every game during inference; in its StarCraft II ablation without the pause, all models drop from paused scores of 75-100 to 0.
