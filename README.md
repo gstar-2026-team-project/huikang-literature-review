@@ -61,10 +61,10 @@ Visuals are excerpts of each work's published recordings, replays or figures, no
 
 **Related benchmarks with designs to avoid or copy**
 
-| Work | Notes | Visual |
-|---|---|---|
-| [SpeedrunBench](environments/speedrunbench.md) (Oct 2026) | frames to goal vs world records; scripted traces get within 3-7%, live play 4-12x slower | <img src="assets/gifs/speedrunbench.gif" alt="speedrunbench"> |
-| [Polytopia bench](environments/polytopia-bench.md) (Oct 2026) | scripted: the model writes a bot in 40 min, then the game waits for each move; copy its fixed opponent ladder and 2 s forfeit rule | <img src="assets/gifs/polytopia-bench.gif" alt="Model-written bots playing Polytopia"> |
+| Work | Date | What it tests | Clock | Headline result | Visual |
+|---|---|---|---|---|---|
+| [SpeedrunBench](environments/speedrunbench.md) | Oct 2026 | frames to finish games vs human records | game waits; offline traces | scripted traces within 3-7%; live play 4-12x slower | <img src="assets/gifs/speedrunbench.gif" alt="speedrunbench"> |
+| [Polytopia bench](environments/polytopia-bench.md) | Oct 2026 | model writes a Polytopia bot in 40 min | game waits; 2 s per move | GPT-6 Astra 74.9/100; beats RL bot ~3% | <img src="assets/gifs/polytopia-bench.gif" alt="Model-written bots playing Polytopia"> |
 
 **Methods for thinking while acting** (closest to post-training: training models to do better)
 
