@@ -2,15 +2,15 @@
 
 Research date: 10 November 2026.
 
-This is a literature review for a GStar Bootcamp 2026 team project. The project's goal is large language models (LLMs) that can sense, think and act in realtime: models that keep taking in input, reasoning and acting while the world around them keeps moving, instead of having it wait for them. The project plan has three steps:
+This is a literature review for a GStar Bootcamp 2026 team project. The project's goal is large language models (LLMs) that can sense, think and act in realtime: models that keep taking in input, reasoning and acting while the world around them keeps moving, instead of having it wait for them. The project plan has three aspects, worked on together rather than in sequence:
 
-1. **Environments**: build or collect realtime environments, such as games whose clock keeps running while the model thinks.
-2. **Benchmark**: test current models on those environments, to show that they do badly where humans do fine.
-3. **Post-training**: train models to do better on them.
+- **Environments**: build or collect realtime environments, such as games whose clock keeps running while the model thinks.
+- **Benchmarking**: test current models on those environments, to show that they do badly where humans do fine.
+- **Post-training**: train models to do better on them.
 
-The review collects published environments, benchmarks and methods that bear on each step. It is written for the project team and for anyone new to the topic.
+The review collects published environments, benchmarks and methods that bear on each aspect. It is written for the project team and for anyone new to the topic.
 
-**How to use it.** Read this page first. [Play modes and clocks](#play-modes-and-clocks) defines the labels used everywhere in the review, [Most relevant recent research](#most-relevant-recent-research) lists the work closest to steps 2 and 3, and [Key takeaways](#key-takeaways) summarises what the literature shows. For more, go to the two indexes below; each links to one file per work with details, sources and, where one exists, a demo.
+**How to use it.** Read this page first. [Play modes and clocks](#play-modes-and-clocks) defines the labels used everywhere in the review, [Most relevant recent research](#most-relevant-recent-research) lists the work closest to benchmarking and post-training, and [Key takeaways](#key-takeaways) summarises what the literature shows. For more, go to the two indexes below; each links to one file per work with details, sources and, where one exists, a demo.
 
 ## Scope
 
@@ -40,9 +40,9 @@ The clocks used to make an environment realtime-live:
 
 ## Most relevant recent research
 
-The works closest to steps 2 and 3 of the project, newest first within each group. Each name links to its file, which gives the source for its play-mode label and the full details. Note that Realtime-Bench and RealtimeBench are two different benchmarks (see [Caveats](#caveats)).
+The works closest to the project's benchmarking and post-training, newest first within each group. Each name links to its file, which gives the source for its play-mode label and the full details. Note that Realtime-Bench and RealtimeBench are two different benchmarks (see [Caveats](#caveats)).
 
-**Benchmarks that run a clock while the model thinks** (step 2: show that current models do badly)
+**Benchmarks that run a clock while the model thinks** (closest to benchmarking: showing that current models do badly)
 
 | Work | Date | What it tests | Clock | Headline result |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ The works closest to steps 2 and 3 of the project, newest first within each grou
 - [Orak](environments/orak.md) (2025): pauses every game during inference; in its StarCraft II ablation without the pause, all models drop from paused scores of 75-100 to 0.
 - [OpenAI Universe](environments/openai-universe.md) (2016): the original realtime platform with pixel input and keyboard output, abandoned in favour of synchronous emulators; its design is still a useful checklist.
 
-**Methods for thinking while acting** (step 3: train models to do better)
+**Methods for thinking while acting** (closest to post-training: training models to do better)
 
 - [AgileThinker](solutions/agile-thinker.md) (ICLR 2026): a planning model streams its reasoning while a reactive model reads the partial trace and acts before each deadline. The clearest published design that pairs a fast and a slow model in an LLM game agent.
 - [TORSI](solutions/torsi.md) (Oct 2026): a slow teacher model writes guidance offline and a fast student model plays live on its own; this lifts the fast student's average RealtimeBench score from 13.5 to 24.2 (out of 100).
@@ -72,13 +72,13 @@ The works closest to steps 2 and 3 of the project, newest first within each grou
 
 ## Key takeaways
 
-1. **Step 2 (showing that current models do badly) is partly published already.** Between November 2025 and November 2026 a cluster of benchmarks appeared that run the same tasks paused and under a clock: Real-Time Reasoning Gym, GameWorld-RT, OmniGameArena, Realtime-Bench, RealtimeBench, ROAR and LOLPlay. The pattern is consistent: frontier reasoning models lose most of their score when the clock runs (for example 70% paused to 14% wall clock for one model in Realtime-Bench, and about 44 to 1.5 out of 100 in RealtimeBench); more reasoning effort helps when paused and hurts or does nothing live; and fast small models or realtime-API models respond quickly but are too weak.
+1. **Benchmarking current models under a clock is partly published already.** Between November 2025 and November 2026 a cluster of benchmarks appeared that run the same tasks paused and under a clock: Real-Time Reasoning Gym, GameWorld-RT, OmniGameArena, Realtime-Bench, RealtimeBench, ROAR and LOLPlay. The pattern is consistent: frontier reasoning models lose most of their score when the clock runs (for example 70% paused to 14% wall clock for one model in Realtime-Bench, and about 44 to 1.5 out of 100 in RealtimeBench); more reasoning effort helps when paused and hurts or does nothing live; and fast small models or realtime-API models respond quickly but are too weak.
 2. **Pausing is the norm and is often stated only in an appendix.** [Orak](environments/orak.md), [Cradle](environments/cradle.md), [V-MAGE](environments/v-mage.md), [NitroGen](environments/nitrogen.md), [CombatVLA](environments/combatvla.md), [Game-TARS](environments/game-tars.md) (web games), [GameWorld](environments/gameworld.md) (main mode), [OmniGameArena](environments/omnigamearena.md) (main mode) and [VideoGameBench-Lite](environments/videogamebench.md) all pause the game during inference. Several "human-level" game results hold only under pause.
 3. **Scripted routes win when allowed.** Offline trace editing gets within 3-7% of speedrun world records where live play takes 4-12 times as long, and the PokeAgent speedrun winner used LLM-written scripts. A realtime benchmark must rule these out to measure what the model can do while in the loop.
 4. **What is still missing on the environment side**: human baselines under the same clock and interface, and short tasks that are easy for humans and use pixel input and low-level actions (keys, mouse, buttons). Good open starting points exist: [MiniWoB++](environments/miniwob-plusplus.md) (natively wall-clock, with a reward that decays over time), [ViZDoom](environments/vizdoom.md) in async mode, Atari and small arcade games behind a wall-clock wrapper, GameWorld-RT, and the Realtime-Bench harness with its wall, token and paused clocks.
 5. **Four clock designs are in use**: wall clock, token clock, latency injection, and paused as the control (see [Play modes and clocks](#play-modes-and-clocks)). Token clocks and latency injection are reproducible and hardware independent, which matters for training.
 6. **The recurring scaffold is a fast reactive loop plus a slow asynchronous thinker** ([HLA](solutions/hla.md), [DPT-Agent](solutions/dpt-agent.md), AgileThinker, [Latent Bridge](solutions/latent-bridge.md), the Thinking Machines background model). When the game runs at human reaction speeds, the fast loop is always a hand-written executor or a second model.
-7. **Step 3 (post-training models to do better) is open.** No paper was found that post-trains a reasoning LLM against a live game clock and reports better realtime scores. The nearest pieces are game models trained by imitation (Lumine), deadline-aware reinforcement learning on static tasks (Timely-RL), teaching through the prompt (TORSI), and reinforcement learning on timing rewards for speech models (Kyutai).
+7. **Post-training for realtime play is open.** No paper was found that post-trains a reasoning LLM against a live game clock and reports better realtime scores. The nearest pieces are game models trained by imitation (Lumine), deadline-aware reinforcement learning on static tasks (Timely-RL), teaching through the prompt (TORSI), and reinforcement learning on timing rewards for speech models (Kyutai).
 8. **No interaction or full-duplex model has been evaluated as a game player**, and none has an output channel for actions. Robotics has mature methods for acting while inference runs (action chunking, real-time chunking, delay-conditioned training) that have not been ported to LLM game agents.
 
 ## Caveats

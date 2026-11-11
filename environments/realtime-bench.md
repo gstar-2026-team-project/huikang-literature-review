@@ -42,6 +42,6 @@ Visited 10 November 2026 in a headless browser.
 
 ## Fit
 
-realtime yes; verifiable yes; single yes; human-easy asserted by the authors but not measured; short yes. This is the closest existing work to step 2 of the project this review supports (benchmarking current models to show they do badly under a clock; see the [home page](../README.md)), and the three-clock protocol is worth copying. Its gaps are the missing human baseline, the 1 FPS observation rate, and that half the tasks are GUI workflows rather than reflex tasks.
+realtime yes; verifiable yes; single yes; human-easy asserted by the authors but not measured; short yes. This is the closest existing work to the project's benchmarking of current models under a clock (see the [home page](../README.md)), and the three-clock protocol is worth copying. Its gaps are the missing human baseline, the 1 FPS observation rate, and that half the tasks are GUI workflows rather than reflex tasks.
 
 Related: [RealtimeBench](realtimebench.md) (a different paper with a near-identical name); [Supporting evidence that more reasoning hurts under a clock](../solutions/README.md#supporting-evidence-that-more-reasoning-hurts-under-a-clock); [gpt-realtime-2](../solutions/gpt-realtime-2.md); [Gemini Live](../solutions/gemini-live.md)

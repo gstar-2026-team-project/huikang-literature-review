@@ -17,7 +17,7 @@ Kyutai interactivity alignment runs GRPO on the text stream of Moshi and Persona
 
 ## Details
 
-- **Kyutai interactivity alignment** (Ohashi, Zeghidour, Defossez, Kharitonov). GRPO on the text stream only, with rule-based timing rewards computed from sampled continuations (pause handling, response delay, backchannel timing) and a KL anchor to the frozen model. Moshi interruption latency 1.377 s to 0.461 s; PersonaPlex turn-taking latency 0.219 s to 0.079 s. The closest published analogue of step 3 of the project this review supports (post-training models to do better under a clock; see the [home page](../README.md)); the recipe transfers if the reward is a game score and the segment is a short episode.
+- **Kyutai interactivity alignment** (Ohashi, Zeghidour, Defossez, Kharitonov). GRPO on the text stream only, with rule-based timing rewards computed from sampled continuations (pause handling, response delay, backchannel timing) and a KL anchor to the frozen model. Moshi interruption latency 1.377 s to 0.461 s; PersonaPlex turn-taking latency 0.219 s to 0.079 s. The closest published analogue of the project's post-training for realtime play (see the [home page](../README.md)); the recipe transfers if the reward is a game score and the segment is a short episode.
 
 ## Demo
 

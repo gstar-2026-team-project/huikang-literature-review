@@ -413,7 +413,7 @@ None of these has actions; slow inference is not punished unless the metric is t
 
 ## Shortlist for the team's first environments
 
-Candidates for step 1 of the project (build or collect realtime environments). Ranked by fit against the five properties under [How to read these files](#how-to-read-these-files) (realtime, verifiable, single player, easy for humans, short horizon), and by engineering cost.
+Candidates for the project's first environments. Ranked by fit against the five properties under [How to read these files](#how-to-read-these-files) (realtime, verifiable, single player, easy for humans, short horizon), and by engineering cost.
 
 1. **[Realtime-Bench](realtime-bench.md) public tasks (run as is).** MIT licence, wall/token/paused clocks already implemented, single agent, five-minute cap, programmatic scoring. Use it as the external reference point and add the missing piece: a human baseline under the same wall clock. Weakness: 1 FPS screenshots and a GUI action space make it a test of slow reactions.
 2. **[MiniWoB++](miniwob-plusplus.md) with the original time-decayed reward.** Realtime out of the box, 10 s episodes, graded speed score, tasks humans finish in 1-3 s, DOM text and screenshot channels. Include the five dynamic tasks that paused evaluations drop (chase-circle, moving-items, simon-says, button-delay, hover-shape). Cheapest to stand up and cheap enough to train on.
