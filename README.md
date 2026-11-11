@@ -64,7 +64,7 @@ Visuals are excerpts of each work's published recordings, replays or figures, no
 | Work | Notes | Visual |
 |---|---|---|
 | [SpeedrunBench](environments/speedrunbench.md) (Oct 2026) | frames to goal vs world records; scripted traces get within 3-7%, live play 4-12x slower | <img src="assets/gifs/speedrunbench.gif" alt="speedrunbench"> |
-| [Orak](environments/orak.md) (2025) | pauses every game; without the pause, StarCraft II scores fall from 75-100 to 0 | <img src="assets/gifs/orak.gif" alt="orak"> |
+| [Polytopia bench](environments/polytopia-bench.md) (Oct 2026) | scripted: the model writes a bot in 40 min, then the game waits for each move; copy its fixed opponent ladder and 2 s forfeit rule | <img src="assets/gifs/polytopia-bench.gif" alt="Model-written bots playing Polytopia"> |
 
 **Methods for thinking while acting** (closest to post-training: training models to do better)
 

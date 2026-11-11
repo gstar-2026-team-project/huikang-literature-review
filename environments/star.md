@@ -20,11 +20,11 @@ STAR is a 1v1 hex wargame with turn-based and real-time modes.
 | Human reference | none |
 | Open source | open repo |
 | Convertible to realtime-live | n/a |
-| Basis | code: README "Real-time keeps the world ticking while the model thinks"; `starbench.py --mode turn_based|real_time`; paper §4.2-4.3 |
+| Basis | code: README "Real-time keeps the world ticking while the model thinks"; `starbench.py --mode turn_based` or `--mode real_time`; paper §4.2-4.3 |
 
 ## Details
 
-- **STAR** (Mar 2026), [arXiv 2603.09337](https://arxiv.org/abs/2603.09337): 1v1 hex wargame with turn-based and real-time modes; a thinking model falls from rank 1 to 17 in real time. The repo README defines the modes: "Real-time keeps the world ticking while the model thinks (latency changes outcomes); turn-based is the reproducible bench" (`starbench.py --mode turn_based|real_time`).
+- **STAR** (Mar 2026), [arXiv 2603.09337](https://arxiv.org/abs/2603.09337): 1v1 hex wargame with turn-based and real-time modes; a thinking model falls from rank 1 to 17 in real time. The repo README defines the modes: "Real-time keeps the world ticking while the model thinks (latency changes outcomes); turn-based is the reproducible bench" (`starbench.py --mode turn_based` or `--mode real_time`).
 
 ## Demo
 
