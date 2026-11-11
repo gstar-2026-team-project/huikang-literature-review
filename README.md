@@ -42,7 +42,7 @@ The clocks used to make an environment realtime-live:
 
 The works closest to the project's benchmarking and post-training, newest first within each group. Each name links to its file, which gives the source for its play-mode label and the full details. Note that Realtime-Bench and RealtimeBench are two different benchmarks (see [Caveats](#caveats)).
 
-**Benchmarks that run a clock while the model thinks** (closest to benchmarking: showing that current models do badly)
+**Realtime benchmarks and environments**: the task itself runs in realtime, so the game keeps moving on its own clock (closest to benchmarking: showing that current models do badly)
 
 | Work | Date | What it tests | Clock | Headline result |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ The works closest to the project's benchmarking and post-training, newest first 
 | [OmniGameArena](environments/omnigamearena.md) | Jun 2026 | 12 Unreal Engine 5 games | paused, and inference time charged to the game clock | GPT-5.5 on the SharedFloor game: 0.368 paused, 0.048 with latency charged |
 | [GameWorld-RT](environments/gameworld.md) | Apr 2026 | 34 browser games with state-verified scoring and human baselines | paused (main) and wall clock (RT) | humans 55-77% success; the realtime (RT) mode was run on two Qwen3-VL models only |
 | [Real-Time Reasoning Gym](environments/realtime-gym.md) | Nov 2025 | Freeway, Snake, Overcooked at three cognitive loads | one environment step per N generated tokens | score from 0 to 1: a planning agent falls from 0.92 to 0.05 as time pressure rises; [AgileThinker](solutions/agile-thinker.md) falls from 0.90 to 0.58 |
+| [PokeAgent speedrun track](environments/pokeagent-speedrun.md) | 2025-26 | Pokemon Emerald to the first gym (15 milestones), ranked by wall-clock time | wall clock | winner 40:13, but it used LLM-written scripted sub-policies rather than live play; best pure-LLM harness 1:29:17; top human speedrunner 18 min |
+| [OpenAI Universe](environments/openai-universe.md) | 2016 | Atari, Flash and browser games in a remote desktop: the agent sees pixels and sends keyboard and mouse events | wall clock over VNC, 60 fps | no LLM results (built for reinforcement-learning agents); archived in 2018 in favour of synchronous emulators, but still the closest precedent for this interface |
 
-**Related benchmarks with designs to avoid or copy**
+**Related benchmarks that are not realtime, with designs to avoid or copy**
 
 - [SpeedrunBench](environments/speedrunbench.md) (Oct 2026): scores frames to goal against human world records. Offline, the model edits an input trace (scripted) and gets within 3-7% of the record; online, the game waits for each action (paused-live) and runs take 4-12 times as long as the record. Its demo lets a human race a recorded model run.
-- [PokeAgent speedrun track](environments/pokeagent-speedrun.md) (2025-26): the game runs while the agent reasons, but the winner used LLM-written scripted sub-policies, not live play.
 - [Orak](environments/orak.md) (2025): pauses every game during inference; in its StarCraft II ablation without the pause, all models drop from paused scores of 75-100 to 0.
-- [OpenAI Universe](environments/openai-universe.md) (2016): the original realtime platform with pixel input and keyboard output, abandoned in favour of synchronous emulators; its design is still a useful checklist.
 
 **Methods for thinking while acting** (closest to post-training: training models to do better)
 
