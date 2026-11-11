@@ -1,6 +1,8 @@
 # Environments for realtime LLM agents
 
-Research date: 10 November 2026. Part 1 of the review; see [README.md](../README.md) for scope and [solutions](../solutions/README.md) for Part 2.
+Research date: 10 November 2026. Part 1 of the review; see the [home page](../README.md) for the project this review supports and its scope, and [solutions](../solutions/README.md) for Part 2.
+
+The review supports a GStar Bootcamp 2026 team project on LLMs that sense, think and act in realtime. The project plans to build or collect realtime environments, benchmark current models on them, and post-train models to do better. This part covers the environments: games, benchmarks and near neighbours where the world can keep moving while the model thinks.
 
 This folder has one file per environment. This index holds the definitions, the comparison tables, a list of all environment files by play mode, the general conversion notes, the framing papers, the shortlist and the items that could not be reviewed.
 
@@ -8,9 +10,11 @@ This folder has one file per environment. This index holds the definitions, the 
 
 **Play mode** (how the agent actually plays, checked in the paper or repo where possible):
 
-- **Realtime-live (RL)**: the model picks actions during play and the environment clock runs while it thinks.
+- **Realtime-live (RL)**: the model picks actions during play and the environment clock runs while it thinks. This is the mode the project targets.
 - **Paused-live (PL)**: the model picks each action but the environment waits for it.
 - **Scripted (S)**: the model writes a program, policy, macro or input trace that then plays.
+
+The abbreviation RL means realtime-live only in the Play mode columns of the tables. Elsewhere, as in "RL-era platforms" or "framing papers from RL", RL means reinforcement learning.
 
 **Clock model** vocabulary used in these files:
 
@@ -22,11 +26,16 @@ This folder has one file per environment. This index holds the definitions, the 
 
 **Basis.** Every play-mode and clock label rests on a primary source that was opened and read: the repo's step loop ("code: <file>") or the paper's full text including appendices ("paper: <section>"). The Basis column of each table, and the Basis row of each environment file, gives the file or section and a short quoted phrase. Where a paper is silent and no code exists, the label is the one that follows from what the source does say, and the entry states what is missing. Items with nothing readable are listed under ["Not reviewable"](#not-reviewable) at the end of this index. Numbers were extracted from arXiv HTML pages by a summarising fetch tool, not read off PDF tables; re-check any figure before quoting it in a paper. Model names from 2026 papers (for example GPT-6 Astra, Claude Opus 5, Jev) are reproduced as printed in those papers. Where an entry says "code read", the step loop was checked in a clone of the public repo on 10 November 2026 and the file path is given.
 
-**Fit** is scored against the team's five preferences: realtime, verifiable, single player, human-easy, short horizon.
+**Fit** is scored against the five properties the project team wants in its first environments: realtime, verifiable (success can be checked automatically), single player, easy for humans, and short horizon.
 
 **Environment files.** Each file has a field table (year, authors, links, play mode per mode, clock, observation, action, players, horizon, human reference, open source, convertibility, basis), then the details, the fit line where there is one, and links to related environments and to the [solutions](../solutions/README.md) files. In the files, play modes are spelled out.
 
-**Demos.** Every environment file whose work has a public demo now has a Demo row in its field table (after Links) and a `## Demo` section after the details, recorded from headless-browser visits on 10 November 2026. Each bullet says what was done, what the demo shows and what it shows about play mode, and whether it was seen in a recording or run live. Where a demo conflicts with a file's play-mode label, the Demo section has a "Note:" bullet and the label is unchanged. Human-playable demos: [ARC-AGI-3](arc-agi-3.md), [MiniWoB++](miniwob-plusplus.md), [Overcooked-AI](overcooked-ai.md) (with a small RL partner), [Realtime-Bench](realtime-bench.md) (some game tasks, e.g. Gomoku), [SpeedrunBench](speedrunbench.md) (race a recorded agent run in SuperTux), [TALES](tales.md) (Zork I), [V-MAGE](v-mage.md) (Hugging Face Space, once woken) and [VideoGameBench](videogamebench.md) (practice games); [ROAR](roar.md) offers downloadable builds to play locally. Demos showing an LLM or VLM agent playing live against a running clock: [LLM Colosseum](llm-colosseum.md) (run live in the browser; the round timer ran from 83 to 59 while model calls were pending), and in recordings [Realtime-Bench](realtime-bench.md) (wall-clock trajectories with tick numbers and timestamps), [LOLPlay](lolplay.md), [StreetFighter (Win Fast or Lose Slow)](streetfighter-win-fast-or-lose-slow.md), [GPTNT](gptnt.md), [OmniGameArena](omnigamearena.md), [DPT-Agent Overcooked](dpt-agent-overcooked.md), [HLA Overcooked](hla-overcooked.md), [GameVerse](gameverse.md), [VideoGameBench](videogamebench.md), [ROAR](roar.md), [MINDcraft](mindcraft.md), [Lumine](lumine.md), [LMGame-Bench](lmgame-bench.md) (early Mario clips only) and [Alpha Arena](alpha-arena.md) (archived trading logs); [RealtimeGym](realtime-gym.md) replays runs under its token clock. Speech and video timing demos with a running clock: [Game-Time](game-time.md), [Full-Duplex-Bench](full-duplex-bench.md) and [Towards Streaming Perception](towards-streaming-perception.md). Non-LLM agents on a running clock: [Overcooked-AI](overcooked-ai.md), [OpenAI Universe](openai-universe.md), [stable-retro](stable-retro.md), [tmrl / rtgym](tmrl-rtgym.md), [Gran Turismo Sophy](gran-turismo-sophy.md) and [Real-Time Chunking (Kinetix)](real-time-chunking-kinetix.md) (real-robot video).
+**Demos.** Every environment file whose work has a public demo has a Demo row in its field table (after Links) and a `## Demo` section after the details, recorded from headless-browser visits on 10 November 2026. Each bullet says what was done, what the demo shows and what it shows about play mode, and whether it was seen in a recording or run live. Where a demo conflicts with a file's play-mode label, the Demo section has a "Note:" bullet and the label is unchanged. The demos fall into these groups:
+
+- Human-playable demos: [ARC-AGI-3](arc-agi-3.md), [MiniWoB++](miniwob-plusplus.md), [Overcooked-AI](overcooked-ai.md) (with a small RL partner), [Realtime-Bench](realtime-bench.md) (some game tasks, e.g. Gomoku), [SpeedrunBench](speedrunbench.md) (race a recorded agent run in SuperTux), [TALES](tales.md) (Zork I), [V-MAGE](v-mage.md) (Hugging Face Space, once woken) and [VideoGameBench](videogamebench.md) (practice games); [ROAR](roar.md) offers downloadable builds to play locally.
+- Demos of an LLM or vision-language model (VLM) agent playing live against a running clock: [LLM Colosseum](llm-colosseum.md) (run live in the browser; the round timer ran from 83 to 59 while model calls were pending), and in recordings [Realtime-Bench](realtime-bench.md) (wall-clock trajectories with tick numbers and timestamps), [LOLPlay](lolplay.md), [StreetFighter (Win Fast or Lose Slow)](streetfighter-win-fast-or-lose-slow.md), [GPTNT](gptnt.md), [OmniGameArena](omnigamearena.md), [DPT-Agent Overcooked](dpt-agent-overcooked.md), [HLA Overcooked](hla-overcooked.md), [GameVerse](gameverse.md), [VideoGameBench](videogamebench.md), [ROAR](roar.md), [MINDcraft](mindcraft.md), [Lumine](lumine.md), [LMGame-Bench](lmgame-bench.md) (early Mario clips only) and [Alpha Arena](alpha-arena.md) (archived trading logs); [RealtimeGym](realtime-gym.md) replays runs under its token clock.
+- Speech and video timing demos with a running clock: [Game-Time](game-time.md), [Full-Duplex-Bench](full-duplex-bench.md) and [Towards Streaming Perception](towards-streaming-perception.md).
+- Non-LLM agents on a running clock: [Overcooked-AI](overcooked-ai.md), [OpenAI Universe](openai-universe.md), [stable-retro](stable-retro.md), [tmrl / rtgym](tmrl-rtgym.md), [Gran Turismo Sophy](gran-turismo-sophy.md) and [Real-Time Chunking (Kinetix)](real-time-chunking-kinetix.md) (real-robot video).
 
 ## Environment files by primary play mode
 
@@ -196,7 +205,7 @@ This folder has one file per environment. This index holds the definitions, the 
 
 ## Comparison table
 
-Play mode: RL = realtime-live, PL = paused-live, S = scripted. "Conv." = convertible to realtime-live (n/a if already realtime).
+Play mode: RL = realtime-live, PL = paused-live, S = scripted. "Human ref." = human reference score. "Conv." = convertible to realtime-live (n/a if already realtime).
 
 ### Benchmarks built for LLM/VLM agents
 
@@ -308,7 +317,7 @@ The common conversion is a wrapper that steps the simulator in a timer thread at
 1. Observation staleness becomes variable; observations need timestamps and the harness should log action age.
 2. Scores depend on hardware and API latency. The fixes in the literature are a token clock, latency injection, or a fixed delay in frames.
 3. The default action while thinking (no-op versus repeat-last) changes results a lot and must be specified.
-4. Human reference scores for these games were collected in real time, so realtime model scores are the like-for-like comparison; paused scores are not.
+4. Human reference scores for these games were collected with the game running in realtime, so realtime model scores are the like-for-like comparison; paused scores are not.
 
 ### Turn-based or untimed (contrast set)
 
@@ -404,18 +413,18 @@ None of these has actions; slow inference is not punished unless the metric is t
 
 ## Shortlist for the team's first environments
 
-Ranked by fit against realtime, verifiable, single player, human-easy and short horizon, and by engineering cost.
+Candidates for step 1 of the project (build or collect realtime environments). Ranked by fit against the five properties under [How to read these files](#how-to-read-these-files) (realtime, verifiable, single player, easy for humans, short horizon), and by engineering cost.
 
-1. **[Realtime-Bench](realtime-bench.md) public tasks (run as is).** MIT, wall/token/paused clocks already implemented, single agent, five-minute cap, programmatic scoring. Use it as the external reference point and add the missing piece: a human baseline under the same wall clock. Weakness: 1 FPS screenshots and a GUI action space make it a test of slow reactions.
-2. **[MiniWoB++](miniwob-plusplus.md) with the original time-decayed reward.** Realtime out of the box, 10 s episodes, graded speed score, humans at 1-3 s, DOM text and screenshot channels. Include the five dynamic tasks that paused evaluations drop (chase-circle, moving-items, simon-says, button-delay, hover-shape). Cheapest to stand up and cheap enough to train on.
-3. **[ViZDoom](vizdoom.md) basic scenarios in `ASYNC_PLAYER`.** Native 35 tics/s wall clock with adjustable tic rate, MIT, seconds-long episodes, and separately switchable pixel, depth, label, audio and game-variable channels, which suits multi-channel input experiments. Sweep the tic rate to get a score-versus-speed curve.
+1. **[Realtime-Bench](realtime-bench.md) public tasks (run as is).** MIT licence, wall/token/paused clocks already implemented, single agent, five-minute cap, programmatic scoring. Use it as the external reference point and add the missing piece: a human baseline under the same wall clock. Weakness: 1 FPS screenshots and a GUI action space make it a test of slow reactions.
+2. **[MiniWoB++](miniwob-plusplus.md) with the original time-decayed reward.** Realtime out of the box, 10 s episodes, graded speed score, tasks humans finish in 1-3 s, DOM text and screenshot channels. Include the five dynamic tasks that paused evaluations drop (chase-circle, moving-items, simon-says, button-delay, hover-shape). Cheapest to stand up and cheap enough to train on.
+3. **[ViZDoom](vizdoom.md) basic scenarios in `ASYNC_PLAYER`.** Native 35 tics/s wall clock with adjustable tic rate, MIT licence, seconds-long episodes, and separately switchable pixel, depth, label, audio and game-variable channels, which suits multi-channel input experiments. Sweep the tic rate to get a score-versus-speed curve.
 4. **A small arcade suite on a three-clock wrapper: [Atari](ale-atari.md) (Freeway, Pong, Breakout), [Flappy Bird](flappy-bird.md), [V-MAGE](v-mage.md) games, [SuperTux](speedrunbench.md) 1-1.** All open, short, single-player and human-easy, with human references (Atari human scores, V-MAGE players, speedrun records). Wrap with [`rtgym`](tmrl-rtgym.md) or the [RealtimeGym](realtime-gym.md) harness and offer wall, token and paused clocks. Text-state variants (RAM, numeric features) allow a text-only model track alongside pixels.
-5. **[GameWorld-RT](gameworld.md) browser games.** State-verified scoring with novice and expert human baselines, short tasks, RT mode already exists but has been run on two models only. Depends on confirming the code release.
+5. **[GameWorld-RT](gameworld.md) browser games.** State-verified scoring with novice and expert human baselines, short tasks, RT mode already exists but has been run on two models only. Code is open ([gameworld-project/gameworld](https://github.com/gameworld-project/gameworld)).
 6. **[RealtimeGym](realtime-gym.md) (Freeway, Snake, Overcooked).** Use as the training-friendly text environment: token clock gives reproducible rollouts for RL, and [AgileThinker](../solutions/agile-thinker.md) is a ready baseline. Add a human baseline and faster tick settings.
-7. **[ROAR](roar.md) single-agent level.** Open Unity build with pixels, text and audio, 40 ms and 250 ms ticks. The best fit for the "multi-channel input and output" hypotheses once the simpler environments are working.
+7. **[ROAR](roar.md) single-agent level.** Open Unity build with pixels, text and audio, 40 ms and 250 ms ticks. The best fit for testing the project's expectation that input and output over several channels at once (for example pixels, text and audio) is hard for LLMs, once the simpler environments are working.
 8. **[DareFightingICE](fightingice.md) versus a fixed bot.** Keep in reserve for an audio-channel task with a built-in 15-frame reaction delay.
 
-Later, for pairwise work: [DPT-Agent's realtime Overcooked](dpt-agent-overcooked.md), the [UPenn deadline negotiation](real-time-deadlines-negotiation.md), [GPTNT](gptnt.md).
+Later, for two-agent tasks such as negotiation: [DPT-Agent's realtime Overcooked](dpt-agent-overcooked.md), the [UPenn deadline negotiation](real-time-deadlines-negotiation.md), [GPTNT](gptnt.md).
 
 Design choices the evidence supports:
 - Offer three clocks on the same tasks (wall, token or injected, paused). The paused score is the control that shows the failure is temporal.

@@ -26,7 +26,7 @@ ROAR is a Unity arena shooter run as a "Multi-Agent Asynchronous Gym" in which t
 - Play mode: "Multi-Agent Asynchronous Gym". The environment and each agent run in separate threads; the environment advances every fixed interval without waiting for inference; a no-op applies if no fresh action is in the buffer. Tested at 250 ms and 40 ms ticks, plus a turn-based baseline. Code read (`roar_evaluation/async_env_runner.py`): the environment thread sleeps until `next_time` on `time.perf_counter()`, reads each agent's action buffer, calls `env.step`, then adds `step_interval` (default 0.04 s) to `next_time`. An action is consumed once; if none has been written since the last tick the default action is used. So the tick is enforced against the wall clock and the environment never waits for a model. The turn-based baseline is a plain `env.step(action)` loop (`roar_benchmark.py`, `start_run_turn_based`).
 - Observation: RGB 512x512, depth, JSON text state, flat vector, and audio (sound-source list or raw mix). Action: 7-dim (move, yaw, pitch, fire, jump, minimap). 5-minute episodes. Score in 0-1. No human baseline; a heuristic bot and a random policy are the references.
 - Results (turn-based / 250 ms / 40 ms): Gemini-3.1 Pro 0.87 / 0.44 / 0.34 (P50 latency 3.2 s); GPT-5.4 0.47 / 0.26 / 0.19; Gemma-4 31B 0.39 / 0.33 / 0.19; small local models (65-97 ms latency) about 0.07-0.10; heuristic bot about 0.33. Under realtime the best model is level with a rule bot. ReAct-style scaffolds help turn-based play but not realtime.
-- Shortlist rank 7 (ROAR single-agent level): open Unity build with pixels, text and audio, 40 ms and 250 ms ticks. The best fit for the "multi-channel input and output" hypotheses once the simpler environments are working.
+- Shortlist rank 7 (ROAR single-agent level): open Unity build with pixels, text and audio, 40 ms and 250 ms ticks. The best fit for testing the project's expectation that input and output over several channels at once (pixels, text, audio) is hard for LLMs, once the simpler environments are working.
 
 ## Demo
 
@@ -38,6 +38,6 @@ Visited 10 November 2026 in a headless browser.
 
 ## Fit
 
-realtime yes; verifiable yes; single-player level exists; human-easy plausible, unmeasured; short (5 min). The multi-channel observation (pixels, text, audio) matches the team's multi-channel hypothesis.
+realtime yes; verifiable yes; single-player level exists; human-easy plausible, unmeasured; short (5 min). The multi-channel observation (pixels, text, audio) matches the project's expectation that several input channels at once are hard for LLMs (see the [home page](../README.md)).
 
 Related: [TowerMind](towermind.md) (same group; ROAR is its realtime follow-up); [Unity ML-Agents](unity-ml-agents.md)

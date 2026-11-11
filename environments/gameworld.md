@@ -27,7 +27,7 @@ GameWorld is a benchmark of 34 browser games and 170 tasks whose main mode pause
 - Play modes: the main benchmark is paused-live (the browser sandbox pauses the game during inference). GameWorld-RT keeps the game running (wall clock). RT was run only for two Qwen3-VL models.
 - Scoring: state-verified through a JavaScript bridge exposing 233 game-state fields; success rate and normalised progress. Human reference under a 100-action budget: novice 55.3 SR / 64.1 PG, expert 77.1 / 82.6.
 - Results: paused best is Gemini-3-Flash-Preview 21.2 SR / 41.9 PG at 5.5-12.8 s per step. RT: Qwen3-VL-235B 17.1 SR at 6.2 s/step; Qwen3-VL-30B 15.6 SR at 2.4 s/step.
-- Shortlist rank 5 (GameWorld-RT browser games): state-verified scoring with novice and expert human baselines, short tasks, RT mode already exists but has been run on two models only. Depends on confirming the code release.
+- Shortlist rank 5 (GameWorld-RT browser games): state-verified scoring with novice and expert human baselines, short tasks, RT mode already exists but has been run on two models only. Code is open ([gameworld-project/gameworld](https://github.com/gameworld-project/gameworld)).
 
 ## Demo
 

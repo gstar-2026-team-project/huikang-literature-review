@@ -1,5 +1,5 @@
 title: Realtime LLM literature review
-description: Environments and solutions for LLMs that sense, think and act in real time
+description: Environments and solutions for LLMs that sense, think and act in realtime
 theme: jekyll-theme-primer
 plugins:
   - jekyll-relative-links
